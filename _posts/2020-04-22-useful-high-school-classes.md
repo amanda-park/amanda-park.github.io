@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Useful High School Classes I Took"
-date: 2020-04-26
+date: 2020-04-22
 ---
 
 Recently I've been thinking back to my earlier educational experiences, way before I ever thought of attending grad school. I thought about high school, a time of my life I generally don't like to think about very often. I wondered just what happened to me back then that ended up positively informing my behaviors as the adult I am today, and I thought of classes that played a role in that process. The ones I identified as useful in that regard are below: 

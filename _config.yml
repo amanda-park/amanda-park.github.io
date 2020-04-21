@@ -1,6 +1,6 @@
 name: Amanda Park
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: minima
 
 defaults:
 - 

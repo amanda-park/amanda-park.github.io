@@ -6,7 +6,7 @@ tags: [self-improvement, top-10, books]
 ---
 These books are going to be listed in the order I initially read them. You may notice a theme in these books regarding human needs, emotions, habit development, and self-acceptance. None of these are specific to my educational experiences, so I expect that most people would benefit from checking these books out.
 
-## Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
+### Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
 
 __Initially read__: 2017
 
@@ -18,7 +18,7 @@ But I felt like my introversion was "wrong". In my teens and early 20s, I also s
 
 Eventually I arrived at a point I was comfortable with socially. But even still, I was an introvert. Large social gatherings were draining, and I recharged by being alone. I wondered what I was doing wrong to have not fixed that "flaw" within myself. It wasn't until I read this book that I was finally able to drill the concept into my brain that being an introvert was okay and not a metaphorical wall I had to keep trying to climb over. 
 
-## Tribe: On Homecoming and Belonging by Sebastian Junger
+### Tribe: On Homecoming and Belonging by Sebastian Junger
 
 __Initially read__: 2017
 
@@ -28,7 +28,7 @@ Above, I confessed to being an introvert and my struggles related to that. I rea
 
 When the going gets tough, I've had a tendency in the past to try and weather storms alone. American culture and my upbringing had generally dragged me towards that, but it's never been a psychologically satisfying approach to handle things in a lone wolf manner. Having a group of people that you can rely on in times of need (whether it be friends, family, or a church) provides a sense of security that humans have always relied on in order to get by. This book discusses how isolating Western civilization can be for people and ways to be more connected with others. While the specifics of the book are no longer at the forefront of my mind, the overall importance of social connection made me value socializing in a way I hadn't previously and relying on people in times of need.
 
-## The Body Keeps the Score by Bessel van der Kolk
+### The Body Keeps the Score by Bessel van der Kolk
 
 __Initially read__: 2017
 
@@ -38,7 +38,7 @@ This book really helped me get a more holistic understanding of the struggles th
 
 I have this book to thank for introducing me to EMDR therapy, which I ended up undergoing in 2019 after experiencing a traumatic event. If it weren't for this book making me aware of its existence and the benefits of said therapy, I certainly would not be where I am today. 
 
-## Why We Sleep by Matthew Walker
+### Why We Sleep by Matthew Walker
 
 __Initially read__: 2017
 
@@ -50,7 +50,7 @@ However, we are also the only creatures that purposefully deprive themselves of 
 
 Because of this book and his suggestions, I have adopted two major habits that have improved my life for the better: waking up and going to bed at the same time every day (yes, even on weekends) and refusing to drink coffee. I've not always been perfect at sticking to the above, of course. But I have found that I'm happier and more productive when I manage to.
 
-## Feeling Good: The New Mood Therapy by David Burns
+### Feeling Good: The New Mood Therapy by David Burns
 
 __Initially read__: 2018
 
@@ -60,7 +60,7 @@ An oldie, but a goodie. Cognitive behavioral therapy, also known as CBT, is all 
 
 The main benefit I derived was identifying when my brain went down a slippery slope of logic and stopping it before it negatively impacted my mood. The 5 Whys approach from this book (also known as root cause analysis) has also helped me determine the true cause of my distorted thinking many times.
 
-## Emotional First Aid by Guy Winch
+### Emotional First Aid by Guy Winch
 
 __Initially read__: 2019
 
@@ -70,7 +70,9 @@ Many people are taught growing up the importance of physical first aid when thin
 
 The same cannot be said for emotions. Often children are expected to learn how to deal with emotions on their own and often develop maladaptive techniques for coping (eating your feelings being an example of a common technique). This book covers how to cope with common feelings such as rejection, loneliness, guilt, failure, and more in ways that will allow you to treat the emotional wound and recover, rather than letting the wound fester and spiraling into something such as depression. The practical steps given to help a specific emotion heal make this one incredibly useful, as at some point everyone will deal with the emotions discussed in the book.
 
-## Atomic Habits by James Clear
+### Atomic Habits by James Clear
+
+![Atomic Habits](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg)
 
 __Initially read__: 2019
 
@@ -80,7 +82,9 @@ This book is the ultimate step-by-step guide to understanding how to develop hab
 
 I initially read this book in 2019, and it was a game-changer for me. By implementing some of the principles that were discussed in this book I was able to develop the necessary habits needed to obtain a full-time job after grad school in my field. For example, I became disciplined enough to send out a certain number of applications every day for positions and also carved out time to further develop my skillset in places I felt it was necessary to improve. At my workplace we've set up a book club and this book is the first one we're reading together, and I look forward to checking this book out again to chew on the concepts I missed the first time.
 
-## The Power of Vulnerability by Brene Brown
+### The Power of Vulnerability by Brene Brown
+
+![Book Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417188663l/23500254.jpg)
 
 __Initially read__: 2019
 
@@ -92,7 +96,9 @@ Her book found its way to me after I had finished grad school and was still on t
 
 Learning to be vulnerable is a process and I certainly would not say I have "made it" by any means, but I've decided to make it a priority in my life going forward. With doing so, it has helped me determine the types of people I want to have around going forward in my life and allowed me to live a life that I can look back on and be proud of.
 
-## Ultralearning by Scott H. Young
+### Ultralearning by Scott H. Young
+
+![Book](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554211384l/44770129._SY475_.jpg)
 
 __Initially read__: 2019
 
@@ -102,7 +108,7 @@ I wish this book had been published before I graduated with my Master's degree, 
 
 Some of the suggestions in his book I used throughout my education to good results, such as spaced repetition with flashcard apps such as Anki to memorize essential mathematical formulas. However, his book taught me that I didn't always tackle my weaknesses in an appropriate way, especially when I struggled in grad school with certain classes. When I wasn't able to properly understand a certain professor's lecture I couldn't identify where the gap was that caused the confusion. Therefore I wasn't able to remedy it, leading to less than optimal results. I suspect if I had read this book I could have approached this more optimally. 
 
-## Trauma Sensitive Mindfulness by David Treleaven
+### Trauma Sensitive Mindfulness by David Treleaven
 
 __Initially read__: 2019
 

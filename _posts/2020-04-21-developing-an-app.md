@@ -2,6 +2,7 @@
 layout: post
 title: "What I Learned By Developing an App"
 date: 2020-04-21
+tag: reflections
 ---
 
 During grad school, whenever I had free time I read many books about mental health. (Motivated by necessity - I was struggling to get by some days.) I learned a lot of useful information in these books that I felt would be useful to share with other people in some capacity. 

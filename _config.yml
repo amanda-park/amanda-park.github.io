@@ -3,7 +3,7 @@ author:
   name: Amanda Park
   email: apark24@binghamton.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Welcome to my writing paradise. I hope you enjoy your stay here!
+  Welcome to my writing paradise. I plan to explore many different topics that I've found important as I have gone through my 20s, both personally and professionally. I hope you enjoy your stay here!
 show_excerpts: false # set to true to show excerpts on the homepage
 
 #Need to set up:
@@ -18,7 +18,7 @@ minima:
   social_links:
     #twitter: 
     github:  amanda-park
-    goodreads: amanda-park
+    #goodreads: amanda-park
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll

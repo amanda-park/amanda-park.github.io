@@ -8,6 +8,8 @@ These books are going to be listed in the order I initially read them. You may n
 
 ### Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
 
+![book](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610.jpg)
+
 __Initially read__: 2017
 
 *Recommended for introverts who feel bad in an extrovert-biased society and need reassurance, as well as extroverts who think introverts just have social anxiety or need to get out of their shell.*
@@ -20,6 +22,8 @@ Eventually I arrived at a point I was comfortable with socially. But even still,
 
 ### Tribe: On Homecoming and Belonging by Sebastian Junger
 
+![book](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459114807l/28119237.jpg)
+
 __Initially read__: 2017
 
 *Recommended for those interested in an interesting take on history and people who want to understand why war veterans struggle to reintegrate into society.*
@@ -30,6 +34,8 @@ When the going gets tough, I've had a tendency in the past to try and weather st
 
 ### The Body Keeps the Score by Bessel van der Kolk
 
+![book](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397425897l/18693771.jpg)
+
 __Initially read__: 2017
 
 *Recommended for people struggling with complex physical or mental health problems and those interested in the mind-body connection.*
@@ -39,6 +45,8 @@ This book really helped me get a more holistic understanding of the struggles th
 I have this book to thank for introducing me to EMDR therapy, which I ended up undergoing in 2019 after experiencing a traumatic event. If it weren't for this book making me aware of its existence and the benefits of said therapy, I certainly would not be where I am today. 
 
 ### Why We Sleep by Matthew Walker
+
+![book](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556604137l/34466963._SY475_.jpg)
 
 __Initially read__: 2017
 
@@ -52,6 +60,8 @@ Because of this book and his suggestions, I have adopted two major habits that h
 
 ### Feeling Good: The New Mood Therapy by David Burns
 
+![Book Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440657672l/46674._SY475_.jpg)
+
 __Initially read__: 2018
 
 *Recommended for people struggling with mild mental health problems and those with a strong "negative voice" in their head.*
@@ -61,6 +71,8 @@ An oldie, but a goodie. Cognitive behavioral therapy, also known as CBT, is all 
 The main benefit I derived was identifying when my brain went down a slippery slope of logic and stopping it before it negatively impacted my mood. The 5 Whys approach from this book (also known as root cause analysis) has also helped me determine the true cause of my distorted thinking many times.
 
 ### Emotional First Aid by Guy Winch
+
+![Book Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363559675l/16158512.jpg)
 
 __Initially read__: 2019
 
@@ -109,6 +121,8 @@ I wish this book had been published before I graduated with my Master's degree, 
 Some of the suggestions in his book I used throughout my education to good results, such as spaced repetition with flashcard apps such as Anki to memorize essential mathematical formulas. However, his book taught me that I didn't always tackle my weaknesses in an appropriate way, especially when I struggled in grad school with certain classes. When I wasn't able to properly understand a certain professor's lecture I couldn't identify where the gap was that caused the confusion. Therefore I wasn't able to remedy it, leading to less than optimal results. I suspect if I had read this book I could have approached this more optimally. 
 
 ### Trauma Sensitive Mindfulness by David Treleaven
+
+![Book Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500664494l/32191672.jpg)
 
 __Initially read__: 2019
 

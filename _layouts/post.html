@@ -33,6 +33,12 @@ layout: default
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
+  
+  <small>
+    {% for tag in page.tags %}
+    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+  </small>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

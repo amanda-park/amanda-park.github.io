@@ -1,10 +1,10 @@
-title: Amanda Park's Blog
+title: Another Writing Zone
 author:
   name: Amanda Park
-  email: your-email@domain.com
+  email: apark24@binghamton.edu
 description: > # this means to ignore newlines until "show_excerpts:"
   Welcome to my writing paradise. I hope you enjoy your stay here!
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -14,7 +14,7 @@ minima:
   # generate social links in footer
   #social_links:
     #twitter: 
-    #github:  jekyll
+    github:  amanda-park
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll

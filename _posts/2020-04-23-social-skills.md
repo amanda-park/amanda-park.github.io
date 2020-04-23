@@ -2,7 +2,7 @@
 layout: post
 title: "Developing Social Skills: Proven Tactics"
 date: 2020-04-23
-tags: [how-to, books]
+tags: [how-to, books, self-improvement]
 ---
 
 Growing up, I used to be very socially awkward. And not the type socially awkward that you see sometimes in media with nerdier women that comes across as being appealing to some. I was socially awkward in the "Wow, we want to actively avoid this person" way that led to a lot of self-doubt and angst until I was well into my 20s. 

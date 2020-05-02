@@ -13,7 +13,9 @@ I've always had a soft spot for writing, and that's the main reason I started th
 
 But I feel like over the past couple of years I've let my writing skills take a hit. In grad school, most writing I did was technical to explain the statistical analysis I did, and since joining the workforce my writing hasn't deviated far from that path. I never thought I would say I miss writing something like an essay, but I would find ways to make them fun and funny, which isn't as easy to do as a working professional. 
 
-So, one main motivation of writing this blog is to simply sharpen my writing skills. I know my first posts are going to be relatively sloppy when I look back in a few months (or so I presume), but I'm learning to accept that not all my work needs to be a 10/10, and sometimes a 7/10 is okay if more work overall ends up completed. 
+So, one main motivation of writing this blog is to simply sharpen my writing skills. I know my first posts are going to be relatively sloppy when I look back in a few months (or so I presume), but I'm accepting that not all my work needs to be a 10/10, and sometimes a 7/10 is okay if more work overall ends up completed.
+
+![Spongebob why won't you finish your ESSAY](https://i.pinimg.com/originals/50/5c/b9/505cb956d72f4496c46eb9c2821363e0.jpg)
 
 ### Why Not Social Media?
 

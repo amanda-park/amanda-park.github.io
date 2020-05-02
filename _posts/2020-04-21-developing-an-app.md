@@ -9,7 +9,7 @@ During grad school, whenever I had free time I read many books about mental heal
 
 I also realized that getting the job I wanted right out of grad school would be challenging. I identify myself as a generalist over a specialist, so I figured that building an app would be a helpful review of coding outside the programming language of R, which I exclusively used in school. 
 
-I then decided making an Android App was the answer. I would develop a guidebook that covered various mental health techniques for people to have on their phone when they needed it. Beyond hitting the aforementioned desires, it would also be a cool thing that I could tell others I built as well (both personally and professionally).
+I then decided making an Android App was the answer. I would develop a guidebook that covered various mental health techniques for people to have on their phone when they needed it. Beyond hitting the aforementioned desires, it would also be a cool thing that I could tell others I built as well (both personally and professionally). If you want to check it out, you can download it [here](https://play.google.com/store/apps/details?id=com.amanda.mentalhealthguide).
 
 ## The Process I Followed
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Loneliness: The Silent Killer"
 date: 2020-04-27
-tag: [reflections]
+tag: [mental-health, reflections]
 ---
 
 I listened to Brene Brown's podcast [Unlocking Us](https://brenebrown.com/unlockingus/) yesterday and in her most recent episode focused on the topic of loneliness, which made me want to elaborate more on my feelings about the topic. 
@@ -15,9 +15,9 @@ I didn't try to do much about feeling lonely until I graduated high school, thou
 
 In the podcast Vivek describes three different types of loneliness people struggle with:
 
-	1. Intimate / Emotional Loneliness
-	2. Relational / Social Loneliness
-	3. Collective Loneliness
+1. Intimate / Emotional Loneliness
+2. Relational / Social Loneliness
+3. Collective Loneliness
 
 Each one has its own facets to it. Intimate loneliness is the one that motivates people to swipe right on dating sites like Tinder. Relational loneliness occurs when you wish you had a group of friends to talk to and hang out with. Collective loneliness occurs when you don't have a larger scale network that you share interests or a purpose with.
 

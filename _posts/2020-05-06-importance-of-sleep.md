@@ -2,7 +2,7 @@
 layout: post
 title: "You Can't Sleep When You're Dead"
 date: 2020-05-06
-Tags: [self-improvement]
+tags: [self-improvement, health]
 ---
 
 The title of this post is in reference to one of the most frustrating things I've heard intelligence people say. You cannot logically sleep when you're dead because you need to be alive to sleep. And yet this idea that you can sleep when it's all over lives on. Why? I want to give a few of my thoughts on that:

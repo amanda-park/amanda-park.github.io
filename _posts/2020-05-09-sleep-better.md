@@ -2,7 +2,7 @@
 layout: post
 title: "How To Sleep Better"
 date: 2020-05-09
-Tags: [how-to, habits]
+tags: [how-to, habits]
 ---
 
 Over the years I've gotten better at getting consistently good nights of sleep. Here are a few tips you can implement that may help you wake up ready to tackle the world when your alarm goes off:

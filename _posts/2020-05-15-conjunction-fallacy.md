@@ -28,6 +28,7 @@ There are a few theories as to why people make this mistake. One is that the wor
 *There are 100 persons who fit the description above (that is, Linda's). How many of them are:*
 
 *Bank tellers? __ of 100*
+
 *Bank tellers and active in the feminist movement? __ of 100*
 
 When the question is reformatted to ask people what they think in terms of frequencies, almost nobody falls into the trap and makes the mistake, according to this [study](https://www.tandfonline.com/doi/abs/10.1080/14792779143000033). Previously, up to 85% of participants had gotten the wrong answer! That's a pretty drastic turnaround.

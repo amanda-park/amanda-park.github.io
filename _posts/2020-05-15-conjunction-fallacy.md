@@ -2,7 +2,7 @@
 layout: post
 title: "Thinking Statistically: The Conjunction Fallacy"
 date: 2020-05-15
-Tags: [thinking-statistically]
+tag: [thinking-statistically]
 ---
 
 One of the main boons of me getting involved in statistics is that it taught me a lot about how irrational people's thinking can end up being sometimes. It gave me the idea to create a series of posts to elaborate more on some topics I found useful in my education. My hope is for someone who doesn't have a strong math background to read these posts and start thinking statistically in their everyday lives, even if only a little bit. 

@@ -14,6 +14,8 @@ Of course, before the cuts were announced, I was **very** anxious about losing m
 I started sleeping very poorly. My skin started breaking out like I was a teenager again. I struggled with digestive issues. I felt myself falling back into negative habits and patterns of thinking. Was my career going to have a "Principal and the Pauper" moment? 
 
 ![At least my name isn't Armin Tamzarian.](https://static.tvtropes.org/pmwiki/pub/images/09_02.png)
+|:--:| 
+| *At least my name isn't Armin Tamzarian.* |
 
 Well, that wasn't the case. My career for the time being is fine, and I don’t have to worry about finding a job right now. It turns out my imposter syndrome was wrong and management actually liked me; who knew?
 

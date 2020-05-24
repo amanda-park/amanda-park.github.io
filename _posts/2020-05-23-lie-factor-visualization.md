@@ -28,11 +28,11 @@ Below is a graphic that shows this in action:
 
 ![lie](https://infovis-wiki.net/w/images/3/36/Lie_factor_example2.jpg)
 
-Notice the doctor's width and height changes, which causes readers to be misled and think that the effect is doubled. Here is another example:
+Notice the doctor's width and height changes, which causes readers to be misled and think that the effect is much larger. In this visual, the lie factor is around 2.8. Here is another (what I consider more egregious) example:
 
 ![lie2](https://infovis-wiki.net/w/images/0/05/Lie_factor_example1_image.jpg)
 
-Notice that the width difference highly distorts the actual change relative to the improvement that was seen. A 53% change looks much larger due to the lie factor (where it shows a 783% improvement).
+Notice that the width difference highly distorts the actual change relative to the improvement that was seen. A 53% change looks much larger due to the drastically different size in the length of fuel effiency. If one looks solely at the lengths, it shows a 783% improvement!
 
 ### How To Avoid This?
 

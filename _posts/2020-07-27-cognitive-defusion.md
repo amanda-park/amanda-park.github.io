@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cognitive Defusion"
-date: 2020-07-08
+date: 2020-07-27
 tags: [mental-health, self-improvement] 
 ---
 

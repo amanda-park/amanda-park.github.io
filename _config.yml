@@ -9,6 +9,9 @@ show_excerpts: false # set to true to show excerpts on the homepage
 #Need to set up:
 #permalink:
 
+paginate: 10
+paginate_path: "/blog/page:num/"
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

@@ -3,13 +3,8 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
-  <p>
+  
+    <p>
       {% assign tags = site.tags | sort %}
       {% for tag in site.tags %}
       <!-- Here's a hack to generate a "tag cloud" where the size of
@@ -21,8 +16,13 @@ layout: default
       </a>
       {% endfor %}
   </p>
-
   
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+ 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}

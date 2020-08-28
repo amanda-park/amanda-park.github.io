@@ -9,14 +9,19 @@ layout: default
 
   {{ content }}
 
-  Click on a tag to see relevant list of posts.
+  Click on a tag to see relevant posts on the topic! Otherwise, my blog posts are all listed below by title in descending order.
 
-  <ul class="tags">
-  {% for tag in site.tags %}
-    {% assign t = tag | first %}
-    <li><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
-  {% endfor %}
-  </ul>
+  <p>
+      {% for tag in site.tags %}
+      <!-- Here's a hack to generate a "tag cloud" where the size of
+      the word is directly proportional to the number of posts with
+      that tag. -->
+      <a href="/tags/{{ tag[0] }}/" 
+      style="font-size: {{ tag[1] | size | times: 2 | plus: 10 }}px">
+          {{ tag[0] }} | 
+      </a>
+      {% endfor %}
+  </p>
 
   
   {% if site.paginate %}

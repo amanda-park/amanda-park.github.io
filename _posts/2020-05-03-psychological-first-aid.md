@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "How To: Psychological First Aid"
+title: "How To: Practice Psychological First Aid"
 date: 2020-05-03
-tag: [how-to, mental-health]
+tags: [how-to, mental-health]
 ---
 
 The goal of providing psychological first aid is to provide acute assistance to someone in crisis. It is a useful skill to have in any day and age, but the uncertainty of our current world makes it more critical than ever. George S. Everly, who works at Johns Hopkins, developed an empirically-based model called RAPID as a framework for people such as first responders to follow. Coursera was offering free certificates for certain classes due to COVID-19, so I decided to go ahead and check this one out. 

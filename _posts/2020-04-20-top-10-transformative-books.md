@@ -2,7 +2,7 @@
 layout: post
 title: "Top 10 Influential Books I've Read"
 date: 2020-04-20
-tags: [self-improvement, reflections, books]
+tags: [self-improvement, reflections]
 ---
 These books are going to be listed in the order I initially read them. You may notice a theme in these books regarding human needs, emotions, habit development, and self-acceptance. None of these are specific to my educational experiences, so I expect that most people would benefit from checking these books out.
 

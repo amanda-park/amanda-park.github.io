@@ -9,9 +9,8 @@ layout: default
 
   {{ content }}
 
-  Click on a tag to see relevant posts on the topic! Otherwise, my blog posts are all listed below by title in descending order.
-
   <p>
+      {% assign tags = site.tags | sort %}
       {% for tag in site.tags %}
       <!-- Here's a hack to generate a "tag cloud" where the size of
       the word is directly proportional to the number of posts with

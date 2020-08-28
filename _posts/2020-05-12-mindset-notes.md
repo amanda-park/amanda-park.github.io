@@ -2,7 +2,7 @@
 layout: post
 title: "Mindset: Coursera Notes"
 date: 2020-05-12
-tags: [self-improvement, career, notes]
+tags: [self-improvement, career]
 ---
 
 Every now and again I'll dabble in a free online class to see what I can learn from it, usually an MOOC from a site like Coursera or EdX. One I came across recently was called Mindshift, offered by Coursera and hosted by Barbara Oakley. I originally checked out her Coursera class "Learning How to Learn" between semesters in undergrad and found it very useful to understand the way our brain tries to comprehend things while obtaining my Bachelor's.

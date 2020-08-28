@@ -9,12 +9,13 @@ layout: default
 
   {{ content }}
 
+  Click on a tag to see relevant list of posts.
+
   <ul class="tags">
-    {% for tag in site.tags %}
-      {% assign t = tag | first %}
-      {% assign posts = tag | last %}
-      <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-    {% endfor %}
+  {% for tag in site.tags %}
+    {% assign t = tag | first %}
+    <li><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
+  {% endfor %}
   </ul>
 
   

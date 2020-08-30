@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adventures in Game Development"
+title: "Adventures in Game Development: Beginnings"
 date: 2020-08-27
 tags: [reflections, game-dev] 
 ---

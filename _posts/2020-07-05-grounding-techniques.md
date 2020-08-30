@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Techniques to Stay Grounded"
+title: "How To: Stay Grounded Mentally"
 date: 2020-07-05
-tags: [self-improvement, mental-health] 
+tags: [self-improvement, mental-health, how-to] 
 ---
 
 With the state of the world still being what it is, it's easy to feel disconnected from our bodies. Grounding is a very important practice that we should all use on a regular basis, even when we're not living through history. Below I’ll list a few of my favorite techniques I've used in the past to stay in the present moment (these can be done in quick succession or separately, depending on personal preferences):

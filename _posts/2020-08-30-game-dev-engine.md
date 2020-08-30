@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Game Dev: Choosing an Engine"
+title: "Adventures in Game Development: Choosing an Engine"
 date: 2020-08-30
 tags: [reflections, game-development] 
 ---

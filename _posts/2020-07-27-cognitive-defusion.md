@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Cognitive Defusion"
+title: "How To: Practice Cognitive Defusion"
 date: 2020-07-27
-tags: [mental-health, self-improvement] 
+tags: [mental-health, self-improvement, how-to] 
 ---
 
 Sometimes our brains can ruminate endlessly on narratives we'd rather not listen to on a regular basis. A technique to try and soothe these concerns is cognitive defusion. Note: defusion will not necessarily make the thoughts go away and make you feel better. You need to accept thoughts and not try to control/repress them. 

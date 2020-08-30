@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Data Visualizations Lie to You: Thinking Statistically"
+title: "Thinking Statistically: When Data Visualizations Lie to You"
 date: 2020-05-23
 tags: [thinking-statistically] 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Adventures in Game Development: Choosing an Engine"
 date: 2020-08-30
-tags: [reflections, game-development] 
+tags: [reflections, game-dev] 
 ---
 
 Probably one of the most important things you'll have to decide before making the game is what engine is most appropriate to do so in. For the longest time, I found making this choice very overwhelming, and I struggled with figuring out which would be most appropriate for me. 

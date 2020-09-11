@@ -2,7 +2,7 @@
 layout: post
 title: "Adventures in Game Development: Pixel Art"
 date: 2020-09-10
-tags: [reflections, game-development] 
+tags: [reflections, game-dev] 
 ---
 
 Art is hard. I have a lot of respect for people who can do art in a professional capacity, as my level of drawing has barely evolved past stick figure drawings. I used to tell myself that there was no way that I was an artist and that the skills needed to draw were something that I wouldn't be able to learn.

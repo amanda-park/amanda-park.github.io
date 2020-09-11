@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adventures in Game Development: Pixel Art"
-date: 2020-09-01
+date: 2020-09-10
 tags: [reflections, game-development] 
 ---
 

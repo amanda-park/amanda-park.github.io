@@ -13,7 +13,7 @@ When I was in my graduate program there wasn't a huge emphasis in manipulating d
 
 However, there was one professor that regularly gave us data that was messy in some way. At the time, I hated it because it led to a lot of extra work to complete assignments. In reality, the datasets he gave weren't really that messy at all compared to real-life data, and if I had known how to clean and manipulate data through the tidyverse package in R, it wouldn't have taken long at all to do that step of the assignment.
 
-The best place to learn how to use the tidyverse is easily [R for Data Science(https://r4ds.had.co.nz/). What makes learning R great is that there recently have been a lot of nice online textbooks that have come out that teach both the basics and advanced concepts, so it's usually pretty easy to pick up on how to do certain things. 
+The best place to learn how to use the tidyverse is easily [R for Data Science](https://r4ds.had.co.nz/). What makes learning R great is that there recently have been a lot of nice online textbooks that have come out that teach both the basics and advanced concepts, so it's usually pretty easy to pick up on how to do certain things. 
 
 ## Use R Markdown Documents
 

@@ -21,7 +21,7 @@ Bring to mind a negative self-judgement that commonly bothers you when it comes 
 
 Identify your mind’s favorite stories, then give them names, such as the *I'm an idiot* story. Usually, there will be a few variations on a story's theme. When your stories show up, be sure to acknowledge them by name. You don’t have to challenge it or push it away, nor do you have to give it much attention. Simply let it come and go as it pleases, while you channel your energy into doing something that matters to you.
 
- ### Silly Voices Technique
+### Silly Voices Technique
 
 When your mind starts coming up with the stories you labeled in the previous part, simply thank it. Do not give the thanks in a sarcastic and/or aggressive manner - do it with warmth and humour, and with a genuine appreciation for the capacity your mind has to produce endless thoughts.
 

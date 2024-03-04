@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://amanda-park.github.io/posts/2023-review/2023-review.html</loc>
-    <lastmod>2024-03-04T17:07:56.083Z</lastmod>
+    <loc>https://amanda-park.github.io/posts/useful-high-school-classes/index.en.html</loc>
+    <lastmod>2024-03-04T17:39:24.026Z</lastmod>
   </url>
   <url>
-    <loc>https://amanda-park.github.io/posts/2021-review/2021-review.html</loc>
-    <lastmod>2024-03-04T17:07:44.281Z</lastmod>
+    <loc>https://amanda-park.github.io/posts/python-programming-data-science-tips-tricks/index.en.html</loc>
+    <lastmod>2024-03-04T21:23:22.535Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/influential-books/index.en.html</loc>
+    <lastmod>2024-03-04T21:20:09.077Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/game-dev-first-game-reflections/index.en.html</loc>
+    <lastmod>2024-03-04T21:15:10.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/data-visualizations-lie-factor/index.en.html</loc>
+    <lastmod>2024-03-04T21:38:43.244Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/adventure-developing-app/index.en.html</loc>
+    <lastmod>2024-03-04T21:35:57.388Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/2022-review/2022-review.html</loc>
+    <lastmod>2024-03-04T17:08:17.445Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/2020-review/index.en.html</loc>
+    <lastmod>2024-03-04T21:16:56.319Z</lastmod>
   </url>
   <url>
     <loc>https://amanda-park.github.io/about.html</loc>
@@ -17,7 +41,31 @@
     <lastmod>2024-02-27T22:19:09.893Z</lastmod>
   </url>
   <url>
-    <loc>https://amanda-park.github.io/posts/2022-review/2022-review.html</loc>
-    <lastmod>2024-03-04T17:08:17.445Z</lastmod>
+    <loc>https://amanda-park.github.io/posts/2021-review/2021-review.html</loc>
+    <lastmod>2024-03-04T17:07:44.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/2023-review/2023-review.html</loc>
+    <lastmod>2024-03-04T17:07:56.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/adventures-in-home-buying-in-2021/index.en.html</loc>
+    <lastmod>2024-03-04T17:37:35.031Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/game-dev-choosing-engine-rpgmaker-vs-godot/index.en.html</loc>
+    <lastmod>2024-03-04T21:34:09.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/game-dev-pixel-art/index.en.html</loc>
+    <lastmod>2024-03-04T21:32:08.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/psychological-first-aid/index.en.html</loc>
+    <lastmod>2024-03-04T21:40:02.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amanda-park.github.io/posts/r-programming-tips-tricks/index.en.html</loc>
+    <lastmod>2024-03-04T21:24:08.642Z</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,88 @@
+---
+title: 'Adventures in Home Buying in 2021'
+author: 'Amanda Park'
+date: '2021-10-12'
+slug: adventures-in-home-buying
+categories: []
+featured_image: ''
+description: 'Over the past couple of months I have been on the market for a new place to live. Here is an overview of my experience learning just how complicated buying a home is.'
+---
+
+I moved to an area where I knew nobody after finishing grad school to take a job as a data scientist. During this time, I decided to rent out an apartment roughly 20 minutes away from my office. However, with the pandemic normalizing work from home, I was given approval to move to a different location and work remotely. 
+
+With that, I decided it was time to look into the housing market and purchase a stable location to live in. 
+
+## Personal Reasons For Buying Now
+
+### Being Closer to Home
+
+When I moved out here for this job, I was confident that I would be able to establish a strong social network like I did in grad school to help me get acclimated to a new area. However, my plan was derailed for a couple key reasons:
+* General increased difficulty making friends out of college
+* The pandemic
+
+I anticipated the former, and was lucky enough to befriend coworkers at my current workplace. That helped out when I was going to the office every day, but between adjusting to a new area and a new job I didn't have a lot of time to invest in building a social network in the area. I was planning to develop that more strongly once I had my footing at my new job...
+
+*And then COVID-19 said hello.* That derailed any plans I had for meeting people in person, forcing social interactions to become remote in the name of public safety. I went months communicating with people only through electronic means, and the effect on my mental health was not pleasant. As an introvert, I was able to weather the effects of the consistent isolation better than most, but I was not immune to feeling lonely and depressed from the current reality. 
+
+However, COVID-19 also offered a silver lining. Despite the tragic nature of everything that has happened, it accelerated the push towards remote work. Previously I was in the office every day, and in a world without COVID-19, that would still be the case. I would need to find another job closer to where I wanted to live to be closer to my established support network. 
+
+But in this new normal, I can keep my current job and work in a location more convenient for me (thankfully I work somewhere that's willing to be flexible in that sense). That gives me confidence to live in a fixed location and not rely on the renting indefinitely. 
+
+### Bad Landlords
+
+When I rented in grad school, I had a very good landlord. There was occasional noise from neighbors that bugged me, but because it was in a college town and mostly full of grad school residents, the quality was solid. Repairs were made in a timely fashion and even though my apartment was tiny and lacked a dishwasher, I managed.
+
+While my current apartment has more amenities (like a dishwasher, central air, and nearly double the square footage space), it also has incompetent management. I have had a hole in my ceiling for over 3 months now due to a leak in the apartment above me, and maintenance has still not fixed it. I was without consistent heat last winter for over a month due to poor fixes to my apartment's heating system. Stomping is regularly heard by neighbors above me, and I clearly hear domestic disputes in a next-door apartment. Rent increases are at the whim of my landlord, and due to living in a growing area, have made a previously affordable cost of living increasingly more expensive. 
+
+At this point, I have realized my values of privacy and quiet are nearly impossible to get in most apartment complexes. You have no control over your neighbors when renting, but with a house you can control the noise (and screen the nearby houses to make sure you are okay with potential neighbors). 
+
+### Stability
+
+A house offers you a stable place that you can live, whereas renting does not offer that flexibility. My current landlord has decided on renovations for my building, thus forcing everyone to move in a couple of months, regardless of their tenant status. After having to move 4 times in 4 years, I'm tired of hauling around all my crap long distances and paying both the financial and physical/emotional costs associated with moving. 
+
+I'm ready to have a stable place to live. My mental health will benefit being in one location consistently, as the anxiety of being in a location only temporarily was not the type of stress I was built to handle well. The ability to put down roots and connect to a local community will offer me a lot of peace of mind. 
+
+## Financial Reasons For Buying Now
+
+### Low Interest Rates
+
+Interest rates for mortgages are near an all-time low. Previously interest rates would vary between 6-15%, but right now rates are around 3%. This has led to an influx of external investors coming in to buy single-family homes in particular, the reasons of which could make its own disturbing article. Even if it's hard for most people to take advantage of the low interest rates in this fire-hot housing market, I wanted to see what I could manage given the ability to buy a house in a lower cost of living and slightly less desirable area.
+
+### Rising Rents
+
+In the area I currently live in, the rent for my apartment have risen over 10% in the two years I've lived there. Mortgages, even 30-year fixed mortgages, can experience increases through property taxes and insurance; however, the increases experienced through those reasons are already built into any landlord's rent payments. 
+
+### High Inflation
+
+Right now we're currently in a period of high inflation. When inflation is high, taking on fixed-interest debt is a solid strategy, as the value of the loan deteriorates due to the devaluing of the dollar. 
+
+### Ability to Put 20% Down in Cash
+
+There are mortgages available where you do not need to have a 20% down payment of cash at the ready to get a house, particularly mortgages for first-time homebuyers. I considered these options, but decided to stick with a traditional mortgage structure for a couple of reasons:
+
+* Having substantial equity in the home in case of an economic downturn
+* Avoiding paying PMI (Personal Mortgage Insurance)
+
+In the case of the former, I do not expect a market downturn given recent behavior in the housing market. This is mainly due to inflation, lack of new housing, and investment firms buying many single family homes to make into AirBnbs/permanent rentals. However, if one were to occur and the value of my home decreased, by putting 20% down I hedge against being "underwater", where the amount of debt I owe on the home is worth more than the house's value. 
+
+In the case of the latter, PMI is an additional expense that a lender would expect you to pay if you put down less than 20% for a mortgage. The less you put down for a home, the most it costs. For the price range of homes I was looking for, it's not a huge expense on its own, but on top of paying more in interest and that added monthly payment, over time it adds up. Admittedly there's an opportunity cost to putting money towards a home and say, not in the stock market; however, I have invested other money towards retirement and felt the peace of mind with having a house beat the uncertainty associated with renting.
+
+## The Opportunity Cost of Buying a Home
+
+Many people will say real estate is an investment and that renting is equivalent to "throwing your money away". I don't think it's as black and white as that. My situation to finally buy a house was a combination of many factors:
+
+* A high-paying stable job that I enjoy
+* The ability to work remotely indefinitely
+* No student loans
+* High credit scores
+* Having 20% down for a mortgage payment **AND** 6% to cover closing costs associated with buying a house in savings/checking
+* Money invested in retirement through 401(k) and a Roth IRA
+* Personal and financial reasons listed above
+
+If it weren't for all those factors, buying a home would be a much harder psychological sell. The money for my down payment and closing costs could easily be put in the stock market, which if invested properly could average a return greater than the appreciation of the value of a house. I'd have the flexibility to move in case I wanted to live elsewhere. I wouldn't need to mow a lawn or shovel my own driveway.
+
+But for all the reasons listed above, the time to get out of the rent race was now. I stayed within my budget for buying a home, not going above 2.5 times my annual income for the final cost. (General rule of thumb I found online.) The house I live in will be much larger and nicer than an apartment, and I know it's mine. For that alone, it was worth it.
+
+## Conclusion
+
+Buying a home is both a major financial and emotional decision. Due to the current economic environment many millennials will be forced to rent forever due to crippling student loan debt, soaring house prices, and stagnant wages. I know I'm one of the lucky ones (with many levels of privilege) allowing me to get a house period, let alone one before turning 30. 

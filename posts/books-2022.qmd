@@ -1,0 +1,73 @@
+---
+title: Best Books Read in 2021 & 2022
+author: Amanda Park
+date: '2022-06-03'
+slug: recommended-books-2021-2022
+categories: []
+tags:
+  - reflections
+featured_image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjooinn.com%2Fimages%2Fopened-book-4.jpg&f=1&nofb=1'
+description: 'I reflect on some of the best books I have read in the past year!'
+---
+
+I was reflecting recently on some of the books I had read in the past year or so that have impacted how I live my life. I figured I'd make a blog post out of my journaling to figure out what has influenced me the most:
+
+### The Choice by Edith Eger
+
+![Book Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501539010l/30753738.jpg)
+
+*Recommended for people who enjoyed Man's Search for Meaning and want to experience a story of triumph against all odds against horrific trauma.*
+
+This was one I read in a book club I'm a part of. This goes beyond the typical Holocaust memoir and focuses on the aftermath of the trauma she experienced. The things that Edith had to endure would break most people, and yet she was able to not only survive, but thrive after what she experienced. I consider it an inspiration that she's managed to have so much success in her career at the age of 90. 
+
+There's a lot of great life lessons in here. I loved that she refuted the concept of time healing all wounds and called out perfectionism as a belief that something -- you -- is broken. Those were hard pills to swallow, but I've been better off digesting them and adding the further nuance into my worldview.
+
+### Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman
+
+![Book Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627425434l/54785515._SY475_.jpg)
+
+*Recommended for people who expend so much time trying to maximize productivity to get everything done, but still feel like there's so much left to do.*
+
+This book was effective at calling out my tendencies that have stressed and burned me out in the past. Being productive has been a part of my self-worth for a long time. I've focused on making myself more productive throughout my 20s, and that's in both my personal and professional lives. 
+
+However, this drive towards productivity has been a double-edged sword. Getting things done is great, but by focusing on efficiency first and foremost, it reinforced the fallacy that I could **do it all**. I thought I could juggle all the chores on my to-do list, work a full-time job, maintain strong social connections, exercise regularly, eat right, meditate, journal, read 50 books, create video games, and sleep 8 hours a night. If I let any of those plates fall, I wasn't trying hard enough.
+
+Shockingly, it was impossible to do all of those things. And even when I felt like I had done all of those things, my brain instead gave me more things that I *needed* to do, even though they were things I should have said no to. 
+
+*If I wasn't doing all the things I wanted to do, I had to be more productive, and when I became more productive, I felt I had to do more.*
+
+If that nasty cycle sounds familiar, this book will help you break it. 
+
+### The Gift: 12 Lessons to Save Your Life by Edith Eger
+
+![Book Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598382958l/50892125.jpg)
+
+*Recommended for people who enjoyed the Choice and want a more actionable approach to implement Edith's lessons into their lives.*
+
+I know it's cheating to put the same author twice on a list like this, but Edith is probably one of the most influential authors I have come across since the likes of Cal Newport. This book focuses on the pitfalls humans fall into that rob them of experiencing joy, including things such as victimization, avoidance, self-neglect, and judgment. 
+
+She offers recommendations at the end of each chapter for how you can combat these pitfalls, and I've found some very useful in my personal life. In  particular, the equal balance she suggests between work, love, and play in our schedules was a wake-up call to me that I wasn't spending enough time on activities that fit into "play".
+
+### The Sum of Us by Heather McGhee
+
+![Book Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606321459l/53231851.jpg)
+
+*Recommended for people who want to read one of the best antiracist books, and for people who want a better understanding of why the US economy exists in current state.*
+
+This one didn't change my thinking as much as it captured how I feel about the state of race in America. The Sum of Us beautifully captures how twisted our modern society has become based on the racist beliefs enacted in past generations. For me, it was also a relative blast from the past. For my last semester of undergrad, I took a class called Political Economy of Race and Class, and in order to write the final paper for the course I read books such as *The New Jim Crow* and *From #BlackLivesMatter to Black Liberation*. 
+
+This book follows in a very similar vein. Heather writes in a very down to earth way explaining how the vast majority of people (regardless of skin color) are hurt by racist policies. She explains how this leads to fewer public spaces, a reduced quality of healthcare (closed rural hospitals, no universal healthcare, etc), and soaring income inequality.
+
+Racism is not a zero-sum game where whites benefit and blacks suffer, as much as the wealthy elites would like to have you think. Instead, policies are implemented that end up hurting both blacks and whites in the long term, but maintain the status quo of whites whites suffering less than blacks. (Both now suffer socioeconomically far more than they did decades ago). 
+
+I wish everyone could read this book and see a better future where we could all succeed. However, with our current politically polarized climate, I know that is but a pipe dream.
+
+## Conclusion
+
+These books were the ones I found most interesting in the past year (and had something to say about). Some honorable mentions include:
+* *Never Split the Difference by Chris Voss* -- a solid book on negotiating under pressure
+* *Bad Blood by John Carreyrou* -- a horrifying look into Theranos, Elizabeth Holmes, and the terrifying nature of a corrupt startup
+* *The Years That Matter Most by Paul Tough* -- how the process of college maintains the elitist status quo and alienates those that don't fit a traditional mold
+* The roughly dozen books I read about writing (mainly K.M. Weiland and Angela Ackerman's books) -- after struggling with plotting my first game, I figured out why my "pantsing" technique led me astray and have better strategies in mind for when I make my next game
+
+I hope you enjoy the books if you decide to check them out!

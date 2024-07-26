@@ -45,6 +45,10 @@ Determine the areas of life you want to focus on with your goals. When thinking 
     -   Actionable - what do I do to reach this goal?
     -   Realistic - is this challenging, but not impossible?
     -   Time-based - when does this need to be done by?
+* **Promotion vs Prevention Goals** - Promotion goals involve making good things happen, and prevention goals involve avoiding bad things. Example:
+  * Promotion: learning a new skill at work because of a genuine curiosity 
+  * Prevention: learning a new skill at work out of fear of becoming obsolete     
+
 
 # ❗Prioritization
 

@@ -1,0 +1,465 @@
+---
+title: 'Health and Wellness Wiki'
+author: 'Amanda Park'
+date: '2024-07-20'
+slug: health
+categories: ['wiki']
+featured_image: ''
+description: 'My synthesized notes of all the health and wellness strategies I have learned and read about in the past few years.'
+---
+
+*Currently a WIP*
+
+# Difficult Emotions
+
+## 😰 Feeling Anxious
+
+Note - I'm not considering feeling anxious as the same as something like Generalized Anxiety Disorder (GAD). This is meant for more day to day anxiety people experience.
+
+*"When you get anxious, your amygdala is activated. You can tell yourself that you're okay and even logically understand you are okay, but your amygdala isn't catching up yet. Just remember that you are okay, and it's just your amygdala needing time to adjust (10-15 minutes)."*
+
+## 😢 Feeling Depressed
+
+Note - I'm not considering feeling depressed as the same as something like Major Depression Disorder (MDD). This is meant more for mild cases.
+
+*"People in the depressive position are often stigmatized as 'failures' or 'losers'. Of course nothing could be further from the truth. If these people are in the depressive position it is because they tried too hard or taken on too much. So hard and so much that they have made themselves ill with depression. In other words, if these people are in the depressive position, it was simply because their world was not good enough for them. They wanted more. They wanted better. They wanted different, not just for themselves, but for all those around them. So if they are failures and losers, this is only because they set the bar far too high. They could have swept everything under the carpet and pretended as so many people do, that all is for the best and the best of possible worlds. However, unlike most people, they had the strength and the honesty to admit that something was amiss; to admit that something wasn't quite right. So rather than being failures or losers they are all the opposite. They are ambitious, they are truthful, they are courageous, and that is precisely why they became ill. To make them believe that they are suffering from some mental disorder, or some chemical imbalance in the brain, and that their recovery depends entirely or even mostly on popping pills is to do them and to do us an immense disfavor. It is to deny them the opportunity, not only to identify and address important life problems, but also to deny them the opportunity to develop a more refined perspective and a deeper understanding of themselves and of the world around them; and therefore, to deny them the opportunity to develop their highest potential as human beings."- Dr. Neel Burton*
+
+Managing:
+
+* Healthy habits (eat right, stay hydrated, exercise, meditate, 8 hours of sleep, be in nature, journal, etc)
+* Cognitive Behavioral Therapy can be used to manage thought biases that are common when depressed - how we feel is not evidence that these thoughts are true
+* Develop promotion goals (making good things happen) over prevention goals (avoiding bad things)
+* Build strong social ties through volunteering or clubs if your social circle is weak
+* Understand the beliefs associated with the Ideal Self (who you want to be), Actual Self (who you are), and the "Should Be" Self (what you feel you must do)
+
+## 👀 Envy
+
+Envy is not jealousy - they result from different situations, generate distinct appraisals, and produce distinctive emotional experiences. Envy typically involves two people and occurs when one lacks something enjoyed by the other. Envy occurs when we want something another person has and we don't feel like we can have it.
+
+Envy helps you identify what you want in life.
+
+* **Plain Envy** - don't want to take it away from someone
+* **Malicious Envy** - want to take it away from someone
+
+Reasons it happens:
+
+* Poor self-efficacy (they don't believe that they can or they haven't proven to themselves that they can)
+* Pessimistic messaging from others
+* Lack of resources
+* Social comparison leading to "compare and despair"
+
+Managing:
+
+* If you envy something you truly cannot have, practice radical acceptance
+* If you envy someone else, remember this quote from Naval Ravikant:
+  * *"One day, I realized with all these people I was envious of, I couldn’t just choose little aspects of their life. I couldn’t say I want his body, I want her money, I want his personality. You have to be that person. Do you want to actually be that person with all of their reactions, their desires, their family, their happiness level, their outlook on life, their self-image? If you’re not willing to do a wholesale, 24/7, 100 percent swap with who that person is, then there is no point in being envious."*
+
+## 👤 Loneliness
+
+Loneliness can be described in different ways; a commonly used measure of loneliness, the UCLA Loneliness Scale, asks individuals about a range of feelings or deficits of connection, including how often they feel: 
+* they lack companionship
+* left out
+* "in tune" with people around them
+* outgoing and friendly
+* there are people they can turn to
+
+Types of loneliness:
+
+* **New-Situation Loneliness** - change in location, job, etc.
+* **I'm Different Loneliness** - feeling fundamentally different from others
+* **Intimate Loneliness** - lacking close relationships
+* **Pet Loneliness** - lacking a pet
+* **No Time for You Loneliness** - people who are friendly but don't want to, have time to, or don't want to prioritizing, becoming or maintaining a friendship
+* **Relational (Casual Friends) Loneliness** - lacking depth and ability to confide/trust others
+* **Quiet Presence Loneliness** - not having someone to hang out with at home to know they're "there" 
+
+Signs of Loneliness:
+
+* Oversharing when someone is listening
+* Feeling disposable in a group
+* Putting other people's needs above your own
+* Feeling need to be overly helpful or nice
+* Feeling isolated and like nobody sees you
+* Feeling like you don't belong anywhere
+* Becoming obsessive with friendships
+
+Managing:
+
+* Get a hold of it before it gets too bad if possible. The longer it stays intense the more your thinking will be corrupted
+* Deepen emotional bonds with others
+  * Face to face time with friends or family, ideally every day. If not, try for video or phone calls, with text as the last/worst option
+  * Physically touch others
+  * Host dinner parties or other social events
+  * Become a great listener
+* Be vulnerable and talk about loneliness with other people
+  * Don't pursue negative relationships to fill the void
+* Create opportunities for social connection
+  * Join a group... but don't just join a group to "join a group", especially if you hate the content
+  * Attend a park, local cafe, church, or other local space where you might come across others
+  * If at an event, talk to a stranger for at least seven minutes to know if the conversation will be interesting
+  * Trivial conversations help with loneliness
+  * Be kind to strangers
+  * Diversify your social portfolio, including coworkers, friends, family, and strangers
+  * Do not overextend yourself socially, focus on several times a month at most, not every day (not as applicable for extroverts)
+    * However, don't find poor excuses to turn down social events, including skipping a spontaneous event due to feeling "unprepared"
+  * Be active, not passive online. This means participating in communities, chatting about topics you care about, give advice on forums, have video calls with friends, and share vulnerably online.
+  * Respond reasonably when talking with others
+    * Don't respond curtly or hog the conversation
+    * Ask others about their lives and opinions
+    * Don't confess your faults and insecurities to those you just met
+* Practice healthy habits
+  * Determine specific discomfort with being alone
+  * Remember observability bias - you encounter solitude frequently, but never encounter other people's.
+  * Give others benefit of the doubt, and don't take friendly ribbings too personally
+  * Don't compare yourself to someone's highlight reel
+  * Share good things when they happen in the present moment
+  * Spend more time in nature and away from screens
+  * Don't use defensive body language (folding arms over chest, hands in pocket, looking at phone)
+* Adopt a pet
+* Enjoy being alone
+  * Pursue hobbies and things only you want to do
+  * Take yourself out on a date and focus on things that your best days consisted of, what you stopped doing for no reason, and made hours fly by
+  * Differentiate taking time for yourself (conscious choice) and self-isolation (driven by fear)
+* Use nostalgia to give your life meaning again
+  * Lonely people often feel like side characters in their own lives with a lack of meaning or direction; nostalgia can help to recenter the narrative
+
+## 😳 Shame
+
+Shame is the feeling that you’re an inherently bad or flawed person. and thus unworthy of love/belonging and/or incapable of change. When we feel shame, we might believe that we’re unworthy of love or incapable of change. Effectively, shame is the gap between who we are (current self) and what we want and/or believe we should be (ideal self), and needs shame, secrecy, and judgment to thrive.
+
+# Maladaptive Mindsets
+
+## Control
+
+Can show up in a variety of ways across all the domains of life and is generally done out of fear in order to feel safe. Examples of the control being maladaptive:
+
+* Eating disorders
+* Financial rigidity through FIRE
+* Excessive tidiness and cleanliness
+* Unending personal development and growth
+  * *Why do we have to grow and excel all the time? Why does failure require constant rehabilitation? Why can’t we just let it be exactly what it is – a normal and natural part of our mortal existence? To put it bluntly, the growth mindset purports to celebrate failure when in actual fact it does completely the opposite.*
+
+This level of control can be a means to reduce feelings of inferiority and shame.
+
+## Perfectionism
+
+Defense mechanism to cope with emotional neglect and also is about safety. 
+
+Three main types of perfectionism:
+
+* **Self-Oriented Perfectionism** - I must be perfect (or meet an exceptionally high standard) in order to be worthy of love and respect
+* **Socially Prescribed Perfectionism** - Others expect me to be perfect (or meet an exceptionally high standard) in order to be worthy of love and respect
+* **Other-Oriented Perfectionism** - Other people must be perfect (or meet exceptionally high standards) in order to be worthy of love and respect
+
+Examples:
+
+* Treating benign statements as jabs at perceived imperfections
+* Intensely critical and an absence of self-compassion
+* Working without enjoyment and never feeling like you've done "enough"
+* Fearing failure in various forms (feedback and performance appraisals, competitions, etc)
+
+## 🚫 Procrastination
+
+Procrastination is often avoidance of stress and discomfort, driven by some fear.
+
+Downsides:
+
+* Worsened health due to stress
+* Feelings of regret
+
+Do not:
+
+* Say you're procrastinating when you're simply not prioritizing something
+* Beating yourself up for procrastinating, it makes sense from an evolutionary perspective for short-term gains
+* Press the "try harder" button to get things done, this will just lead to burnout.
+* Treat yourself as a machine, you can't just go 2x as fast without changing the code/process in some way. Instead think in systems and how you can set yourself up for success.
+Don't treat the task as an uphill boulder that's boring or meaningless; try to think of how to make the task more energizing.
+
+Manage:
+
+* Don't wait for motivation - do it anyway
+* Sit quietly (free from distraction) and think for 15 minutes about what you're going to do (prevents avoidance behaviors, gives anxiety chance to abate)
+* Break down tasks into tiny, bite sized pieces, and mark progress with smaller tasks
+* Do low effort, crappy versions of task as often as you can to "lower the stakes"
+* Make distractions the primary task and the primary task as the side task
+
+## Relentless Self-Improvement
+
+* Self-improvement means self-acceptance is conditional on "fixing" yourself, only getting a respite when you do an A+ job, meaning it's everlasting
+* We think if we punish ourselves enough, we'll change. 
+* Believe that we're giving up control by choosing self-acceptance, specifically, we're exerting some sort of meaningful control when we fight against something
+
+## Low Self-Worth
+
+*In therapy, my therapist and I were talking about my own feelings of self-worth in relationships. And she asked me to say qualities about myself that someone else would be attracted to, on a romantic and platonic level. So I mentioned some things like compassionate, empathetic and she said, "You named things that you can give someone; ways you can serve, rather than ways that you are."  And my mind was blown. That's going to stick with me forever. She then proceeded to tell me actual innate qualities about myself that she liked and thought anyone else would like as well and I hadn't even considered those because, like she said, I was focused on things I could do outwardly to attract and maintain connections rather than who I was as a person... goddamn! that's tea!*
+
+Can be conflated with self-esteem, which is a more transient version. Instead of focusing on specific traits, skills, circumstances, or achievements, self-worth describes the core beliefs you have about your worth and value.
+
+Signs:
+
+* Conditional self-worth; only being worthy if your relationships, appearance, net worth, career, or achievements are X.
+* Feeling inherently undeserving of love and belonging
+
+Causes:
+
+* Negative experiences in early childhood (including repeated little t traumas)
+* Negative core beliefs
+* Stressful life events
+
+Treatment:
+
+* Understand where the low self-worth criteria comes from. What makes a person worthy, what does worthiness mean, and worthy of what?
+  * If there are specific criteria, like "you have to be financially independent and be married," ask "Does this apply to everybody, or just to you?" 
+    * If this criteria represents your core beliefs, develop a realistic strategy to meet those goals and become worthy. 
+    * Instead, if you realize you're clinging to a rigidity that you don't actually believe in, remember brains can confuse feelings for facts. So feeling undeserving can lead to your brain justifying your low self-worth, even if it doesn't align with your beliefs. Approach the issue on a metacognitive level. 
+
+# Maladaptive Strategies
+
+These are typically triggered by the following:
+
+* Problems with health, finances, relationships
+* Conflicts
+* Stress
+* Transitions
+* Travel
+* Insecurities and feelings of inferiority
+* Loneliness
+* Boredom
+* Depression
+* Frustration
+* Resentment
+* Fatigue
+
+## 🍩 Emotional Eating
+
+While emotional hunger feels the same as physical hunger, these are the signs it's happening:
+
+* Eating outside standard meal times
+* It's urgent, sudden, and unstoppable
+* Want to eat a lot more than you normally would
+* Craving junk food specifically
+* Feeling guilty afterwards
+
+Why it happens:
+
+* Feel psychologically safe
+* Dull/numb painful emotions
+* Connection between being fed and loved
+* Chewing rids energy of negative surplus
+* Sugars release dopamine
+
+Treating:
+
+* Name and track emotions and body sensations
+* Surf the urge (pay attention without trying to change it)
+* Remember you can't control your thoughts, but you can control if you act on them
+* Practice self-validation
+* Reinforce and offer love, support, and comfort
+* Clarify your needs
+* Catch and reframe self-defeating thoughts
+* Highlight resources to manage situation and provide hope
+* Address needs and set nurturing limits
+
+## 🤳 Tech Addiction
+
+Spending too much time on addictive electronic devices (computer, phone, etc), the internet, and/or social media.
+
+Why it happens:
+
+* Technology and devices are designed to make people get addicted; it is not a personal failing to be exploited by the technology
+* Can be an educational avenue
+* Desire to be informed and know what's going on
+  * You'll never learn enough to get to feel you know everything that's going on; the desire just leads to endless consumption without context 
+  * We are hard-wired to chase novel information, are in a world where novel information is readily accessible, and bad actors and AI exploit this
+
+Manage:
+
+* Seek higher quality and less addictive learning resources
+* Make phone less appealing to use
+  * Disable browser
+  * No email (especially no work email)
+  * Essential apps only, and with offline use when possible
+  * Turn off notifications
+  * Turn off data and wifi
+  * Grayscale phone
+* Practice mindfulness
+* Find enjoyable offline activities to supplement spending time on technology
+* Rely less on technology
+  * Scrolling is not resting
+  * Focus on single tasking
+  * Don't rely on GPS to tell you where to go
+  * Cook without a cookbook
+  * Write in physical journals
+  * Read physical books
+  * Put phone away when talking to others
+  
+
+# Adaptive Mindsets
+
+## Cognitive Reframing
+
+* Once identified, begin acknowledging when and where maladaptive thoughts arise. * When these automatic thoughts pop up, start thinking about the why behind them. 
+* Start questioning your assumptions and gather evidence against your biases.
+* Start performing a cost-benefit analysis of your negative thoughts.
+* Switch negative thoughts for positive ones.
+
+## Forgiveness
+
+Psychologists generally define forgiveness as a conscious, deliberate decision to release feelings of resentment or vengeance toward a person or group who has harmed you, regardless of whether they actually deserve your forgiveness.
+
+* Premature forgiveness can lead to **fossilized forgiveness**, a false sense of permanent forgiveness that arises from a desire to move on from the past triggered by shame and guilt
+
+## 🙏 Gratitude
+
+Gratitude is related to happiness, but it’s an active process: It means taking time and energy to appreciate what you have and what brings meaning to your life.
+
+* **Forced gratitude** - using the concept of gratitude to stifle a negative emotion. You can't pretend to be grateful for something you know is wrong for you - you'll neither feel good about it nor get the positive effects of actual gratitude. Example: “I guess I’m glad I have a little money in the bank.” 
+* **Tragic gratitude** - recognizing there are many things to be grateful for, but also recognizing things could be a lot better.  You don’t have to pretend things are better than they are, because true gratitude isn’t fake it ’til you make it. Example: “I’m grateful I’ve saved a little money, I need to come up with a plan to start saving more.”
+
+Practice:
+
+* Say thank you or write a thank-you note
+* Give a gift
+* Verbalize appreciation
+* Do something thoughtful
+
+## 🆗 Radical Acceptance
+
+Acceptance is acknowledging a particular situation is indeed happening, and making space for any part that screams "no" at the situation. The goal is to keep pain from turning into suffering. Myths:
+
+* Acceptance does not mean we're OK with a situation or agree with it
+* Acceptance does not mean we stop trying to change it
+* Acceptance is not failure
+
+## Self-Compassion
+
+Self-compassion is being kind and understanding when confronted with personal failings (Neff, n.d.). It means that you act the same way toward yourself when you are going through a tough time that you would act towards a dear friend. Generally used to let go of perfectionism.
+
+Involves the following:
+	
+* Self-kindness: being kind and understanding toward yourself. Ex: It’s okay that you failed that test. It was really hard. 
+* Mindfulness: having a balanced reaction to painful thoughts and feelings, not underreacting or overreacting. Ex: I notice I’m feeling sad right now. 
+* Common humanity: seeing one’s experience as part of the larger human experience. Ex: Everyone fails from time to time. 
+
+Challenges:
+
+* **Backdraft** - when you try to be compassionate to yourself but end up feeling worse (this is a normal thing to have happen)
+* Insecure attachment styles cause fear/aversion to self-compassion
+  * Contentment system is weaker (can't rely on past memories of support to self-soothe)
+  * Highly active threat detection systems cause children to see need for compassion as a sign they are weak, so they resist any expression of compassion due to concerns of being rejected, harshly criticized, or feeling undeserving.
+* Practice **behavioral self-compassion** when the fear of self-compassion is high. This means focusing on what is needed in the moment, like taking a break from work when stressed, rather than mental exercises.
+  * What do I need to feel safe? To be comforted, soothed, validated? To protect, provide for, motivate myself?
+
+## Vulnerability
+
+Vulnerability is what you experience when you take a risk, or leave yourself open to emotional harm. It’s what you might feel when you confess your feelings for someone or ask for feedback on a deeply personal issue—it’s the knowledge that you’ve exposed an emotional weak spot and that someone could use it to hurt you.
+
+Challenges:
+
+* **Faux Vulnerability** - revealing facts about yourself that sound vulnerable to those on the outside but doesn't leave yourself open to emotional harm. Common with those with an avoidant attachment style.
+
+# Adaptive Activities
+
+## 🫁 Breathing
+
+Methods:
+
+* **Downregulating** - use when highly anxious. Make out breaths longer than in breaths.
+  * When inhaling, take a small second breath to inhale slightly extra before breathing out through the mouth to slow your heartbeat and ground you quicker.
+* **Upregulating** - use when in a freeze response. Make in breaths longer than out breaths.
+
+## ✍ Journaling 
+
+Strategies:
+
+* **Morning Pages** - Write by hand three pages of an A5 notebook words that nobody will ever see. Just do stream of consciousness; the words can be whatever you want.
+
+Note:
+
+* Beware ‘dataism’ - in case where people are shown the data, people might ‘edit their experiences and negotiate with the data’ she says. Yes, they might say: I remember now, I was feeling stressed out that day I had the higher heart rate. They are persuaded to ‘retell the narratives of their life to fit the data’, instead of trusting themselves. 
+
+## ⛳ Leisure 
+
+Two types of leisure:
+
+* **Terminal Leisure** – leisure that takes place purely for enjoyment. 
+* **Instrumental Leisure** – leisure that might serve a larger purpose, like making friends or staying healthy, and therefore feels more productive. 
+
+The ability to enjoy terminal leisure is a stronger predictor of wellbeing than enjoyment of instrumental leisure, the study showed. 
+
+## 🧘‍♀️ Mindfulness 
+
+Mindfulness can harm if done recklessly. Practice in moderation as you slowly build tolerance.
+
+## ☺️ Self-Soothing
+
+*"People need a reasonable amount of comfort every single day."*
+
+Method to reduce the intensity of negative emotions, using each of the senses:
+
+### Sight
+
+* Low lighting
+* Soothing colors
+* Sleeping masks
+* Coloring books
+* Collages
+
+### Sound
+
+* Calming noise
+* ASMR
+* Nature sounds
+* Guided meditations
+* Binaural beats
+
+### Smell
+
+* Aromatherapy
+* Fresh air
+* Candles
+* Comforting smells
+
+### Taste
+
+* Strong flavors
+* Warm drinks 
+* Eating slowly
+* Nostalgic flavors
+
+### Touch
+
+* Soft things
+* Cuddling
+* Massage
+* Hot shower
+* Weighted blanket
+
+### Vestibular
+
+Processes balance and movement
+
+* Yoga
+* Rocking (on swing, chair, hammock, etc)
+* Walking
+* Running
+* Spinning
+
+### Proprioception
+
+Processes balance and coordination
+
+* Push/Pull/Lift activities
+* Chewing
+* Dance
+* Kneading/Squeezing
+
+### Interoception
+
+Processes internal body and emotional states
+
+* Hot and cold sensations
+* Body scans
+* Breathwork
+* Mindfulness
+* Send messages of safety and love

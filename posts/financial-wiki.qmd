@@ -1,0 +1,52 @@
+---
+title: 'Finances Wiki'
+author: 'Amanda Park'
+date: '2024-07-26'
+slug: finances
+categories: ['wiki']
+featured_image: ''
+description: 'My synthesized notes of all the financial strategies I have learned and read about in the past few years.'
+---
+
+# Mantras
+
+* Time in market > timing the market
+* Buy low and sell high
+* Beware the hedonistic treadmill and lifestyle creep
+* The pleasure of anticipation is often greater than the pleasure of acquisition
+* Look at expense ratios when buying financial assets (stocks, bonds, crypto, etc)
+* Have an emergency fund in a high-yield savings account of up to 6 months of living expenses, you never know when you might lose your job in this economy
+* Debt is not always bad, especially low-interest debt in a high-inflation environment. The market can outperform low-interest debt so paying that off can be a suboptimal financial choice
+  * However, the mental toll of having debt can be alleviated by paying it off more quickly, even if it's not the financially optimal decision
+* Similarly, [renting isn't always worse than buying](https://affordanything.com/is-renting-better-than-buying-should-i-rent-or-buy/), especially if you invest the difference directly into the market
+* Understand your time is valuable too. You might be able to make more money by, say, investing in rental properties, but then you have the headaches and time commitment that are associated with being a landlord.
+* Don't trust get rich quick schemes.
+* If you want to gamble, do so with a small percentage of your total investments (1-2%, but at bare minimum <5%)
+* [Bogleheads](https://www.bogleheads.org/wiki/Getting_started) is a good place to start for investment fundamentals
+
+# Retirement Strategies
+
+## 🔥 Financial Independence, Retire Early (FIRE)
+
+With FIRE, the idea is to save enough money in retirement accounts to retire earlier than the standard retirement age of 65. The key assumption is that you can live off a 4% withdrawal rate from your investments, living off the principal in perpetuity. 
+
+Basic tenets:
+
+* Increase your savings rate. While the math is somewhat oversimplified, the general tenet of this [article](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) holds and shows how much increasing your savings rate can reduce the years needed to retire. 
+  * Calculate your current savings rate with this [calculator](https://networthify.com/calculator/earlyretirement?income=50000&initialBalance=0&expenses=20000&annualPct=5&withdrawalRate=4)
+* Tax-deferred accounts can reduce the years needed to retire (given current US tax laws, at least); see this [article](https://www.madfientist.com/retire-even-earlier/). Basically, save as much money as you feasibly can in retirement vehicles such as a 401(k), IRA, and Health Savings Account (HSA) before using a taxable brokerage account
+
+Variations of FIRE:
+
+* Coast FIRE - You save up enough in your retirement accounts that you as long as you meet your current living expenses with an additional source of income, you can retire by your desired age
+* Barista FIRE - Ggenerate a small amount of income to greatly reduce the net worth needed to leave a full-time job
+* Lean FIRE - You're okay living more frugally in retirement
+* Fat FIRE - You want to live a luxurious lifestyle in retirement
+
+Note:
+
+* If in the USA, you will want at least 10 years (40 quarters) paying into Social Security and Medicare taxes to be eligible for both at retirement age. (Obviously subject to change based on government policies.)
+
+# 📚 Resources
+
+* [The Retirement Gamble](https://www.pbs.org/wgbh/frontline/documentary/retirement-gamble/?) - the best professor I had in grad school recommended this documentary, and honestly, this alone more than paid for my tuition

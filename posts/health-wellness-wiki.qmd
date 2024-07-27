@@ -191,7 +191,7 @@ Manage:
 
 ## Low Self-Worth
 
-*In therapy, my therapist and I were talking about my own feelings of self-worth in relationships. And she asked me to say qualities about myself that someone else would be attracted to, on a romantic and platonic level. So I mentioned some things like compassionate, empathetic and she said, "You named things that you can give someone; ways you can serve, rather than ways that you are."  And my mind was blown. That's going to stick with me forever. She then proceeded to tell me actual innate qualities about myself that she liked and thought anyone else would like as well and I hadn't even considered those because, like she said, I was focused on things I could do outwardly to attract and maintain connections rather than who I was as a person... goddamn! that's tea!*
+*In therapy, my therapist and I were talking about my own feelings of self-worth in relationships. And she asked me to say qualities about myself that someone else would be attracted to, on a romantic and platonic level. So I mentioned some things like compassionate, empathetic and she said, "You named things that you can give someone; ways you can serve, rather than ways that you are."  And my mind was blown. That's going to stick with me forever. She then proceeded to tell me actual innate qualities about myself that she liked and thought anyone else would like as well and I hadn't even considered those because, like she said, I was focused on things I could do outwardly to attract and maintain connections rather than who I was as a person.*
 
 Can be conflated with self-esteem, which is a more transient version. Instead of focusing on specific traits, skills, circumstances, or achievements, self-worth describes the core beliefs you have about your worth and value.
 
@@ -331,7 +331,7 @@ Acceptance is acknowledging a particular situation is indeed happening, and maki
 * Acceptance does not mean we stop trying to change it
 * Acceptance is not failure
 
-## Self-Compassion
+## 😊 Self-Compassion
 
 Self-compassion is being kind and understanding when confronted with personal failings (Neff, n.d.). It means that you act the same way toward yourself when you are going through a tough time that you would act towards a dear friend. Generally used to let go of perfectionism.
 
@@ -352,11 +352,38 @@ Challenges:
 
 ## Vulnerability
 
+*Until I was almost thirty my conversation seldom included anything but joke-telling and sports-talk. This superficiality made me feel perpetually lonely, even though I was popular whenever I stayed anywhere long enough to make acquaintances.*
+
+*I was laconic because my family life convinced me it was unwise to talk about the vulnerable subjects that allow intimacy to grow between people. Talk about feelings, needs, weaknesses, or disappointments was routinely ridiculed in my house. So too was talk about hopes, dreams, and accomplishments.*
+
 Vulnerability is what you experience when you take a risk, or leave yourself open to emotional harm. It’s what you might feel when you confess your feelings for someone or ask for feedback on a deeply personal issue—it’s the knowledge that you’ve exposed an emotional weak spot and that someone could use it to hurt you.
 
 Challenges:
 
 * **Faux Vulnerability** - revealing facts about yourself that sound vulnerable to those on the outside but doesn't leave yourself open to emotional harm. Common with those with an avoidant attachment style.
+* Don't keep being vulnerable with people who have hurt you when you're vulnerable
+
+Practice:
+
+* Find when it's safe to be vulnerable
+  * The other person is curious about you
+  * They're vulnerable with you
+  * When they listen you feel heard
+  * They affirm in the moment
+  * They demonstrate integrity when they share other people's business
+  * They consistently show up for you
+  
+* Recognize barriers to vulnerability   
+  * Foreboding joy - always imagining worst-case scenario
+  * Perfectionism
+  * Numbing
+  * Emotional dumping and oversharing
+* Be willing to be vulnerable first
+  * Show vulnerability through demeanor, not just words (cry, shake, etc)
+  * Others won't judge you for your vulnerability, may help you be perceived more positively as authentic and honest
+  * Being invulnerable doesn't abolish weaknesses, just also hides strengths
+* Turn to friends for support when needed
+* Scaffolding vulnerability by disclosing to someone you trust, and then being vulnerable with someone who you’re less sure of.
 
 # Adaptive Activities
 

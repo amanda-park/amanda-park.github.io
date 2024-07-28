@@ -138,6 +138,7 @@ Note: listed in alphabetical order.
 126. 🔫[Texas Sharpshooter Fallacy]{.underline} - You think you take randomness into account when determining cause and effect; however, you tend to ignore random chance when the results seem meaningful or you want a random event to have a meaningful cause.
 127. 🧠[Thought Experiment]{.underline} - devices of the imagination used to investigate the nature of things
 128. 🛢️[Tragedy of the Commons]{.underline} - Without some form of regulation, slackers and cheaters will crash economic systems because people don't want to feel like suckers
-129. 🎾[Unforced Error]{.underline} - error in a service or return shot that cannot be attributed to any factor other than poor judgement and execution by the player
-130. 🤷‍♀️[What the Heck Effect]{.underline} - we create our own stress as we sabotage our good intentions with ill-chosen behaviors; "I already blew my diet, so I might as well eat this entire chocolate cake."
-131. [Yerkes-Dodson law]{.underline} - Too much motivation can actually reduce the amount and quality of someone's performance.
+129. [U-Curve for Happiness]{.underline} - in western societies, life satisfaction generally declines with age for the first couple of decades of adulthood, bottom out somewhere in the 40s or early 50s, and then, until the very last years, increase with age, often (though not always) reaching a higher level than in young adulthood.
+130. 🎾[Unforced Error]{.underline} - error in a service or return shot that cannot be attributed to any factor other than poor judgement and execution by the player
+131. 🤷‍♀️[What the Heck Effect]{.underline} - we create our own stress as we sabotage our good intentions with ill-chosen behaviors; "I already blew my diet, so I might as well eat this entire chocolate cake."
+132. [Yerkes-Dodson law]{.underline} - Too much motivation can actually reduce the amount and quality of someone's performance.

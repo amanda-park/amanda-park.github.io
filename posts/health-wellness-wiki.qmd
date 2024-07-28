@@ -132,6 +132,9 @@ Note - I'm not considering feeling anxious as the same as something like General
 
 Anxiety, simply put, is concern about the unknown and/or future. It's feeling like we’re not in control — we don’t know what’s going to happen, so we imagine the worst.
 
+* The opposite of anxiety is not relaxation, but prosocial behavior.
+* Extreme anxiety, such as a panic attack, are not physically dangerous to experience, just deeply unpleasant
+
 Types of anxiety:
 
 * Functional anxiety - gives important information to the brain
@@ -155,11 +158,31 @@ Types of anxiety:
 Manage:
 
 * Is worrying *actually* helpful? If so, do it.
+  * Will this matter in 10 minutes? 10 weeks? 10 years?
 * Exposure therapy to reduce anxious feelings; don't avoid what you're afraid of. Escape and avoidance only offer short-term relief and feed anxiety in the long run
 * Slower, deeper breaths
 * Reframe cognitive distortions to be more realistic, threats as challenges to overcome, and treat anxiety as excitement
 * Self-compassion
 * Act in line with your values
+* Schedule worry time, and dump out all the thoughts in your brain during this time
+
+## 🥱 Bored
+ 
+Wanting to do something fulfilling and not being able to. Feeling understimulated, tasks (if you have any) seeming meaningless and unsatisfying, and time seems to stretch out.
+
+## 😞 Disappointment
+
+Disappointment is the negative state that you feel when your expectations aren’t met. 
+Hope counteracts disappointment and regret — it leads you from, “Things didn’t work out” to, “I’ll make sure things work out next time.” Growth mindset also offers hope things can change next time
+
+Regret is disappointment plus guilt - Things didn’t play out the way you wanted, and it feels like it’s your own fault. People tend to regret things they didn't do rather than the things they did.
+
+* Hindsight regrets: you made the best decision that you could then, but you know more now 
+* Alternate-self regrets: you have a vague sense of regret that comes from wanting to live different lives 
+* Rushing-in regrets: you made a decision that you weren’t sure about or weren’t ready to make at the time 
+* Dragging-out regrets: you waffled about a decision for a long time, even though you sort of knew what you needed to do 
+* Ignoring-your-instincts regrets: you had a gut feeling that you weren’t making the right decision but acquiesced to others’ needs or opinions 
+* Self-sabotage regrets: you made a decision that you knew wasn’t good for you, but you did it to protect yourself from feeling another emotion (rejection, loneliness, vulnerability)
 
 ## 👀 Envy
 
@@ -180,7 +203,7 @@ Reasons it happens:
 Managing:
 
 * If you envy something you truly cannot have, practice radical acceptance
-* If you envy someone else, remember this quote from Naval Ravikant:
+* If you envy someone else, are you willing to give up your whole life, memories, experiences, and relationships, to be in that person’s shoes? Remember this quote from Naval Ravikant:
   * *"One day, I realized with all these people I was envious of, I couldn’t just choose little aspects of their life. I couldn’t say I want his body, I want her money, I want his personality. You have to be that person. Do you want to actually be that person with all of their reactions, their desires, their family, their happiness level, their outlook on life, their self-image? If you’re not willing to do a wholesale, 24/7, 100 percent swap with who that person is, then there is no point in being envious."*
 
 
@@ -224,6 +247,27 @@ Managing:
     * Verbal ventilation (Active) - speaking or writing to release painful feelings in uncensored way
     * Crying (Active) - can bring catastrophizing to a halt
     * Feeling emotions throughout body in present moment, not resisting (Passive)
+
+## 😅 Guilt
+
+*You may feel guilty even when you are doing something healthy. Feeling guilty for making healthy decisions that others don't like was a seed planted by people attempting to control your behaviors. Push through your guilt, and do what's best. The more you practice making healthy choices, the less guilty you will feel.*
+
+Guilt is "I'm doing/did something wrong" while shame is "I am wrong". Guilt allows for desire for positive change.
+
+* Guilt: "I didn't work hard enough."
+* Shame: "I'm too lazy."
+
+Managing:
+
+* Learn Recipe for Effective Apology 
+  * statement of regret for what happened;
+	* a clear “I’m sorry” statement;
+	* a request for forgiveness—all of which must be delivered with sincerity;
+	* validating the other person’s feelings;
+	* offering atonement;
+	* acknowledging we violated expectations
+* Forgive Yourself
+* Reengage in Life
 
 ## 👤 Loneliness
 
@@ -296,13 +340,24 @@ Managing:
 * Use nostalgia to give your life meaning again
   * Lonely people often feel like side characters in their own lives with a lack of meaning or direction; nostalgia can help to recenter the narrative
 
+## 👎 Rejection
+
+We are wired for connection. Rejection, perceived or real, hits on primal buttons related to belonging and survival. As babies, rejection by a parent can be fatal. We carry this longing for connection with us into adulthood, and the possibility of rejection often feels intolerable.
+
+Even though rejection is painful, it's survivable.
+
+* Acknowledge and accept your feelings
+* Reflect on the situation
+* Seek support from others
+* Keep things in perspective
+
 ## 😳 Shame
 
 Shame is the feeling that you’re an inherently bad or flawed person. and thus unworthy of love/belonging and/or incapable of change. When we feel shame, we might believe that we’re unworthy of love or incapable of change. Effectively, shame is the gap between who we are (current self) and what we want and/or believe we should be (ideal self), and needs shame, secrecy, and judgment to thrive.
 
 # Maladaptive Mindsets
 
-## Control
+## 🎮 Control
 
 Can show up in a variety of ways across all the domains of life and is generally done out of fear in order to feel safe. Examples of the control being maladaptive:
 
@@ -314,7 +369,7 @@ Can show up in a variety of ways across all the domains of life and is generally
 
 This level of control can be a means to reduce feelings of inferiority and shame.
 
-## Perfectionism
+## 👌 Perfectionism
 
 Defense mechanism to cope with emotional neglect and also is about safety. 
 
@@ -330,6 +385,16 @@ Examples:
 * Intensely critical and an absence of self-compassion
 * Working without enjoyment and never feeling like you've done "enough"
 * Fearing failure in various forms (feedback and performance appraisals, competitions, etc)
+
+Treatment:
+
+* Recognize perfectionism is a self-defense against shame and does not serve you
+  * Understand where the belief of perfectionism originated from in your past
+* Name your inner critic / perfectionist
+* Practice healthy striving, setting reasonable goals based on your wants and needs rather than external validation
+* Challenge inner negative thoughts with CBT
+* Accept when good enough is good enough
+* Describe yourself in germs not associated with success in career, appearance, or how others think of you
 
 ## 🚫 Procrastination
 
@@ -356,22 +421,28 @@ Manage:
 * Do low effort, crappy versions of task as often as you can to "lower the stakes"
 * Make distractions the primary task and the primary task as the side task
 
-## Relentless Self-Improvement
+## 🤠 Low Self-Worth
 
-* Self-improvement means self-acceptance is conditional on "fixing" yourself, only getting a respite when you do an A+ job, meaning it's everlasting
-* We think if we punish ourselves enough, we'll change. 
-* Believe that we're giving up control by choosing self-acceptance, specifically, we're exerting some sort of meaningful control when we fight against something
-
-## Low Self-Worth
+*"You can't logic yourself into having self-worth. Using high intelligence to solve emotional issues is like a black mage trying to cast healing spells."*
 
 *In therapy, my therapist and I were talking about my own feelings of self-worth in relationships. And she asked me to say qualities about myself that someone else would be attracted to, on a romantic and platonic level. So I mentioned some things like compassionate, empathetic and she said, "You named things that you can give someone; ways you can serve, rather than ways that you are."  And my mind was blown. That's going to stick with me forever. She then proceeded to tell me actual innate qualities about myself that she liked and thought anyone else would like as well and I hadn't even considered those because, like she said, I was focused on things I could do outwardly to attract and maintain connections rather than who I was as a person.*
 
-Can be conflated with self-esteem, which is a more transient version. Instead of focusing on specific traits, skills, circumstances, or achievements, self-worth describes the core beliefs you have about your worth and value.
+Can be conflated with self-esteem, which is a more transient version. Instead of focusing on specific traits, skills, circumstances, or achievements, self-worth describes the core beliefs you have about your worth and value. 
 
-Signs:
+People with high self-worth:
+
+* Believe that they are good, worthy, and lovable regardless of what's happening in life
+* Feel deserving of love and respect from others
+* Accept and love yourself now with no conditions or exceptions
+* Practice self-compassion and treat yourself with kindness, care, and respect
+* Believe in your potential to grow, learn, change, and improve
+* Have flaws and make mistakes that don’t threaten your identity or worth
+
+Signs of low self-worth:
 
 * Conditional self-worth; only being worthy if your relationships, appearance, net worth, career, or achievements are X.
 * Feeling inherently undeserving of love and belonging
+* Fear that developing self-worth will stop motivation to grow/change, lead to arrogance, or that it's just impossible to cultivate
 
 Causes:
 
@@ -385,6 +456,7 @@ Treatment:
   * If there are specific criteria, like "you have to be financially independent and be married," ask "Does this apply to everybody, or just to you?" 
     * If this criteria represents your core beliefs, develop a realistic strategy to meet those goals and become worthy. 
     * Instead, if you realize you're clinging to a rigidity that you don't actually believe in, remember brains can confuse feelings for facts. So feeling undeserving can lead to your brain justifying your low self-worth, even if it doesn't align with your beliefs. Approach the issue on a metacognitive level. 
+* Remember that everyone has flaws and imperfections, flaws connect us and make us interesting, and *if someone had been through what you've been through, they'd likely have the same flaws.*
 
 # Maladaptive Strategies
 
@@ -402,6 +474,51 @@ These are typically triggered by the following:
 * Frustration
 * Resentment
 * Fatigue
+
+## 🍷 Addiction
+
+*“Addiction is a progressive narrowing of the things that bring you pleasure. Enlightenment is an expansion of the things that bring you pleasure.”*
+
+Addiction can show in a variety of ways:
+
+* Alcohol
+* Overworking
+* Pornography
+
+Addiction chases hedonic happiness (self-enhancing; fame, fortune, beauty, etc) rather than eudainomic happiness (self-transcending; love, community, gratitude, empathy)
+
+## 🛡️ Defense Mechanisms
+
+Defense mechanisms come from:
+
+* Mammalian brain - need to be safe
+* Reptile brain - need to attach; let go of attachments that no longer serve you and overcome fear of missing out (FOMO)
+* Rational brain - all-pervasive dissatisfaction; appreciate what you have
+
+Types of defense mechanisms
+
+* Acting out
+* Avoidance
+* Conversion (emotional pain becomes physical pain)
+* Denial
+* Displacement (repressing emotions)
+* Dissociation
+* Fantasy
+* Idealization
+* Identification
+* Intellectualization
+  * Cognitive Bypassing - talk about distressing experiences intellectually in a narrative way, and stay detached from emotions within the story
+* Introjection (take stimuli from own environment and adopt as own ideas)
+* Isolation
+* Passive Aggressiveness
+* Projection 
+* Rationalization
+* Repression
+* Regression
+* Splitting (understand in black and white terms)
+* Somatization
+* Suppression
+* Wishful Thinking
 
 ## 🍩 Emotional Eating
 
@@ -432,6 +549,35 @@ Treating:
 * Catch and reframe self-defeating thoughts
 * Highlight resources to manage situation and provide hope
 * Address needs and set nurturing limits
+
+
+## ✈️ Escapism
+
+To cope with unstable times, Soviet citizens enduring the daily stresses of a failing state turned inward. They called it “internal emigration,” a metaphor for the imagined inner world to which ordinary people could retreat to find solace. This mental relocation took many forms, but for most Soviets, cultivating a fierce spiritual autonomy—through music, literature, poetry, art, foreign language learning, private gardening, or immersing themselves in nature—provided the only respite from the grinding indignities of an aging political bureaucracy insensitive to the needs of the populace.
+
+But internal emigration can cultivate the habit of apathy. The very real desire to protect oneself from the pressures of an unjust system promotes disengagement and undermines our cognitive capacities for hope. More importantly, when the system unexpectedly changes, we may be unprepared to fight for a new world. 
+
+## 📚 Self-Help Addiction
+
+Trying to become a machine and always striving for the fantasy future where we achieve an idealized self, rather than appreciate who we are in the current moment.
+
+* Self-improvement means self-acceptance is conditional on "fixing" yourself, only getting a respite when you do an A+ job, meaning it's everlasting
+* We think if we punish ourselves enough, we'll change. 
+* Believe that we're giving up control by choosing self-acceptance, specifically, we're exerting some sort of meaningful control when we fight against something
+
+Signs:
+
+* Willing to root for the future version of you, but feel contempt and disgust when you think of the person you are now
+* Use self-improvement as an excuse to isolate and hide from other people ("disappear for 6 months and return a changed person" trope)
+* Use self-improvement to hide in plain sight (you refuse to relate to people as the person you really are, only talk about plans of the future, "sell" them a better version of you, never the present version)
+* Go through cycles through extreme work on yourself then burnout / collapse (grindset, high goals, "I'll be happy once I get there", no joy in the present)
+* Try to stay in control of which feelings you're having when (terrified of spontaneous feelings / natural state of living; keeping shame out)
+
+Recovery:
+
+* Develop dignity and respect for all parts of yourself
+  * *"Dignity is your inner parent saying to your inner child: 'It's OK that you have ended up where you have ended up in life. It makes sense, based on what has happened to you, that you have ended up here. So let's look at where we're at, together, with compassion. And let's figure out what we need to change as a team, so that we can end up somewhere better -- where we feel less defended, and more open to the world around us. I'm going to stay present with you, and I'm going to help you get there. I am not going to abuse you along the way.'"*
+* Reality check your shame beliefs
 
 ## 🤳 Tech Addiction
 
@@ -466,17 +612,24 @@ Manage:
   * Read physical books
   * Put phone away when talking to others
   
+## 💼 Workaholism
+
+Whether it’s your career, community projects, or personal to-do lists that consume your everyday life, your addiction to activity is problematic for many reasons. Once you get a dose of completing a job, an impulsive urge to drown yourself in more activity immediately creeps in. Without it, you experience a profound sense of worthlessness.
+
+This kind of “improvement” workaholism is about self-worth and a felt sense of safety. Because idleness feels unsafe in the body of a workaholic, non-activity is misconstrued as uselessness, which feels like a gaping hole in your beingness. The wisdom of a workaholic’s body knows that not creating, producing, or improving oneself or the environment is on par with being an unlovable sack of garbage. So your body keeps you busy.
+
+A work-oriented perfectionist unconsciously harbors a belief that they’re unworthy unless they’re busy fixing themselves or the world. Learn to be in touch with what you’re feeling in your body, known as interoception. This alone is a practice that will pay you back tenfold in overall well-being, decision-making, and trusting your inner guidance.
 
 # Adaptive Mindsets
 
-## Cognitive Reframing
+## 🖼️ Cognitive Reframing
 
 * Once identified, begin acknowledging when and where maladaptive thoughts arise. * When these automatic thoughts pop up, start thinking about the why behind them. 
 * Start questioning your assumptions and gather evidence against your biases.
 * Start performing a cost-benefit analysis of your negative thoughts.
 * Switch negative thoughts for positive ones.
 
-## Emotional Regulation
+## ⚙️ Emotional Regulation
 
 * Acknowledge and name emotion; use emotions wheel below if necessary
 * Pause and notice - don't avoid emotion or use distractions
@@ -509,6 +662,13 @@ Practice:
 * Practice self-compassion
 * Make amends, if possible, and try to see things from the other person's perspective
 * Write a letter saying how you were hurt, write their response, and repeat aloud until you find peace and can let go of anger 
+
+Ho'oponopono method of forgiveness:
+
+* Remorse
+* Forgiveness
+* Gratitude
+* Love
 
 ## 🙏 Gratitude
 
@@ -765,12 +925,25 @@ Harmony, Significance, Silence
 * Old Age
   * Completion, Consideration, Contentment, Ease, Wholeness 
 
+## 🧙‍♂️ Philosophical Approaches
+
+* Absurdism - a search for meaning is inherently in conflict with the actual lack of meaning, but that one should both accept this and simultaneously rebel against it by embracing what life has to offer
+  * Live in constant revolution, reject hope after death, live with a sense of passion for life
+* Existentialism - through a combination of awareness, free will, and personal responsibility, one can construct their own meaning within a world that intrinsically has none of its own
+  * Nihilism - not only is there no intrinsic meaning in the universe, but that it’s pointless to try to construct our own as a substitute.
+
+### 🪷 Buddhism
+
+* Carpet Shoes Analogy - If you want to walk on a carpet all day, it’s harder to cover the world in carpet than it is to wear carpet shoes. (ie, reduce needs you have to fulfill to increase likelihood they get met)
+* Kintsugi - bowls that shattered, but are repaired by golden glue to be made whole again. (ie, don't assume because something is broken that it's useless)
+* Oubaitori - imagine there are four different flowers: cherry, apricot, peach, and plum. Which one is "better" and which one is "falling behind"? (ie, comparisons with others are pointless because each flower has its own journey, focus on your individual growth journey)
+
 ## 🆗 Radical Acceptance
 
 Acceptance is acknowledging a particular situation is indeed happening, and making space for any part that screams "no" at the situation. The goal is to keep pain from turning into suffering. Myths:
 
 * Acceptance does not mean we're OK with a situation or agree with it
-* Acceptance does not mean we stop trying to change it
+* Acceptance does not mean we stop trying to change it, or lead to laziness, complacency, or lack of drive
 * Acceptance is not failure
 
 Practice:
@@ -805,7 +978,144 @@ Challenges:
 * Practice **behavioral self-compassion** when the fear of self-compassion is high. This means focusing on what is needed in the moment, like taking a break from work when stressed, rather than mental exercises.
   * What do I need to feel safe? To be comforted, soothed, validated? To protect, provide for, motivate myself?
 
-## Vulnerability
+Practice:
+
+* Awareness of emotions and self-criticism
+* Reframe judgmental thoughts as factual ones
+* Offer comfort, love, and support
+* 
+
+## ✨ Values-Driven Living
+
+Values are enduring beliefs upon which a person acts.
+
+Types of values:
+
+* Résumé virtues - valued in the contemporary marketplace (the high test scores achieved by a student, the professional accomplishments pulled off by an adult, etc). They are the skills that are met with bigger paychecks and public approbation. They require comparison with others.
+* Eulogy virtues - the aspects of character that others praise when a person isn’t around to hear it: humility, kindness, bravery. Eulogy virtues are ethical and spiritual, and require no comparison. Our society exalts the résumé virtues, but it overlooks the humbler eulogy virtues. Still, he writes, we know at our core that this second category of values is what matters more. 
+
+Determine values (top 15 and top 2) from list below:
+
+* Accountability
+* Achievement
+* Adaptability
+* Adventure
+* Altruism
+* Ambition
+* Authenticity
+* Balance
+* Beauty
+* Being the best
+* Belonging
+* Career
+* Caring
+* Collaboration
+* Commitment
+* Community
+* Compassion
+* Competence
+* Confidence
+* Connection
+* Contentment
+* Contribution
+* Cooperation
+* Courage
+* Creativity
+* Curiosity
+* Dignity
+* Diversity
+* Environment
+* Efficiency
+* Equality
+* Ethics
+* Excellence
+* Fairness
+* Faith
+* Family
+* Financial stability
+* Forgiveness
+* Freedom
+* Friendship
+* Fun
+* Future generations
+* Generosity
+* Giving back
+* Grace
+* Gratitude
+* Growth
+* Harmony
+* Health
+* Home
+* Honesty
+* Hope
+* Humility
+* Humor
+* Inclusion
+* Independence
+* Initiative
+* Integrity
+* Intuition
+* Job security
+* Joy
+* Justice
+* Kindness
+* Knowledge
+* Leadership
+* Learning
+* Legacy
+* Leisure
+* Love
+* Loyalty
+* Making a difference
+* Nature
+* Openness
+* Optimism
+* Order
+* Parenting
+* Patience
+* Patriotism
+* Peace
+* Perseverance
+* Personal fulfillment
+* Power
+* Pride
+* Recognition
+* Reliability
+* Resourcefulness
+* Respect
+* Responsibility
+* Risk-taking
+* Safety
+* Security
+* Self-discipline
+* Self-expression
+* Self-respect
+* Serenity
+* Service
+* Simplicity
+* Spirituality
+* Sportsmanship
+* Stewardship
+* Success
+* Teamwork
+* Thrift
+* Time
+* Tradition
+* Travel
+* Trust
+* Truth
+* Understanding
+* Uniqueness
+* Usefulness
+* Vision
+* Vulnerability
+* Wealth
+* Well-being
+* Wholeheartedness
+* Wisdom
+
+
+## 📖 Vulnerability
 
 *Until I was almost thirty my conversation seldom included anything but joke-telling and sports-talk. This superficiality made me feel perpetually lonely, even though I was popular whenever I stayed anywhere long enough to make acquaintances.*
 
@@ -842,6 +1152,13 @@ Practice:
 
 # Adaptive Activities
 
+## 🗣️ Affirmations
+
+A reflection on personally relevant values.
+
+* Try and use affirmations that are believable and don't feel fake.
+* Write down your chosen affirmations on a sticky note or scrap of paper, and hang it somewhere you will see it often, like your bathroom mirror. Each time you pass the sticky note, recite the affirmation(s) out loud
+
 ## 🫁 Breathing
 
 Methods:
@@ -849,6 +1166,22 @@ Methods:
 * **Downregulating** - use when highly anxious. Make out breaths longer than in breaths.
   * When inhaling, take a small second breath to inhale slightly extra before breathing out through the mouth to slow your heartbeat and ground you quicker.
 * **Upregulating** - use when in a freeze response. Make in breaths longer than out breaths.
+
+## 😭 Crying
+
+How to most effectively cry:
+
+* open throat 
+* let sound come from belly 
+* relax face 
+* relax chest and belly 
+* go into feeling of pain discomfort in chest and belly with attention 
+* allow recall of painful memory to arise 
+* allow emotional pain to arise 
+* imagine blowhole in top of head to allow excess energy tension buildup to release 
+* relax jaw 
+* stay with sensations 
+feel the pain 
 
 ## ✍ Journaling 
 
@@ -871,7 +1204,39 @@ The ability to enjoy terminal leisure is a stronger predictor of wellbeing than 
 
 ## 🧘‍♀️ Mindfulness 
 
-Mindfulness can harm if done recklessly. Practice in moderation as you slowly build tolerance.
+Mindfulness can harm if done recklessly. Practice in moderation as you slowly build tolerance. Hindrances include Desire, Aversion, Sleepiness, Restlessness, and Doubt.
+
+Strategies:
+
+* Detachment - experiencing our feelings without allowing them to control us
+* Radical acceptance - see above
+* Embodiment - being fully in your body and its experiences; note that is different than hyperawareness of the body
+  * Disembodiment - imagine your head being a balloon, with the knot of the balloon being at the base of the head/neck, keeping the "self" trapped in your balloon head and out of her body.
+  * Embodiment - imagine untying the balloon knot and letting all the air (self) from the balloon flow down from the neck and into the chest, arms, hips, etc."
+* Window of Tolerance - describes an optimal range of emotional arousal within which an individual can effectively cope with stressors and engage in adaptive behaviors. Think of it as a “comfort zone” where you can manage challenges without feeling overwhelmed or shutting down.
+  * Hypoarousal
+    * Freezing during an exam
+    * Feeling numb after a breakup
+  * Hyperarousal
+    * Panic during a presentation
+    * Angry outburst during group project
+
+Types of Meditation:
+
+* Presence / Mindfulness - improves attention, gray matter in prefrontal cortex, and body awareness (after 6 months of training regularly)
+  * Body scans
+  * Breathwork
+  * Pay attention to present moment
+  * Walking meditation
+* Affect - improves attention, compassion, gray matter related to supramarginal gyrus (improved empathy), social stress and connection
+  * Loving-kindness meditation
+  * Compassion
+  * Gratitude
+  * Accept difficult emotions and increase motivation to be kind towards others
+* Perspective - improves theory of mind, gray matter in temporo-parietal junction, social stress and connection,
+  * Become aware of own thinking
+  * Gain perspective on personality
+  * Taking perspective of others
 
 ## ☺️ Self-Soothing
 
@@ -946,10 +1311,39 @@ Processes internal body and emotional states
 * Mindfulness
 * Send messages of safety and love
 
+## 💤 Sleep 
+
+Sleep Hygiene:
+
+* Get into bed only when sleepy, not tired.
+* Make room dark, cool (65F), and quiet (besides white noise/fan)
+* Use bed only for sleep
+* Don't check time
+* Don't lay in bed for more than 20 minutes
+* Keep relaxing activities nearby if you can't sleep 
+* Set sleep and wake time
+* Get sunlight exposure after waking up
+* Limit/eliminate naps
+* Have pre-bedtime routine
+* Don't take problems to bed
+* Exercise earlier than 4 hours before bedtime
+* No food within 3 hours of bedtime
+* No liquids within 2 hours of bedtime
+* No work within 2 hours of bedtime
+* Caffeine before noon, alcohol never
+* Don't sleep in more than 2 hours on weekends
+* Limit screen time an hour before bedtime
+* Don’t sleep in after tough night
+* Don’t rearrange life around sleep
+
+Fall asleep quickly:
+
+* Cognitive Shuffling: start with a word like ocean and think of all words you can that start with O; then go to C and think of all letters that start with C, and so on. This works because it's mundane and mimics the first stage of sleep
+
+
 ## 🛋️ Therapy
 
 * Cognitive Behavioral Therapy (CBT)
-* Dialectical Behavioral Therapy (DBT)
 * Eye Movement Desensitization Reprocessing (EMDR)
 * Ideal Parent Figure
 * Mindfulness-Based Stress Reduction (MBSR)
@@ -991,6 +1385,154 @@ Strategies:
 ### 🧠 Brainspotting
 
 In a nutshell, through some quirk of the brain, stuck trauma can actually be accessed through the visual cortex. Brainspotting takes advantage of this to help process trauma. By identifying eye positions correlating with emotional activation, healing and release through the mind-body connection can occur.
+
+### 🔎 Cognitive Behavioral Therapy (CBT)
+
+Focuses on modifying dysfunctional emotions, behaviors, and thoughts by interrogating and uprooting negative or irrational beliefs.
+
+Common negative beliefs:
+
+* I am worthless / unworthy
+* I deserve pain / suffering / misery / punishment / disrespect
+* I am stupid
+* I am weak / helpless / unsafe / powerless / stuck
+* I am inadequate / not good enough / not doing enough
+* I am a failure
+* I am broken / defective
+* I am a bad person
+* I can't trust others
+* I am unwanted / unlovable / disliked / don't belong
+* I don't deserve to be happy
+* I am abandoned / alone / disconnected / excluded / rejeected
+* I am weak and helpless
+* I am unseen and unheard
+* I don't matter and am unimportant
+* My life will always be like this, nothing will ever help, my life sucks, I'll never get better
+* Everyone has moved on without me
+* I am a burden
+
+Ways to change beliefs:
+
+* Understand all your beliefs. Which support growth and which don't?
+  * Notice unhealthy patterns in your life and recurrent challenges. Could a limiting belief be the root cause?
+  * When a negative belief shows up, ask "according to whom?" to narrow down where the standard originally came from
+* Catch thoughts when they occur
+* Question the thought when it comes in. Is it true, harmful, or exaggerated?
+* Change it - use evidence gathered to replace the belief with a more compassionate message
+
+Positive beliefs to develop instead:
+
+1. I want to develop a more consistently loving and accepting relationship with myself. I want an increasing capacity for self-acceptance.
+2. I want to become the best possible friend to myself.
+3. I want my relationships to be based on love, respect, fairness, and mutual support.
+4. I want to expand into full, uninhibited self-expression.
+5. I want to attain the best possible physical health.
+6. I want to cultivate a balance of exuberance and peace.
+7. I want to attract to myself loving friends and loving community.
+8. I want increasing freedom from toxic shame.
+9. I want increasing freedom from unnecessary fear.
+10. I want rewarding and fulfilling work.
+11. I want a healthy amount of peace of mind, spirit, soul, and body.
+12. I want to increase my capacity to play and have fun.
+13. I want to make plenty of room for beauty and nature in my life.
+14. I want sufficient physical and monetary resources.
+15. I want a fair amount of help (self, human, or divine) to get what I need.
+16. I want divine love, grace, and blessing.
+17. I want a balance of work, play, and rest.
+18. I want a balance of stability and change.
+19. I want a balance of loving interaction and healthy self-sufficiency.
+20. I want full emotional expression with a balance of laughter and tears.
+21. I want sexual satisfaction.
+22. I want to express my anger in effective and nonabusive ways.
+23. I want all this for each and every other human being as well as myself.
+
+
+### Dialectical Behavioral Therapy (DBT)
+
+Meant for people who struggle with undercontrol and people with anxious attachment styles. A bit over-obsessed with acronyms, but there are 4 main components to treatment:
+
+* Distress Tolerance
+* Mindfulness
+* Interpersonal Effectiveness
+* Emotional Regulation
+
+DBT Legitimate Rights:
+
+	1. You have a right to need things from others
+	2. You have a right to put yourself first sometimes
+	3. You have a right to feel and express your emotions and pain
+	4. You have a right to be the final judge of your beliefs and accept them as legitimate
+	5. You have a right to your opinions and convictions
+	6. You have a right to your experience, even if it's different from other people
+	7. You have a right to protest any treatment or criticism that feels bad to you
+	8. You have a right to negotiate for change
+	9. You have a right to ask for help, emotional support, or anything else you may need (though you may not always get it)
+	10. You have a right to say no; it doesn't make you bad or selfish
+	11. You have a right not to justify yourself to others
+	12. You have a right to choose not to respond to a situation
+You have a right to occasionally disappoint or inconvenience others
+
+### 👁️ EMDR
+
+*There is a difference between knowing and understanding. I had known that this wasn’t my fault. EMDR unlocked the gate to the next realm, toward understanding. The difference is one between rote memorization and true learning. Between hypothesis and belief. Between prayer and faith. It seems obvious now—how can there be love without faith?*
+
+* Floatback Technique - Bring to mind a negative cognition and recent event. Where do you feel it in your body? As you think of the recent incident and the negative cognition, notice the feelings in your body, and let your mind float back to childhood. What memory comes to mind when you felt that way? If something automatically comes to mind, then write it down in your Memory column along with your age and the SUD level. Using cue words, list the earliest memories and the ones with the highest SUD level.
+* Butterfly Hug - Cross your arms in front of you with your right hand on your left shoulder and your left hand on your right. Then you tap your hands alternately on each shoulder slowly four to six times. To try it, bring up the image of the safe or calm place along with that positive word that you’ve connected with it and allow yourself to go into that state of safety or calm. And when you have that sense, tap alternately on your thighs or with the Butterfly Hug four to six times, then stop and take a breath and see how it feels.
+
+### Inner Child Work
+
+Generally done through reparenting yourself. A common method is the Ideal Parent Figure Protocol, where you release negative introjects (parental figures and values) you internalized as a child.
+
+* Recognize you are separate from your parents, and can live life according to your values, not theirs
+* Forgive your parents. Doesn't mean condoning their actions or forgetting, but letting go of anger and resentment towards them.
+* Build a relationship with yourself (learning who you are, what you want out of life, accepting and loving yourself despite flaws)
+* Develop a new internal parent to provide love and guidance you need (based on either real or fictional character)
+
+Pillars of reparenting:
+
+* Emotional regulation
+* Loving discipline - setting boundaries, saying no, stating needs, following routines
+* Self-care - healthy diet, sleep, meditation, journaling, nature, etc
+* Child-like wonder - creativity + imagination; joy + spontaneity + playfulness. 
+  * Play more often; the opposite of play is depression (childhood movies, TV shows, video games, books, hobbies, treating yourself)
+  
+Exercises:
+
+* Reparenting journal exercise
+  * How does you show up in the world as a child? Who were you at your best? How did you interact with others and the world around you? Write down 5-20 traits describing how you were as a child.
+  * How do you show up in the world today? Who are you at your best? How do you interact with others and the world around you? Write down 5-20 traits describing your ideal inner adult.
+  * Allow these two parts to have a conversation with each other to better understand one another. Let the inner child take the lead on the conversation and make sure they're heard first and foremost
+
+#### Self-Mothering
+
+Heals the wounds of self-neglect.
+
+* I want you.
+* I love you.
+* I’ll take care of you.
+* You can trust me.
+* I’ll be there for you; I’ll be there even when you die.
+* It is not what you do but who you are that I love.
+* You are special to me.
+* I love you, and I give you permission to be different from me.
+* Sometimes I will tell you “no” and that’s because I love you.
+* My love will make you well.
+* I see you and I hear you.
+* You can trust your inner voice.
+You don’t have to be afraid anymore.
+
+#### Self-Fathering
+
+Heals the wounds of abuse. Self-fathering gestates assertiveness and self-protection. It includes confronting external or internal abuse, and standing up for the adult child’s rights.
+
+* I love you.
+* I have confidence in you. I am sure you can do it.
+* I will set limits and I will enforce them. (“You do have to go to school.”)
+* If you fall down, I will pick you up. (Learning to ride a bicycle is a common example of this experience with father.”
+* You are special to me. I am proud of you.
+* (Especially for women) You are beautiful, and I give you permission to be a sexual being.
+* (Especially for men) I give you permission to be the same as I am AND permission to be more than I am AND permission to be less than I am.
+
 
 ### 👨‍👩‍👧‍👦 Internal Family Systems (IFS)
 
@@ -1065,6 +1607,33 @@ Signs of not coping well:
 * Fewer chores done
 * Self-soothing with food
 
+Signs of heightened health anxiety (related due the symptom imperative, though validate with a doctor if symptom is new):
+
+* Muscle twitching all over body
+* Numbness
+* Blurry vision
+* Dizziness
+* Yellow shits
+* Stomachaches, spasming stomach, bloating, acid reflux
+* White covered tongue
+* Brain fog, inability to concentrate
+* heart jumps and scares
+* Bloodshot eyes
+* chest tightness and pain
+* headaches
+* migraines with aura
+* ear ache
+* ringing in my ear
+* crawling sensation in my ear
+* ulcers like all the time
+* felt weak (e.g. In the gym)
+* Nausea
+* Back pain
+* Joint pain
+* jittery jaw/ involuntary jaw moving
+* swollen lymph nodes
+* numbness and tingling down one side of face
+
 Recovery from chronic pain is not a linear process; relapses will happen and that is NORMAL! Steps to recovery are as follows:
 
 * Understand Pain Triggers
@@ -1100,12 +1669,13 @@ Recovery from chronic pain is not a linear process; relapses will happen and tha
 * Understand Relapses
   * Stages are Panic, Forcing It (doing the same recovery steps with desperation), Stabilization (doing recovery steps with the right intentions)
   * Digging into weeds on childhood trauma and constantly revisiting isn't always the answer to reducing pain
+* Don't Google your symptoms lest you think you have a stroke, tumor, heart attack, cancer, lyme disease, etc
 
 ### Radically Open Dialectical Behavior Therapy (RO DBT)
 
 *We don’t feel connected because we feel safe. We feel safe because we feel connected.*
 
-Radically Open DBT is meant for disorders of overcontrol (OC) and people with avoidant attachment styles. The core problem with OC clients include social signaling deficits, low openness, and aloofness. [Difference between DBT vs RO DBT](https://www.newharbinger.com/blog/professional/how-is-ro-dbt-different-from-dbt/)
+Radically Open DBT is meant for disorders of overcontrol (OC) and people with avoidant attachment styles. The core problem with OC clients include social signaling deficits, low openness, and aloofness. OC is a combination of nature, nurture, and risk-averse coping mechanisms [Difference between DBT vs RO DBT](https://www.newharbinger.com/blog/professional/how-is-ro-dbt-different-from-dbt/)
 
 Overall, clients need to let go of always striving to perform better or try harder.
 
@@ -1122,6 +1692,7 @@ Signs of OC:
   * Constantly seeing mistakes everywhere, especially yourself
   * Foreboding joy - always expecting the other shoe to drop
   * Need to plan and prepare for everything
+  * Compulsive fixers
 * Aloof and distant style of relating
   * Avoiding eye contact
   * Keeping self physically small, closed off body language
@@ -1135,47 +1706,127 @@ Skills:
 
 * Self-enquiry
   * Mindfulness practice that patients can use to better understand themselves and why they interact with the world in the way they do
+  * "What is it that I might need to learn from the experience?"
+  * Keep self-enquiry practices <5 mins and don't always trust the quick answers/urges you receive
 * Use social signaling to attract others and feel safe by activating your social safety system
 * Practice urge surfing when unwanted impulses occur
 * Practice compassion when in a fixed and fatalistic mindset; aim to adapt a flexible mindset
 * Cultivate healthy self-doubt
   * We don’t see things as they are but rather as we are.
+* Big 3 + 1 Exercise
+  * Take a deep breath by slowly inhaling and exhaling, and simultaneously:
+  * Engage in a closed-mouth smile (turn up the ends of your lips and stretch your lips over your teeth). Note that this type of smile activates the muscles around your eyes (where you typically see wrinkles). If you try this smile and only the bottom half of your face is moving, you may be practising what’s referred to as a half-smile. Ensure that you activate the muscles around your eyes.
+  * Raise your eyebrows for a moment.
+  * Additionally, if you are sitting in a chair with a back, then lean back.
+
 
 ### Schema Therapy
 
-* Maladaptive Schemas
-  * Abandonment & Instability
-  * Mistrust & Abuse
-  * Emotional Deprivation
-  * Defectiveness & Shame
-  * Social Isolation & Alienation
-  * Dependence & Incompetence
-  * Vulnerability to Harm or Illness
-  * Enmeshment & Undeveloped Self
-  * Failure to Achieve
-  * Entitlement & Grandiosity
-  * Insufficient Self-Control & Self-Discipline
-  * Subjugation
-    * Excessive surrendering of control (needs, emotions) to others out of coercion
-  * Self-Sacrifice
-  * Approval & Recognition Seeking
-  * Negativity & Pessimism
-  * Emotional Inhibition
-  * Unrelenting Standards & Hypercriticalness
-  * Punitiveness
-    * People, including oneself, should be harshly punished for making mistakes
-* Maladaptive Coping Responses
-  * Overcompensation
-    * Aggression & Hostility
-    * Dominance
-    * Recognition Seeking
-    * Manipulation & Exploitation
-    * Passive-Aggressiveness & Rebellion
-    * Excessive Orderliness & Obsessionality
-  * Surrender
-    * Compliance & Dependence
-  * Avoidance
-    * Social Withdrawal & Excessive Autonomy
-    * Compulsive Stimulation Seeking
-    * Addictive Self-Soothing
-    * Psychological Withdrawal
+List of Maladaptive Schemas
+
+* Abandonment & Instability
+* Mistrust & Abuse
+* Emotional Deprivation
+  * Signs: Emotionally feeling flat, disliking emotions, avoiding emotional situations, being "robotic" or otherwise detached, hiding emotions, only feeling emotion in nonpersonal ways
+  * Treatment: Consider your past, use a third-person narrative to describe your feelings, read fiction, pay attention to fictional character's needs and feelings, use feelings wheel, learn about boundaries, practice sharing emotions with people who care, attending to emotions with care, validation, nurturing, and security
+* Defectiveness & Shame
+* Social Isolation & Alienation
+  * Signs: Find social activities exhausting, hiding who you really are, believe if people see the real you they'll reject you, compare self unfavorably to others, strong inner critic, and often feel lonely 
+  * Treatment: Review the past, change your POV, take stock, take a sober look at the situation, take action against the inner critic, start repairing your self-esteem
+* Dependence & Incompetence
+* Vulnerability to Harm or Illness
+* Enmeshment & Undeveloped Self
+* Failure to Achieve
+* Entitlement & Grandiosity
+* Insufficient Self-Control & Self-Discipline
+* Subjugation
+  * Excessive surrendering of control (needs, emotions) to others out of coercion
+* Self-Sacrifice
+* Approval & Recognition Seeking
+* Negativity & Pessimism
+* Emotional Inhibition
+* Unrelenting Standards & Hypercriticalness
+* Punitiveness
+  * People, including oneself, should be harshly punished for making mistakes
+
+Maladaptive Coping Responses
+
+* Overcompensation
+  * Aggression & Hostility
+  * Dominance
+  * Recognition Seeking
+  * Manipulation & Exploitation
+  * Passive-Aggressiveness & Rebellion
+  * Excessive Orderliness & Obsessionality
+* Surrender
+  * Compliance & Dependence
+* Avoidance
+  * Social Withdrawal & Excessive Autonomy
+  * Compulsive Stimulation Seeking
+  * Addictive Self-Soothing
+  * Psychological Withdrawal
+
+Schema Modes:
+
+* Innate child modes
+  * Vulnerable child
+  * Angry child
+  * Impulsive child
+  * Contented child
+* Maladaptive coping modes
+  * Compliant surrenderer
+  * Detached protector
+  * Overcompensator
+* Maladaptive parent modes
+  * Punitive parent
+  * Demanding parent
+* Healthy adult mode
+
+## 🧎‍♀️ Yoga
+
+### Shoulder
+
+* Bow Pose
+* Clasp Hands Behind Back
+* Cow Face
+* Cross-Body Reach
+* Eagle Arms
+* Finger Walk up Wall
+* Forward Fold with Clasp
+* Overhead shoulder stretch
+* Thread the Needle
+* Towel Stretch
+* Wall Chest Stretch
+* Wall Downward Dog
+* Wall Prayer Stretch
+
+### Back
+
+* Cat-Camel
+* Child's Pose
+* Cobra
+* Downward Dog
+* Forward Fold
+* Head to Knee
+* Plow
+* Puppy's Pose
+* Rabbit Pose
+* Revolved Head to Knee
+* Side Angle
+* Twists
+
+### PSOAS and Hip Flexors
+
+Hips are a storing ground for trauma, stress, and anxiety.
+
+* Butterfly
+* Cow-Face
+* Double pigeon
+* Eye of the needle
+* Forward fold
+* Frog pose
+* Happy baby
+* Indian Pose
+* Pigeon
+* Runner's lunge
+* Seated twist

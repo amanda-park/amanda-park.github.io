@@ -215,9 +215,28 @@ Managing:
 
 ## 😢 Feeling Depressed
 
-Note - I'm not considering feeling depressed as the same as something like Major Depression Disorder (MDD). This is meant more for mild cases.
+Note - I'm not considering feeling depressed as the same as something like Major Depression Disorder (MDD). This is meant more for mild cases, though I am distinguishing this from regular sadness.
 
 *"People in the depressive position are often stigmatized as 'failures' or 'losers'. Of course nothing could be further from the truth. If these people are in the depressive position it is because they tried too hard or taken on too much. So hard and so much that they have made themselves ill with depression. In other words, if these people are in the depressive position, it was simply because their world was not good enough for them. They wanted more. They wanted better. They wanted different, not just for themselves, but for all those around them. So if they are failures and losers, this is only because they set the bar far too high. They could have swept everything under the carpet and pretended as so many people do, that all is for the best and the best of possible worlds. However, unlike most people, they had the strength and the honesty to admit that something was amiss; to admit that something wasn't quite right. So rather than being failures or losers they are all the opposite. They are ambitious, they are truthful, they are courageous, and that is precisely why they became ill. To make them believe that they are suffering from some mental disorder, or some chemical imbalance in the brain, and that their recovery depends entirely or even mostly on popping pills is to do them and to do us an immense disfavor. It is to deny them the opportunity, not only to identify and address important life problems, but also to deny them the opportunity to develop a more refined perspective and a deeper understanding of themselves and of the world around them; and therefore, to deny them the opportunity to develop their highest potential as human beings."- Dr. Neel Burton*
+
+Depression is all consuming, ongoing, and an exhausting response to a loss of some sort.
+
+Depression, though on the surface doesn't make sense from an evolutionary perspective, potentially was adaptive for these reasons (I'm not sure I buy this though tbh...):
+
+* Allows for staying safe after an injury
+* Offers either enhanced immune responses from infections, or during plagues, depressed people who didn't go outside were less likely to, you know, get infected and die
+* Introspection from depression allows for evaluating one's place and importance in a group
+
+Signs of depression: 
+
+* Inability to abandon negative beliefs about self, and typically dismiss positive information
+* Social withdrawal
+* Anhedonia
+* Disrupted sleep
+* Weight loss or gain
+* Fatigue or loss of energy
+* Poor concentration or indecisiveness
+* Extreme irritability or chronic anger
 
 Managing:
 
@@ -226,6 +245,11 @@ Managing:
 * Develop promotion goals (making good things happen) over prevention goals (avoiding bad things)
 * Build strong social ties through volunteering or clubs if your social circle is weak
 * Understand the beliefs associated with the Ideal Self (who you want to be), Actual Self (who you are), and the "Should Be" Self (what you feel you must do)
+* See depression as separate from yourself, not who you inherently are
+* Set realistic expectations - aim for content and not happy
+* Address demoralization and helplessness in therapy
+* Know that hating or loving yourself is a choice
+* With anhedonia, continue doing things even if the "want" isn't there
 
 ## 😭 Grief
 
@@ -422,6 +446,7 @@ Can show up in a variety of ways across all the domains of life and is generally
 * Financial rigidity through movement like FIRE
 * Excessive tidiness and cleanliness
 * Psychological orthorexia
+* Disapproval avoiding - creating an inoffensive persona by sanding down all the bits that make you authentic and becoming like white bread (which in turn, makes people not like you)
 * Unending personal development and growth
   * *Why do we have to grow and excel all the time? Why does failure require constant rehabilitation? Why can’t we just let it be exactly what it is – a normal and natural part of our mortal existence? To put it bluntly, the growth mindset purports to celebrate failure when in actual fact it does completely the opposite.*
 
@@ -643,6 +668,8 @@ But internal emigration can cultivate the habit of apathy. The very real desire 
 
 ## 🦺 Safety Behaviors
 
+*To have any hope of experiencing a deeper, lasting shift, we must recognise that as much as we want change, a part of us is terrified of it, and will fight against it, because we also want things to stay the same. Part of us is choosing a safer life over a better life.*
+
 Safety behaviors are things that we do to with the intention of keeping us safe.  They can include forms of avoidance, distraction, preparing, and checking. While safety behaviors may offer immediate relief from anxiety, they actually trap you in a long-term cycle of fear. 
 
 Signs of safety behaviors:
@@ -775,10 +802,49 @@ Brene Brown's 10 Guideposts for Wholehearted Living:
 
 ## ⚙️ Emotional Regulation
 
+Emotions give us data about ourselves and other people; us expressing our emotions also displays that data to other people. Generally, emotions signal something that we need to ourselves or others. 
+
+There are no "bad" or "good" emotions, despite how society may label them. While emotions are not always fact, pushing the emotion away can cause more problems than letting it run its course. In a mentally healthy state, emotions can validate and reward us for practicing healthy behaviors that help us thrive.
+
+Types of Regulation:
+
+* Auto-Regulation (it just happens automatically)
+  * Thumb-sucking
+  * averting eye contact
+  * Reading
+  * doing art
+  * watching TV
+  * Alcohol & drugs
+  * Masturbating
+  * Daydreaming
+  * Overeating
+  * Swiping or scrolling on your phone
+* External Regulation (You do it)
+  *	Being held and soothed by a caregiver
+	* Talking with a friend about your problems
+	* Listening to a live talk or music
+	* Getting a massage
+* Interactive Regulation (We do it)
+  * Dancing with a partner
+	* Sex
+	* Having a mutual dialogue
+	* Musicians playing together
+  * Cooking together
+* Self-Regulation (I do it)
+  * Breath control
+	* Mental techniques like cognitive reframing
+	* Muscle relaxation
+  * Vocal control
+  
+How to regulate:  
+
+* Remember you are not your feelings and your feelings are not who you are
+* Ideally teakettle emotions - let emotions out somehow before hitting a breaking point
+
 * Acknowledge and name emotion; use emotions wheel below if necessary
 * Pause and notice - don't avoid emotion or use distractions
 * Sit in silence for a few minutes
-* Don't rationalize or justify your feeling
+* Don't rationalize or justify your feeling, you can ask "What story are you telling yourself about this emotion, and is it true?"
 * Accept feeling may come up again but will be less intense each consecutive time
 
 ## 🫴 Forgiveness
@@ -1674,6 +1740,17 @@ DBT Legitimate Rights:
 	11. You have a right not to justify yourself to others
 	12. You have a right to choose not to respond to a situation
 You have a right to occasionally disappoint or inconvenience others
+
+DBT suggests using distraction in times of distress
+
+* Radical Acceptance
+* Distraction, Self Destructive (fling hairtie into wrist, etc)
+* Distraction, Pleasurable Activity (walk, journal, etc)
+* Distraction, Focus on someone else (help a friend with something)
+* Distract with thoughts (recall happier times)
+* Distract and leave situation
+* Distract with tasks and chores
+* Distract by counting (breathing, brain teasers, etc)
 
 ### 👁️ EMDR
 

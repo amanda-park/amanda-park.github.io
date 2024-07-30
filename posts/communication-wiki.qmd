@@ -12,6 +12,21 @@ description: 'My synthesized notes of all the communication strategies I have le
 
 # Adaptive Communication
 
+1. Know what type of conversation they're having
+	a. Practical conversation - problem-solving
+	b. Emotional conversation - empathy, not answers
+	c. Social conversation - relationships, gossip
+2. Proving that they're listening
+	a. Ask a question and listen to response
+	b. Repeat back in own words what they told you
+	c. Ask your convo partner if you got what they said correct
+3. Ask a lot of the right questions
+	a. Ask 10 to 20x more questions as everyone else
+	b. Ask deep questions about values, beliefs, or experiences
+	c. When in doubt, ask "why"
+4. Aim to understand
+Comprehend someone else's POV and share their own views accordingly
+
 ## ❔ Ask Good Questions
 
 Reflection
@@ -383,9 +398,25 @@ Society
 * If you were going to have a neighbor over for dinner, who would you pick and why?
 
 
-## Assertiveness
+## 😎 Assertiveness
 
+Assertiveness is communicating and expressing your thoughts, feelings, and opinions in a way that makes your views and needs clearly understood by others, without putting down their thoughts, feelings, or opinions. Assertiveness is the ability to express our thoughts and feelings openly in an Honest, Appropriate, Respectful and Direct way. It can be HARD to do, but it gets easier with practice. In assertive communication both individuals are considered to be equally important.
 
+Signs of assertiveness:
+
+* Having dignity and self-respect
+* Saying NO when justified without feeling guilty
+* Expressing your feelings
+* Asking for what you want directly
+* Feeling good about yourself
+* Being able to change your mind
+* Negotiating and reaching compromises when conflict exists
+* Being able to make mistakes
+* Ability to ask for help
+  * 1 to 2 sentence summary of the situation
+  * Show how you've taken responsibility for the situation
+  * Be very specific with your ask for help (one or two things at most)
+  * Can do it this way: I’m new at X, can you help me?
 
 ## 👂 Listening
 
@@ -431,8 +462,6 @@ Placating immediately to other person's needs
 * When calculating the final amount, use precise, nonround numbers like, say, 37,893 rather than 38,000. It gives the number credibility and weight.
 * On your final number, throw in a nonmonetary item (that they probably don’t want) to show you’re at your limit.
 
-
-
 ## Persuasion
 
 * Reciprocity
@@ -469,13 +498,52 @@ If you find yourself ruminating a lot on your own after seeing a certain person,
 
 ## Codependency
 
+## 📭 Enabling
+
+Signs of enabling:
+
+* Excusing the negative choices of others 
+* Ignoring that someone has a problem 
+* Doing things for people that they can do for themselves 
+* Finding solutions for people instead of allowing them to find answers on their own 
+* Offering money and resources when you can’t do so comfortably 
+* Preventing people from enduring the consequences of their actions 
+* Not setting boundaries around how to help others
+
+## Victimization
+
+* Don’t make excuses for things that you can control. 
+* Decide to move forward despite what happened. 
+* Let go of grudges. 
+* Acknowledge that you aren’t perfect. 
+* Explore what you’ve learned. 
+* Practice assertiveness. 
+* Stop comparing yourself with others. 
+* Identify ways that you can better care for yourself. 
+* Understand your feelings, and learn to express them. 
+* Minimize or eliminate self-pity (it will keep you stuck). 
+* Identify what you can control (own your power).
+
+
 # Adaptive Relationship Strategies
 
 ## 🧱 Boundaries
 
-## 👋 Meeting New People
+* You are not responsible for your parents' emotional wellbeing. They are independent adults who have been on this earth for many more years than you.
+* “You don’t attract the wrong people, you’re just not good at filtering out the people who aren’t good for you. It’s ok to say no.”
+* “Why do you make people more comfortable when you are uncomfortable” (people pleasing and fawning)
+  * Related - "don't set yourself on fire to keep others warm"
+* "why are you giving your power away?"
+* People pleasing should be thought of as self-abandonment
+* “There is a difference between being kind and being a doormat.”
+* Translate negative self-talk to understand what it's really trying to tell you
 
-* Identify Limiting Beliefs
+## 💥 Conflict Management
+
+## 👋 Meeting and Befriending New People
+
+### Identify Limiting Beliefs
+
   * Some variation of "My situation won't allow this":
     * "I live in a rural town and there is no way that I can ever get social support, and I’m doomed to feel alone forever."
     * "This community won't accept me because I'm not X enough"
@@ -488,19 +556,24 @@ If you find yourself ruminating a lot on your own after seeing a certain person,
     * "I don't belong here."
     * "I don't deserve friendships, I deserve abuse"
     * “If I’m not one hundred percent certain this person will accept and love me, I can’t take the risk to build trust with them.”
-* Reach out to others
-  * Go through list of contacts, determine when last in touch and reach out to:
-    * Those you haven't talked to in a long time but used to get along well with
-    * Who you'd like to be closer with but are afraid they wouldn't be interested
-    * Who has high upside to be a good friend if the effort is put in
-  * Message someone you regularly interact with online
-  * Message people online (90% of such is just reaching out in like-minded spaces where you can send DMs) with cold messages:
-    * “Hi, I think the work you’re doing is really cool. [Here’s what resonates with me and how it’s connected to my experience.] Also, I’d love to have a quick coffee date if you ever have time and would like to connect. No worries either way. Keep it up and let me know if there’s ever any way I can support you.”
-  * Write to a mutual friend you've always thought you'd get along with
-  * Put more effort into current friendships, or reconnect with decayed friendships
-  * Invite friends' significant others to events or ask them to invite a friend of a friend along
-  * Encourage yourself to make/keep friends even when being alone feels like a better plan
-  * After you have a chance to get to know someone a little, saying something like, “I’ve really enjoyed talking to you. I’m trying to build my friend network and I think you’re great and would love to hang out sometime. Would you be into that?” 
+    
+### Take Initiative and Reach Out to Others
+
+* Go through list of contacts, determine when last in touch and reach out to:
+  * Those you haven't talked to in a long time but used to get along well with
+  * Who you'd like to be closer with but are afraid they wouldn't be interested
+  * Who has high upside to be a good friend if the effort is put in
+* Message someone you regularly interact with online
+* Message people online (90% of such is just reaching out in like-minded spaces where you can send DMs) with cold messages:
+  * “Hi, I think the work you’re doing is really cool. [Here’s what resonates with me and how it’s connected to my experience.] Also, I’d love to have a quick coffee date if you ever have time and would like to connect. No worries either way. Keep it up and let me know if there’s ever any way I can support you.”
+* Write to a mutual friend you've always thought you'd get along with
+* Put more effort into current friendships, or reconnect with decayed friendships
+* Invite friends' significant others to events or ask them to invite a friend of a friend along
+* Encourage yourself to make/keep friends even when being alone feels like a better plan
+* After you have a chance to get to know someone a little, saying something like, “I’ve really enjoyed talking to you. I’m trying to build my friend network and I think you’re great and would love to hang out sometime. Would you be into that?” 
+
+### Join Groups and Attend Events
+
 * Join groups
   * Meetup
   * Classes
@@ -514,18 +587,39 @@ If you find yourself ruminating a lot on your own after seeing a certain person,
   * How likely is it that I'll interact with a person at an event?
   * How likely is it that I'll enjoy myself at this event?
   * Ex: go to shows or restaurants alone
-* Express vulnerability and tell others when you want to be friends with them
+* Find a third place, which:
+  * Is separate from the workplace and the home
+  * Is on neutral ground (no incentive to stay)
+  * Leveling place (anyone is welcome, accessible and accommodating)
+  * Conversation that is lighthearted is the main activity
+  * Has to be low-profile / not require spending lots of money
+  * Examples:
+    * Bars/pubs/taverns
+    * Cafes/coffee shops
+    * Parks
+    * Bookshops
+    * FLGS
+    * Churches
+    * Libraries
+    * Community centers
+    * Malls
+    * Recreation centers
 * Focus on yourself first (fill your life with play and pursue your own goals and interests)
 * Seek more rejection, not less
 * Be more selective in friendships 
 * Drop expectations of others, focus on giving to others without reciprocity
 
-# Relationship Types
+### Express Vulnerability and Authenticity
 
-## Community
+* Be vulnerable first; don't wait for the other person
+* Be vulnerable first even if it's scary. Remember you're not practicing it because it's comfortable; you're doing it because it aligns with your values and highest self
+  * Others won't judge you for your vulnerability as much as you think, and you might be perceived positively for doing so
+* Tell others when you want to be friends with them
+* Avoid oversharing, as that can push others away and cause you harm. Similarly, don't keep being authentic with those that treat you poorly for doing so
+* Don't feel like you need to become someone else to be liked; faking it is draining, and at its core it's a manipulative and inauthentic approach
 
-## Family
+### Be Generous
 
-## Friendship
+## Psychological Safety
 
-## Romantic Relationships
+Psychological safety is the shared belief that a team is safe for interpersonal risk-taking. It’s about creating an environment where people feel comfortable expressing themselves, asking questions, and making mistakes without fear of punishment or humiliation1.

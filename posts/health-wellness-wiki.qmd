@@ -69,6 +69,9 @@ Managing:
   * Exercise or dance
 * Keep an anger journal and reflect on emotional state prior to anger outburst, facts of the situation, what you were feeling when expressing anger
   * Pinpoint the needs underlying the emotion
+* "Anger is a blocked wish."
+* “How was anger expressed in your household growing up? Were you allowed to show anger?”
+* Anger is the brain reacting to fear. If you’re feeling anger, take a quick pause to ask what you’re afraid of.
 
 ### ⛏️ Repressed Anger
 
@@ -176,6 +179,9 @@ Manage:
  
 Wanting to do something fulfilling and not being able to. Feeling understimulated, tasks (if you have any) seeming meaningless and unsatisfying, and time seems to stretch out.
 
+* Need to embrace and work through boredom. Digital stimulation is used to numb unpleasant emotions, so reducing external stimulation is key.
+* Reach the end of thought (many are born of external stimulus, then a period of extreme boredom as your mind struggles for stimulation and seeks dopamine). Then will be hypersensitive to internal drivers and it'll be clear based on values what you want to do.
+
 ## 😞 Disappointment
 
 Disappointment is the negative state that you feel when your expectations aren’t met. 
@@ -237,11 +243,13 @@ Signs of depression:
 * Fatigue or loss of energy
 * Poor concentration or indecisiveness
 * Extreme irritability or chronic anger
+* Watching the same shows over and over again because of already knowing the outcome and not needing to worry about the emotional investment
 
 Managing:
 
 * Healthy habits (eat right, stay hydrated, exercise, meditate, 8 hours of sleep, be in nature, journal, etc)
 * Cognitive Behavioral Therapy can be used to manage thought biases that are common when depressed - how we feel is not evidence that these thoughts are true
+  * “It’s only a thought, it’s not any more powerful than a thought about how the milk is running low.”
 * Develop promotion goals (making good things happen) over prevention goals (avoiding bad things)
 * Build strong social ties through volunteering or clubs if your social circle is weak
 * Understand the beliefs associated with the Ideal Self (who you want to be), Actual Self (who you are), and the "Should Be" Self (what you feel you must do)
@@ -450,7 +458,7 @@ Can show up in a variety of ways across all the domains of life and is generally
 * Unending personal development and growth
   * *Why do we have to grow and excel all the time? Why does failure require constant rehabilitation? Why can’t we just let it be exactly what it is – a normal and natural part of our mortal existence? To put it bluntly, the growth mindset purports to celebrate failure when in actual fact it does completely the opposite.*
 
-This level of control can be a means to reduce feelings of inferiority and shame.
+This level of control can be a means to reduce feelings of inferiority and shame. Sometimes, when we procrastinate, it's because we need to feel control, even when the only thing we can control is choosing not to do something - even when it contributes to making our situation worse. 
 
 ## 👌 Perfectionism
 
@@ -1389,7 +1397,6 @@ Practice:
   * They affirm in the moment
   * They demonstrate integrity when they share other people's business
   * They consistently show up for you
-  
 * Recognize barriers to vulnerability   
   * Foreboding joy - always imagining worst-case scenario
   * Perfectionism
@@ -1399,6 +1406,8 @@ Practice:
   * Show vulnerability through demeanor, not just words (cry, shake, etc)
   * Others won't judge you for your vulnerability, may help you be perceived more positively as authentic and honest
   * Being invulnerable doesn't abolish weaknesses, just also hides strengths
+  * Watch out for beautiful mess effect, where we worry we will be judged harshly when we're vulnerable with others
+  * Don’t keep being vulnerable with people who have hurt you when you’re vulnerable.
 * Turn to friends for support when needed
 * Scaffolding vulnerability by disclosing to someone you trust, and then being vulnerable with someone who you’re less sure of.
 

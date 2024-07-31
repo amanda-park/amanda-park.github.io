@@ -144,6 +144,7 @@ With your selected list of 3-5 goals, ask:
         -   Tip: Large Language Models (LLMs) are great for summarizing large pieces of text into executive summaries
     -   *Express* what you have learned with the world in some way (like posting on a blog)
 -   📹 **Time Tracking** - Use either a paid or open-source tool (I recommend ActivityWatch) to automatically monitor how you're spending your time. Journaling can also work but is a pain to do consistently (too much friction). When in doubt, ask *"Is this how I want to be spending my time?"*
+  -   [100 Blocks a Day](https://waitbutwhy.com/2016/10/100-blocks-day.html) - imagine 100 10 minute blocks of time each day - how are you spending those blocks?
 
 ## 📂 Methods
 
@@ -162,9 +163,11 @@ With your selected list of 3-5 goals, ask:
 -   🪟 **Eisenhower Matrix** - distinguish tasks into 4 categories based on urgency and importance:
     -   ✅ Do - Urgent & Important
     -   🤝 Delegate - Urgent & Not Important
+      -   Assign a dollar value to your time and then delegate anything below that hourly rate to focus on high-leverage work instead (especially tasks you do not enjoy)
     -   📅 Schedule - Not Urgent & Important
     -   ❌ Delete - Not Urgent & Not Important
 -   🔋 **Energy Management** - identifying when you have high energy vs low energy and adapting your work tasks around that.
+-   **Flow State** - becoming fully immersed in an activity and experience a sense of enjoyment, focus, and productivity (balance between challenging task and using your skills to complete them)
 -   ⚓ **Habit Anchoring** - Link a new, desired habit to an already established one
 -   🪡 **Needle List** - identify easily-delayed tasks that continue to poke at you until they're finished (not work related, not urgent, and only mildly inconvenient) and schedule a regular cadence to knock them out
 -   🍅 **Pomodoro Technique** - cyclical method. Work for 25/50 minutes, stop for 5/10. Repeat in cycles.
@@ -175,6 +178,28 @@ With your selected list of 3-5 goals, ask:
     -   👀 **Year at a Glance** - Look at your calendar with the days measured vertically and each month as a column, so you can more easily digest what you have planned throughout the year and various accomplishments.
         -   Tip: use relevant emojis if you want to track habits each day in a quick visual manner; for example, 🏋️‍♀️ can represent exercising on a specific day
 -   🐫 **Two List Method** - create up to 25 goals, circle the top 5 you actually want to achieve, and the other 20 goals are in the "Avoid At All Costs" list.
+
+
+## ⚠️ Risks
+
+* Burnout - a combination of feeling overextended, disengaged, or feeling ineffective. Can figure out based on your stress levels from your workload, connection to work, rewards from work, autonomy in role at work, fairness, and community in current role if you're unsure.
+  * Overextended - live at 80% and say no more often
+  * Disengaged - seek connection and craft more meaningful schedule
+  * Ineffective - find ways to achieve clear wins and realign with your values
+  * If all 3, detach your worth from work and embrace garbage time
+  * Remember pragmatic ambition if you tend to take too much on and get burnt out - set goals that are reasonable to achieve in a year, and give yourself time to actually celebrate the goal (at least 3 months). Don't constantly chase goals endlessly, and have one project at most you are working on, or else you will burn out.
+* (Lack of) Motivation & Willpower
+  * Can be due to not enough drive, too much resistance, and/or a pull to distraction 
+  * Focus more on Want To motivation vs Have To motivation when possible
+  * To build motivation, get more physical movement in, stay connected to the goal, make small but consistent gestures, and rest and replenish between work
+  * Sometimes you need to rely on discipline to get the job done, not just feeling a desire to get the job done
+* Procrastination
+  * Crystal ball method
+    * Imagine it’s one week later, and you haven’t actually started the task you intended to. What are the top three reasons why you didn’t get to it?
+	  * What can you do to help mitigate the risk of those top three reasons derailing you?
+	  * Who can you ask for help in sticking to this commitment?
+    * What action can you take right now that will help increase the odds that you’ll actually do the task?
+
 
 # 🔭 Retrospectives
 
@@ -210,3 +235,33 @@ Schedule a few hours to do a deep dive into your goals, systems, and current pro
 ## Annually
 
 See Annual Goal Planning for how to do on an annual basis.
+
+# 💼 Career
+
+## Interviews
+
+Generally, answer interview questions with the STAR framework (situation, task, action, result).
+
+* Tell me about yourself
+* What do you do in your current role?
+* Describe a project or research you've done
+* Describe a time you've had to be ethical
+* Describe a conflict in your previous experience
+* Describe a time you took initiative
+* Describe a change in project scope or schedule and how you handled it
+* Describe a challenge you've faced and how you overcame it
+* Describe a time you worked with others to solve a problem 
+* Describe a mistake or failure in your previous role and how you overcame it
+* What are you looking for in your next role?
+* What do you know about the company?
+* What type of manager do you work best with?
+* What are your salary requirements? (Never answer this directly and try to get the other side to reveal their range)
+
+## Meetings
+
+1. Define the Meeting Objectives
+2. Create an Agenda + Send Calendar Invites
+3. Create a Safe Space for Collaboration
+4. Strategically Choose Attendees + Appoint Important Roles
+5. Best Practices to Stay on Track
+6. End With Clear Actions, Owners, and Timelines

@@ -163,6 +163,7 @@ Manage:
 * Is worrying *actually* helpful? If so, do it.
   * Will this matter in 10 minutes? 10 weeks? 10 years?
 * 25% of the people you meet won’t like you, and you won’t like 25% of the people you meet. They may not be the same people. Similarly, imagine you're an orange, and some people don't like oranges. It doesn't mean the orange is flawed in any way, just means that it's not everyone's preference.
+  * Similarly, “Some people are like cacti, strong and hardy. Others are like daffodils, bright and can bend in the wind. And some are like orchids. Delicate and need to be looked after but are beautiful and awe inspiring. What matters most is the environment they are grown in."
 * You're not special; people are too worried about themselves to be thinking of you. Besides, it's not your business what other people think of you
   * People are gossiping about you? Let them. Your boyfriend wants to break up? Let them. Your friend doesn’t heed your advice that you think is best? Let them. People don’t agree with you? LET THEM.
   * Just because you've always needed a reason to dislike someone, that's why it hurts when someone dislikes you, but not everyone else has a reason
@@ -254,16 +255,19 @@ Managing:
 * Build strong social ties through volunteering or clubs if your social circle is weak
 * Understand the beliefs associated with the Ideal Self (who you want to be), Actual Self (who you are), and the "Should Be" Self (what you feel you must do)
 * See depression as separate from yourself, not who you inherently are
+  * “You can be happy and sad. You can be an individual while still being a part of a community. You can feel grateful and displeased.”
 * Set realistic expectations - aim for content and not happy
+  * “You don’t have to be hopeful about the future. It’s enough to just be curious about what will happen next.”
 * Address demoralization and helplessness in therapy
 * Know that hating or loving yourself is a choice
 * With anhedonia, continue doing things even if the "want" isn't there
+* "There's a very fine line between being in a groove and being in a rut."
 
 ## 😭 Grief
 
 *As my grieving and recovery work progressed, I discovered why I was so intimacy-phobic: becoming intimate with another would (and eventually did) unlock the prodigious hunger of all my unmet needs for love. I was unconsciously terrified that if anyone began to meet those needs, I would begin to depend on them and end up needing them.*
 
-Combines painful feelings of loss with a desire to get back what we lost, even if that’s impossible. Often triggered by endings of life, relationships, jobs. It's a normal and natural part of being human, and the pain can be both physical and emotional. Trying to block out or repress grief can cause further problems down the line.
+Grief is love with nowhere to go. The depth of your grief is the depth of your love. Combines painful feelings of loss with a desire to get back what we lost, even if that’s impossible. Often triggered by endings of life, relationships, jobs. It's a normal and natural part of being human, and the pain can be both physical and emotional. Trying to block out or repress grief can cause further problems down the line. 
 
 5 stages of grief:
 
@@ -346,6 +350,7 @@ How to think of happiness:
 *As I continued to grieve I was shocked to feel how profoundly lonely I was and had always been. I had been so sure that I didn’t need anybody. My tears revealed to me the awful misery of my loneliness. I was daunted by the realization that I had never spent a moment of true interpersonal comfort with anyone.*
 
 Loneliness can be described in different ways; a commonly used measure of loneliness, the UCLA Loneliness Scale, asks individuals about a range of feelings or deficits of connection, including how often they feel: 
+
 * they lack companionship
 * left out
 * "in tune" with people around them
@@ -408,7 +413,9 @@ Managing:
 * Enjoy being alone
   * Pursue hobbies and things only you want to do
   * Take yourself out on a date and focus on things that your best days consisted of, what you stopped doing for no reason, and made hours fly by
+    * "I need to find a partner, I don't want to be alone". She rephrased that at the end of one session, "I want to find a partner, I don't need to be alone." 
   * Differentiate taking time for yourself (conscious choice) and self-isolation (driven by fear)
+    * "There is a difference between being lonely and being alone. Learn to embrace and enjoy the latter and the former will fade away."
 * Use nostalgia to give your life meaning again
   * Lonely people often feel like side characters in their own lives with a lack of meaning or direction; nostalgia can help to recenter the narrative
 
@@ -429,6 +436,8 @@ Even though rejection is painful, it's survivable.
 
 *We can’t remove shame by improving either. By doing more things, becoming better incarnations of the humans we are. We can only remove shame with empathy, love, acceptance, and connection. *
 
+*“What happened to you was wrong, but there is nothing wrong with you.”*
+
 Shame is the feeling that you’re an inherently bad or flawed person. and thus unworthy of love/belonging and/or incapable of change. When we feel shame, we might believe that we’re unworthy of love or incapable of change. Effectively, shame is the gap between who we are (current self) and what we want and/or believe we should be (ideal self), and needs shame, secrecy, and judgment to thrive.
 
 Signs it's present include thinking you're never good enough, not worthy of love and belonging, questioning why you feel you deserve these things in arrogance, and having emotional flashbacks.
@@ -440,6 +449,7 @@ Managing:
 * Practice self-compassion
 * Acknowledge the different parts of yourself
 * Share in the context of safe relationships
+* The fact that you are high functioning doesn't mean that you are easier for you to deal with, it means it's easier for others to deal with you.
 
 # Maladaptive Mindsets
 
@@ -462,6 +472,8 @@ This level of control can be a means to reduce feelings of inferiority and shame
 
 ## 👌 Perfectionism
 
+*May I have the strength to change that which I can change, the patience to endure that which I cannot, and the wisdom to know the difference between them.*
+
 Defense mechanism to cope with emotional neglect and also is about safety. 
 
 Three main types of perfectionism:
@@ -479,14 +491,16 @@ Examples:
 
 Treatment:
 
+* Remember both/and - two seemingly contradictory beliefs (especially if you are a black and white thinker) can be true at the same time
 * Recognize perfectionism is a self-defense against shame and does not serve you
   * Understand where the belief of perfectionism originated from in your past
 * Name your inner critic / perfectionist
 * Practice healthy striving, setting reasonable goals based on your wants and needs rather than external validation
 * Challenge inner negative thoughts with CBT
 * Accept when good enough is good enough
+  * 'I'm not really a perfectionist. I don't need to achieve 100%. 80% is good enough.' My psychologist: 'Have you considered that your 80% might be someone else's 100% or even 120%?'
 * Describe yourself in germs not associated with success in career, appearance, or how others think of you
-* 
+* You have to choose what you suck at. Nobody has time to do it all. Everyone puts a priority on their health and lots of people don't realize they're prioritizing it dead last.
 
 ## 🚫 Procrastination
 
@@ -533,9 +547,10 @@ People with high self-worth:
 Signs of low self-worth:
 
 * Conditional self-worth; only being worthy if your relationships, appearance, net worth, career, or achievements are X.
-* Feeling inherently undeserving of love and belonging
+  * Job/career can just be a way to make money, not your life or identity
+* Feeling inherently undeserving of love and belonging and deserving suffering
 * Fear that developing self-worth will stop motivation to grow/change, lead to arrogance, or that it's just impossible to cultivate
-* When you use the words “I should…”, you’re silently finishing the sentence with “…in order to be worthy of love and respect.”
+* When you use the words “I should...”, you’re silently finishing the sentence with “...in order to be worthy of love and respect.”
 
 Causes:
 
@@ -550,6 +565,9 @@ Treatment:
     * If this criteria represents your core beliefs, develop a realistic strategy to meet those goals and become worthy. 
     * Instead, if you realize you're clinging to a rigidity that you don't actually believe in, remember brains can confuse feelings for facts. So feeling undeserving can lead to your brain justifying your low self-worth, even if it doesn't align with your beliefs. Approach the issue on a metacognitive level. 
 * Remember that everyone has flaws and imperfections, flaws connect us and make us interesting, and *if someone had been through what you've been through, they'd likely have the same flaws.*
+* As uncomfortable as it might be, what if, that is just how and who you are?
+  * ”What is the constant point of your life? I am a doctor but I am also a mother, the former can change at any time but the latter will never change. So who are you and what is the never-changing point of your life? What is it that will never change even if the worst comes to happen?”
+
 
 ## 🤡 Self-Sabotage
 
@@ -723,6 +741,7 @@ Signs:
 * Experiencing psychological orthorexia
   * Self-improvement is a project that never ends and robs the joy from leisure activities that have nothing to improvement, as well as general community-focus
   * Proving your self-worth through overachieving at personal growth (workaholics shift towards this to show value)
+    * Ex: stressing out about not being "perfect" at a relaxation class
   * Doing a little bit of everything in recovery can be a way to meaningfully avoid engaging in any specific method (avoidance/neurosis)
   * Feeling as if there's a finish line to personal development and if you reach it you can tap into creativity and productivity whenever you wish
 
@@ -742,6 +761,7 @@ Why it happens:
 * Can be an educational avenue
 * Desire to be informed and know what's going on
   * You'll never learn enough to get to feel you know everything that's going on; the desire just leads to endless consumption without context 
+  * You will never do all your hobbies, read all the books, play all the video games, etc; you will have to pick and choose (treat hobbies like a river, where if something passes it's okay)
   * We are hard-wired to chase novel information, are in a world where novel information is readily accessible, and bad actors and AI exploit this
 
 Manage:
@@ -808,6 +828,52 @@ Brene Brown's 10 Guideposts for Wholehearted Living:
 * Start performing a cost-benefit analysis of your negative thoughts.
 * Switch negative thoughts for positive ones.
 
+## 🪥 Develop Healthy Habits
+
+List of healthy habits: 
+
+* Meditation & Mindfulness
+* Eat Mediterranean diet
+* Sleep 8 hours every night and have a consistent sleep schedule
+* Exercise moderately for 150 minutes every week
+  * Yoga, tai chi, qigong, etc to maintain flexibility
+  * Include both cardio and weightlifting
+* Set goals on a macro and micro level
+  * Visualize success
+  * Monitor how you spend your time
+* Set boundaries
+  * Take breaks to recover when needed
+* Journal to process emotions and understand better
+  * Find your why
+* Read regularly to learn new things
+
+How to do:
+
+* Make your habits and cues obvious
+  * Track what you do for a week by half-hour increments (use an automated tool if possible)
+  * Plan in advance when and where you’ll perform a new behavior: Use the formula, “When X occurs, I will do Y.” 
+  * Habit chaining: “After I do X, I will do Y” Be specific and realistic with this
+  * Don't let perfect be the enemy of good enough
+  * Make undesired habits harder to do (ie, don't buy junk food rule)
+* Make your habits appealing
+  * Temptation bundling: Connect "should dos" with things you want to do: “After X [current habit], I will do Y [new habit]. After I do Y, I get to do Z [craved habit].”
+  * Join a culture where desired behavior is normal and believe you're the type of person that does the habit you want
+			§ Ex: I am a person that exercises, etc
+			§ However, don't assume you'll be a different person overnight - change is gradual
+  * Do something you enjoy immediately before a difficult habit
+  * Reframe obligations as opportunities (not helpful for creativity based tasks)
+* Make your habits easier
+  * Automate tasks when possible to reduce cognitive load
+  * Pareto principle: focus on the 20% that really matters
+  * Design your environment to reduce friction (ie, keep RFA easy to see)
+  * 5 minute rule
+  * Use commitment device to hold you accountable to not breaking habits (ex: Freedom)
+* Make your habits fulfilling
+  * Reward yourself for succeeding at new habit, ideally instant reward
+  * Keep track of habit and "don't break the chain".
+  * Get accountability partner
+Financially penalize and/or shame yourself if you fail to achieve your habit
+
 ## ⚙️ Emotional Regulation
 
 Emotions give us data about ourselves and other people; us expressing our emotions also displays that data to other people. Generally, emotions signal something that we need to ourselves or others. 
@@ -844,13 +910,25 @@ Types of Regulation:
 	* Muscle relaxation
   * Vocal control
   
+Nervous system responses:
+
+* Safe (parasympathetic & ventral vagal)
+* Fight (sympathetic)
+* Flight (sympathetic)
+* Freeze (parasympathetic & dorsal vagal)
+  * Shutdown/Collapse (extreme hypoarousal)
+* Fawn (blended sympathetic and parasympathetic)
+  * Attach
+  * Submit
+  
 How to regulate:  
 
-* Remember you are not your feelings and your feelings are not who you are
+* Remember you are not your feelings and your feelings are not who you are. You can't control your emotions, but you can control what you do with them
 * Ideally teakettle emotions - let emotions out somehow before hitting a breaking point
-
-* Acknowledge and name emotion; use emotions wheel below if necessary
-* Pause and notice - don't avoid emotion or use distractions
+* Beware intellectualizing your feelings
+  * You've used humor your whole life to compartmentalize your trauma and keep it at arm's length. This is the first moment where you acknowledge that it's real, and it happened, and it's a part of who you are.
+* Acknowledge and name emotion; use emotions wheel if necessary
+* Pause and notice physical sensations - don't avoid emotion or use distractions
 * Sit in silence for a few minutes
 * Don't rationalize or justify your feeling, you can ask "What story are you telling yourself about this emotion, and is it true?"
 * Accept feeling may come up again but will be less intense each consecutive time
@@ -1149,6 +1227,13 @@ Harmony, Significance, Silence
   * Live in constant revolution, reject hope after death, live with a sense of passion for life
 * Existentialism - through a combination of awareness, free will, and personal responsibility, one can construct their own meaning within a world that intrinsically has none of its own
   * Nihilism - not only is there no intrinsic meaning in the universe, but that it’s pointless to try to construct our own as a substitute.
+* Stoicism - live according to virtue; important tenets:
+  * Thoughts, not events, cause pain
+  * Don't struggle with what you don't have control over
+  * Life is short, don't waste your time with people you don't like or tasks you don't enjoy
+  * Keep only valuable people in your social circle
+  * Everyone has flaws and don't amplify one person's opinion about you to the detriment of yourself
+  * Measure accomplishments against yourself and not others
 
 ### 🪷 Buddhism
 
@@ -1237,13 +1322,41 @@ Challenges:
   * Highly active threat detection systems cause children to see need for compassion as a sign they are weak, so they resist any expression of compassion due to concerns of being rejected, harshly criticized, or feeling undeserving.
 * Practice **behavioral self-compassion** when the fear of self-compassion is high. This means focusing on what is needed in the moment, like taking a break from work when stressed, rather than mental exercises.
   * What do I need to feel safe? To be comforted, soothed, validated? To protect, provide for, motivate myself?
+* Low self-worth; not believing you are worthy of love as you are, or deserving of any nice things
 
 Practice:
 
 * Awareness of emotions and self-criticism
 * Reframe judgmental thoughts as factual ones
 * Offer comfort, love, and support
-* 
+* Say the following mantras:
+  * "You were just a child. You did the best you could using the tools you'd learned. You had to shoulder things that most adults would struggle with. Things were out of your control. You weren't selfish for choosing to protect yourself." 
+  * "You didn't deserve that."
+
+### 💗 Self-Love
+
+Self-love is a more stable construct than self-compassion; while you can choose to be compassionate towards yourself in any moment, self-love is probably something that you will need to build up.
+
+* Find what you enjoy doing
+  * "What do I want to do?" vs "What should I do?"; if unsure, follow your envy
+  * Schedule fun into your calendar (else you'll end up mindlessly scrolling)
+  * Be a satisficer (want what you have) and not a maximizer (trying to have what you want)
+* Be aware of all of your emotions (can't mute sadness and also feel joy)
+* Pursue connections with others
+  * Beware relational bypassing - where relationships are overlooked in the pursuit of self-love
+* Increase expressed delight
+  * Take yourself out on dates
+  * Listen to self-hypnosis tracks
+  * Write self a love letter
+  * Start gratitude practice
+  * Work on your inner critic
+  * Identify parts of you that function in secure ways
+  * Let yourself laugh and seek out humor
+* Manage internal conflicts and triggers
+  * Engage in dialogue with inner critic
+  * Seek support through books, programs, training, etc
+  * Mindful deep belly breathing to change your arousal system
+  * Cognitive reframing
 
 ## ✨ Values-Driven Living
 
@@ -1409,9 +1522,18 @@ Practice:
   * Watch out for beautiful mess effect, where we worry we will be judged harshly when we're vulnerable with others
   * Don’t keep being vulnerable with people who have hurt you when you’re vulnerable.
 * Turn to friends for support when needed
+  * You will need help in order to recover from deeply troubling emotional situations; you cannot heal in a vacuum on your own
 * Scaffolding vulnerability by disclosing to someone you trust, and then being vulnerable with someone who you’re less sure of.
 
 # Adaptive Activities
+
+1. Be proactive - focus on what you CAN control, not complaining about what you can't.
+2. Begin with the end in mind - what will you be able to say about yourself once you are dead? Focus on that when you are figuring out your life's goals.
+3. Put the first thing first - focus on relationships and fitness, less on TV and mindless internet browsing.
+4. Think win-win - collaborate with others together in a mutually beneficial way, rather than be spiteful towards others for whatever reason.
+5. Seek first to understand, then to be understood - Nobody cares if you work hard; they care about what value you can provide to them. Frame tasks/accomplishments in those terms rather than egoistic ones.
+6. Synergize - Work together with others when the situation arises; the whole is greater than the sum of its parts in many situations.
+7. Sharpen the Saw - Spend time on healthy activities such as exercising, meditating, eating healthy, and more, as these are essential towards being the best you can be and providing a strong foundation for you mentally, physically, and emotionally.
 
 ## 🗣️ Affirmations
 
@@ -1697,6 +1819,7 @@ Ways to change beliefs:
 * Change it - use evidence gathered to replace the belief with a more compassionate message
 * 5 Whys - write down what your problem is, ask "why?" 5 times to get to the root of the issue, and find reasonable solution to what you find
 * Beware Approval Addiction - your worth cannot be determined by whether other approve of you or not; needs to come from within. Remember rejection is not your fault, rewrite your silent assumptions about yourself and the world, use cost-benefit analysis on if it's worth maintaining current behavior, and develop a blueprint of self-respect
+* Practice emotional accounting - recognize negative thoughts, what emotions are associated, what cognitive distortion they fall under, give a rational response to the toxic thought (self-defense), and develop realistic self-evaluation system to tackle the system
 
 Positive beliefs to develop instead:
 
@@ -1768,7 +1891,9 @@ DBT suggests using distraction in times of distress
 * Floatback Technique - Bring to mind a negative cognition and recent event. Where do you feel it in your body? As you think of the recent incident and the negative cognition, notice the feelings in your body, and let your mind float back to childhood. What memory comes to mind when you felt that way? If something automatically comes to mind, then write it down in your Memory column along with your age and the SUD level. Using cue words, list the earliest memories and the ones with the highest SUD level.
 * Butterfly Hug - Cross your arms in front of you with your right hand on your left shoulder and your left hand on your right. Then you tap your hands alternately on each shoulder slowly four to six times. To try it, bring up the image of the safe or calm place along with that positive word that you’ve connected with it and allow yourself to go into that state of safety or calm. And when you have that sense, tap alternately on your thighs or with the Butterfly Hug four to six times, then stop and take a breath and see how it feels.
 
-### Inner Child Work
+### 👶 Inner Child Work
+
+*"No parent does a perfect job, so no parent does a complete job. Every adult needs to finish the job of parenting themselves."*
 
 Generally done through reparenting yourself. A common method is the Ideal Parent Figure Protocol, where you release negative introjects (parental figures and values) you internalized as a child.
 

@@ -5,8 +5,26 @@ date: '2024-07-26'
 slug: mental-models
 categories: ['wiki']
 featured_image: ''
-description: 'My synthesized list of mental models and cognitive distortions/biases I have learned about in the past few years.'
+description: 'My synthesized list of mental models and cognitive distortions/biases I have learned about in the past few years, along with general decision making advice.'
 ---
+
+## Decision Making
+
+Ways to make it easier:
+
+* Lower the stakes - barring a severe illness, everything will be fine
+* Think in terms of experiments to take pressure off the decision and think in terms of wonder/creativity
+* Think in terms of expected value 
+  * Judge based on information at the time, not hindsight bias
+  * Understand legitimate downsides and don't worry about outcome if there is a positive expected value 
+* Let what you're fearful of guide you (if you're afraid it's a sign to go do it)
+* Don't let perfect be the enemy of good enough - analysis paralysis and stopping the activity is generally worse than staying consistent
+  * What is the risk of doing nothing? What would you regret a year from now not starting today?
+* Prepare a mental board of advisors (people you admire) that can give you advice on what to do next
+* Offer yourself grace when decisions don't go as planned, or when you make "hot" decisions (anxiety, scarcity, or urgency).
+
+
+## Mental Models
 
 Note: listed in alphabetical order.
 

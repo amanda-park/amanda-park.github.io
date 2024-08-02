@@ -418,6 +418,16 @@ Signs of assertiveness:
   * Be very specific with your ask for help (one or two things at most)
   * Can do it this way: I’m new at X, can you help me?
 
+## ⭐ Charisma
+
+Charisma involved projecting 3 highly desirable qualities:
+
+* Mindfulness shows they are regarding you with their full attention.
+* Authority shows they have the ability to influence others and make your life better.
+* Goodwill shows they’re likely to treat you well.
+
+
+
 ## 👂 Listening
 
 Do:
@@ -483,6 +493,40 @@ Placating immediately to other person's needs
 	* Finding things more appealing with limited availability - loss aversion
   * Want things because of their intrinsic value, not because of their rarity or status
 
+### Changing Minds
+
+Three approaches; here is approach 1:
+
+1) Ask if someone is interested in discussing the issue, and establish rapport.
+2) Ask how strongly they feel about the issue on a scale of 1-10.
+3) Share a story about someone affected by the issue (whether it’s you or a third party doesn’t seem to matter).
+4) Ask for a number rating again.
+5) Ask why the number feels right to them.
+6) Repeat their reasoning back in their own words, ask if that sounds right, repeat until they are satisfied.
+7) Ask if there was a time before they felt that way, and if so, how did they arrive at their current position?
+8) Listen, summarize, repeat.
+9) Briefly share your personal story about how you reached your position, without arguing.
+10) Ask for a final rating and wrap up.
+
+Approach 2 (street epistemology):
+
+1) Establish rapport, ask for consent to explore the person’s reasoning.
+2) Ask them for a factual claim.
+3) Repeat back in your own words until they’re satisfied with your summary.
+4) Clarify their definitions, and use their definitions, not yours.
+5) Ask for a numerical rating of their confidence in the claim.
+6) Ask why they hold that level of confidence.
+7) Ask what method they’ve used to judge the quality of their reasons, and focus the conversation on exploring their method.
+8) Listen, summarize, repeat.
+9) Wrap up.
+
+Approach 3:
+
+1) Build rapport, ask for consent to explore the person’s reasoning.
+2) Ask where the person is on the issue on a scale of 1-10.
+3) If they’re at 1, ask: why would other people be higher on the scale? If above 1, ask: why not lower?
+4) Summarize the person’s reasons in your own words until they’re satisfied that you’ve gotten it.
+
 # Maladaptive Communication
 
 ## Co-Rumination
@@ -504,6 +548,49 @@ If you find yourself ruminating a lot on your own after seeing a certain person,
 # Maladaptive Relationship Strategies
 
 ## Avoidance / Counterdependency
+
+Can also be known as fear of intimacy or an avoidant attachment style. A counterdependent person keeps people at an emotional distance.
+
+Types of avoidance:
+
+* **Overt avoidance** - people don’t show up to events because they are too uncomfortable.    
+  * When people invite you out, and you don’t show up, they’re less likely to invite you out again; they don’t know you might be anxious and instead will take your actions to mean that you’re not interested in them (people assume rejection easily, we’ve found). 
+* **Covert avoidance** - showing up physically but checking out mentally. It is getting to the event but failing to engage with others, not making eye contact, talking really fast, and/or messing with your phone. 
+Signs of avoidance:
+
+* Difficulty being vulnerable
+* Inability to ask for help
+* Discomfort accepting help from others
+* Disinterest in the lives of others
+* Preference for doing things yourself
+* Fearful of being close to others
+* Emotional distance
+* Quickly feeling overwhelmed when people are vulnerable
+* Pushing people away when things become too serious
+* Constant feelings of loneliness
+* Might have different personalities for different people (to avoid being ‘seen’)
+* Often hard on themselves, hate making mistakes
+
+Manage:
+
+* Practice sharing details of your life with others
+* Tell people how they made you feel
+* Ask for help, and accept help if someone offers
+* Become more dependent
+* Focus on others
+* Remove walls
+* Identify and express feelings
+* Identify personal weaknesses
+* Be intimate with others
+* Be cooperative
+* Take back projections
+* Make commitments
+* Master the world of relationships
+* Develop compassion for others
+* Separate sexuality from nurturing
+* Create a daily ritual of checking in on your feelings, whether it be through journaling, meditation, or socializing.
+* Emotions are temporary. When overwhelmed with emotions, focus on your breath and be curious about bodily sensations.
+* Do not be afraid of expressing your true feelings in social encounters, even if you have to explain so after the fact.
 
 ## Codependency
 
@@ -543,6 +630,38 @@ Signs of enabling:
 
 ## 🧱 Boundaries
 
+A boundary is an imaginary line that separates me from you. It separates your physical space, your feelings, needs, and responsibilities from others. Your boundaries also tell other people how they can treat you – what’s acceptable and what isn’t. Without boundaries, people may take advantage of you because you haven’t set limits about how you expect to be treated.  
+
+Boundaries can be overly rigid or overly porous; additionally, they can be rigid in one area while porous in another. Either way, when you ignore boundaries you set with others, others think they can safely ignore your boundaries. Even though there are consequences to setting boundaries they are critical for maintaining self-respect.
+
+Types of boundaries:
+
+* Physical boundaries
+* Mental boundaries
+* Resource boundaries
+* Individualistic boundaries
+* Communal boundaries
+
+Good boundaries to set:
+
+* Prioritize what keeps you happy, healthy, and sane.
+* Say no to stuff that doesn't interest you
+* Let calls go to voicemail
+* Wait before responding to a call, text, or email
+* Inform people of a decision rather than ask for permission
+* Take mental health days as needed
+* Have time-boxed hangouts for people that are good in small doses only, and limit settings for hanging out otherwise
+* Block people that really bother you
+* Point out when people do things you like and also things that hurt you
+* Don't engage in topics you don't like
+* Ask for help setting boundaries, and discuss boundaries and expectations otherwise
+* Don't share parts of your life with people you don't want to be close to
+* You are not required to say yes to every social opportunity, especially if you are dreading it.
+
+How to better set boundaries:
+
+* Set boundaries earlier in a relationship rather than later, and stringent boundaries are easier to loosen than looser boundaries are to tighten
+* Use the emotional bandwidth (scale of 1-10) to indicate what level of communication you can handle (mindless to heavy in terms of content)
 * You are not responsible for your parents' emotional wellbeing. They are independent adults who have been on this earth for many more years than you.
 * “You don’t attract the wrong people, you’re just not good at filtering out the people who aren’t good for you. It’s ok to say no.”
 * “Why do you make people more comfortable when you are uncomfortable” (people pleasing and fawning)
@@ -555,10 +674,31 @@ Signs of enabling:
 
 ## 💥 Conflict Management
 
+* Conflicts should be addressed thoughtfully, seeking mutual understanding and resolution (don't just avoid the issue).
+* Watch out for anger of hope (constructive, helps resolving conflicts) vs anger of despair (destructive and harms relationships)
 * “If you don’t have these problems with any other person in your life, why do you think you’re the problematic person in this one?”
 * Some of my long lasting behaviors that tend to pop up when I'm under extreme distress that I feel ashamed of were once the only ways to protect myself.  My therapist suggested when I feel those patterns kick in to thank myself for trying to protect myself. Almost instantly reduces a lot of the shame. Then I'm able to think more clearly and actually use other techniques I've learned.
 
 ## 👋 Meeting and Befriending New People
+
+In general, to develop fulfilling relationships, you will want the following components:
+
+* Genuine positive regard - the other person likes you for who you are
+* Self-disclosure - feeling freedom to discuss personal topics
+* Instrumental aid - willingness to provide tangible support
+* Similarity - seeing the world in a like-minded way
+* Enjoyment - having fun in each other's company
+* Agency - friends that can help you find a job or offer a summer home to stay in
+
+Women tend to expect more of their friends in the realms of positive regard and self-disclosure, whereas men tend to expect slightly more by way of agency. However, people generally don't explain what they expect in their friendships.
+
+Things you'll want to look for:
+
+* Someone you don't have to pretend or fawn for; related, the ability to disagree
+* A willingness to stick around when things aren't perfect
+* Respect
+* Feeling energized after hanging out
+* Bring out the fun side and doing so because you want to, not out of fear
 
 ### Identify Limiting Beliefs
 
@@ -637,16 +777,45 @@ Signs of enabling:
 * Be vulnerable first even if it's scary. Remember you're not practicing it because it's comfortable; you're doing it because it aligns with your values and highest self
   * Others won't judge you for your vulnerability as much as you think, and you might be perceived positively for doing so
 * Tell others when you want to be friends with them
-* Avoid oversharing, as that can push others away and cause you harm. Similarly, don't keep being authentic with those that treat you poorly for doing so
+* Avoid oversharing/emotional dumping, as that can push others away and cause you harm. Similarly, don't keep being authentic with those that treat you poorly for doing so
 * Don't feel like you need to become someone else to be liked; faking it is draining, and at its core it's a manipulative and inauthentic approach
+* Offer emotional bids to signal that you want attention and connection; central to all types of relationships
 
 ### Be Generous
 
-## Psychological Safety
+* Don't be generous to get someone's love, do it because you want to show your love
+* Look for win-wins in generosity
+* Understand the level of reciprocity in the relationship, and do not engage in mutuality where there is a major imbalance (ie, if you're always reaching out, asking for support, or the only one being vulnerable)
+* What you give and expect to receive should be proportional to the depth of the friendship
+* Examples:
+  * Give gifts (baking, cards, money, gifts, etc)
+  * Offer to do errands (chores, drive to airport, exercise, etc) or borrow objects
+  * Share information that is relevant or helpful
+  
+### Showcase Affection
+
+Affection involves the following:
+
+* You feel love, appreciation, or fondness (so flattery and manipulation don’t count!)
+* You act to express those feelings
+* The other person interprets and welcomes your behavior as reflecting those warm feelings
+
+Examples:
+
+* Tell them how much they mean to you
+* Compliment them
+* Be happy for them
+* Praise their hard work
+* Develop rituals to showcase affection
+* Ask how others would best like to receive affection
+  
+### Psychological Safety
 
 Psychological safety is the shared belief that a team is safe for interpersonal risk-taking. It’s about creating an environment where people feel comfortable expressing themselves, asking questions, and making mistakes without fear of punishment or humiliation.
 
-## Regular Socializing
+A related concept is creative interchange, which is a process where individuals or groups share ideas, perspectives, and experiences to foster innovation, understanding, and growth. It’s like a brainstorming session where everyone’s input is valued and can lead to new insights or solutions.
+
+### Regular Socializing
 
 5-3-1 Method:
 

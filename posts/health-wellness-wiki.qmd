@@ -133,6 +133,8 @@ Note - I'm not considering feeling anxious as the same as something like General
 
 *"When you get anxious, your amygdala is activated. You can tell yourself that you're okay and even logically understand you are okay, but your amygdala isn't catching up yet. Just remember that you are okay, and it's just your amygdala needing time to adjust (10-15 minutes)."*
 
+*“You’ll stop worrying what others think about you when you realize how seldom they do.” - David Foster Wallace*
+
 Anxiety, simply put, is concern about the unknown and/or future. It's feeling like we’re not in control — we don’t know what’s going to happen, so we imagine the worst.
 
 * The opposite of anxiety is not relaxation, but prosocial behavior.
@@ -175,6 +177,7 @@ Manage:
 * Act in line with your values
 * Schedule worry time, and dump out all the thoughts in your brain during this time
 * A lot of anxiety can trigger depression, so taking steps to manage anxiety first (taking time off, crying, etc) can reduce the depressive episodes
+* Be mindful of "anxious fixing", where you tackle small things on your to-do list as a way to avoid tackling the root cause of your anxiety.
 
 ## 🥱 Bored
  
@@ -300,6 +303,7 @@ Managing:
 	8. Grieve the Harm I Have Caused
 	9. Show Up
   10. Reinvest in Meaningful Efforts
+* Be mindful of ambiguous grief, where murky losses are confronted (single people longing for a relationship, partner lost to Alzheimer's, woman unable to become pregnant, etc) and are generally unacknowledged by society at large
 
 ## 😅 Guilt
 
@@ -450,6 +454,7 @@ Managing:
 * Acknowledge the different parts of yourself
 * Share in the context of safe relationships
 * The fact that you are high functioning doesn't mean that you are easier for you to deal with, it means it's easier for others to deal with you.
+* Be mindful of "leaky feelings", where there is incongruence between your inner state, awareness, and behavior. This can be addressed through shadow work and understanding what you're most shameful of, as that is what is most likely to "leak" out
 
 # Maladaptive Mindsets
 
@@ -1524,6 +1529,12 @@ Practice:
 * Turn to friends for support when needed
   * You will need help in order to recover from deeply troubling emotional situations; you cannot heal in a vacuum on your own
 * Scaffolding vulnerability by disclosing to someone you trust, and then being vulnerable with someone who you’re less sure of.
+* Be willing to show off your work to others:
+  * Do not feel like you need to be a genius; being in a community with people that do what you want to do, even if you're a total amateur, is fine. Everyone has to start somewhere
+  * Share something small every day, preferably with your real name
+  * Be willing to share what you're interested in with others
+  * Teach what you know and be willing to share your trade secrets, and learn to do so in a compelling way
+  * Stick around and continue sharing, don't let burnout/low points stop you
 
 # Adaptive Activities
 
@@ -1575,6 +1586,58 @@ Strategies:
 Note:
 
 * Beware ‘dataism’ - in case where people are shown the data, people might ‘edit their experiences and negotiate with the data’ she says. Yes, they might say: I remember now, I was feeling stressed out that day I had the higher heart rate. They are persuaded to ‘retell the narratives of their life to fit the data’, instead of trusting themselves. 
+
+### Prompts
+
+#### Social
+
+* What type of people do I enjoy spending time with?
+* Why do I enjoy those specific qualities in people?
+* Do I seek out people similar as I, or different from me? Why is that?
+* Do I have many friends as I just described? Why or why not?
+* How many close friends do I want based on the amount of time I have?
+* What would those close relationships look like? What would be the biggest aspects? (talking, shared activities, working on projects together, laughter, storytelling, playing games, etc.)
+* What are two of the most favorite things I enjoy doing with others?
+* Where have I met most of the friends I currently have? (family, work, community, childhood, online, etc.)
+* What does where I met these friends tell me about myself?
+* Why am I still friends with those people?
+* What is the single biggest attitudinal change I’d like to make when with people? (be more myself, be more out-going, be more honest, initiate more conversations, be more comfortable, be more open, be funnier, interrupt less, initiate more activities, etc.)
+
+#### Emotional
+
+* List three situations and/or times when you were the most happy in your life. Specific instances... What elements were present when I felt that way? How was I feeling about myself during those times?
+* What do I fear most in my life right now? Why? What would it mean if that happened?
+* When do I feel the most angry or frustrated? What is it about those situations that I feel that way?
+* What is my definition of love? (not a dictionary’s)
+* What are my primary beliefs about love? (it’s easy, scary, short-lived, feels good, not possible, difficult, etc.) Where/when did I acquire those beliefs? Do I still believe them? Why or why not?
+* Do I have much control over my emotions? Why or why not?
+* What emotions do I want to feel most of the time?
+
+#### Financial
+
+* What beliefs did I “take on” from my parents in regards to money? (it’s difficult to get, it’s scarce, you
+should only have so much, it’s easy to make, having it /not having it says something about me, live for the moment, give it away, I’ll never have enough, it’s a secret, saving is important, etc)
+* What does money mean/represent to me? (security, aliveness, freedom, love, peace of mind, etc)
+* Do I feel peaceful or anxiety in regards to money? Why do I feel that way about it?
+* How much money do I feel I deserve to make a year? Why that amount?
+* What would it mean to me if I made more or less than that amount? Why do I believe that?
+
+#### Career
+
+* What types of things did I enjoy doing as a child? (building things, drawing, sports, writing, solving puzzles, being with animals, my chemistry set, organizing games, talking, anything physical, playing
+house, cowboys and Indians, etc) Do I do anything today that has similar qualities to it?
+* If you are currently working, what about you work do you love? What do you dislike?
+* What do you see as your ideal job? Why?
+* What is my definition of success? (not the dictionary’s)
+
+#### Personal
+
+* What skills have I acquired that I’m proud of?
+* What accomplishments am I proud of?
+* Beginning when I was a child, what are the 5 most significant events in my life? Why did I make them significant?
+* What are five of my greatest strengths?
+* If I was to receive an award, what would I want that award to be for? Why that?
+* If I was to pick out a general theme that showed up often while answering these questions, what would that theme be? What does it mean? How do I feel about that?
 
 ## ⛳ Leisure 
 
@@ -1693,6 +1756,14 @@ Processes internal body and emotional states
 * Breathwork
 * Mindfulness
 * Send messages of safety and love
+
+## 1️⃣ Solitude
+
+Benefits:
+
+* Improved self-awareness
+* Enhanced creativity and productivity
+* Rest, recovery, and reflection
 
 ## 💤 Sleep 
 

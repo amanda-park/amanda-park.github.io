@@ -1,0 +1,1423 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.557">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Amanda Park">
+<meta name="dcterms.date" content="2024-07-17">
+<meta name="description" content="My synthesized notes of all the game design knowledge I have accummulated over the past few years.">
+
+<title>Amanda Park - Game Design Wiki</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Amanda Park</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="../index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+    <a href="https://www.linkedin.com/in/parkamanda" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
+    <a href="https://www.github.com/amanda-park" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Game Design Wiki</h1>
+                  <div>
+        <div class="description">
+          My synthesized notes of all the game design knowledge I have accummulated over the past few years.
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">wiki</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Amanda Park </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">July 17, 2024</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#audiovisual" id="toc-audiovisual" class="nav-link active" data-scroll-target="#audiovisual">Audiovisual</a>
+  <ul class="collapse">
+  <li><a href="#art" id="toc-art" class="nav-link" data-scroll-target="#art">Art</a></li>
+  <li><a href="#music" id="toc-music" class="nav-link" data-scroll-target="#music">Music</a></li>
+  </ul></li>
+  <li><a href="#game-design" id="toc-game-design" class="nav-link" data-scroll-target="#game-design">Game Design</a>
+  <ul class="collapse">
+  <li><a href="#lenses" id="toc-lenses" class="nav-link" data-scroll-target="#lenses">Lenses</a></li>
+  <li><a href="#game-design-document" id="toc-game-design-document" class="nav-link" data-scroll-target="#game-design-document">Game Design Document</a></li>
+  <li><a href="#gameplay" id="toc-gameplay" class="nav-link" data-scroll-target="#gameplay">Gameplay</a></li>
+  <li><a href="#mechanics" id="toc-mechanics" class="nav-link" data-scroll-target="#mechanics">Mechanics</a></li>
+  <li><a href="#levels" id="toc-levels" class="nav-link" data-scroll-target="#levels">Levels</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+<p><em>Work in progress…</em></p>
+<section id="audiovisual" class="level1">
+<h1>Audiovisual</h1>
+<section id="art" class="level2">
+<h2 class="anchored" data-anchor-id="art">Art</h2>
+</section>
+<section id="music" class="level2">
+<h2 class="anchored" data-anchor-id="music">Music</h2>
+</section>
+</section>
+<section id="game-design" class="level1">
+<h1>Game Design</h1>
+<section id="lenses" class="level2">
+<h2 class="anchored" data-anchor-id="lenses">Lenses</h2>
+<ol type="1">
+<li>Emotion
+<ol type="a">
+<li>What emotions would I like my player to experience? Why?</li>
+<li>What emotions are players (including me) having when they play now? Why?</li>
+<li>How can I bridge the gap between the emotions players are having and the emotions I’d like them to have?</li>
+</ol></li>
+<li>Essential Experience
+<ol type="a">
+<li>What experience do I want the player to have?</li>
+<li>What is essential to that experience?</li>
+<li>How can my game capture that essence?</li>
+</ol></li>
+<li>Venue
+<ol type="a">
+<li>What type of venue best suits the game I’m trying to create?</li>
+<li>Does my venue have special properties that will influence my game?</li>
+<li>What elements of my game are in harmony with my venue? What elements are not?</li>
+</ol></li>
+<li>Surprise
+<ol type="a">
+<li>What will surprise players when they play my game?</li>
+<li>Does the story in my game have surprises? Do the game rules? Does the artwork? The technology?</li>
+<li>Do your rules give players ways to surprise each other?</li>
+<li>Do your rules give players ways to surprise themselves?</li>
+</ol></li>
+<li>Fun
+<ol type="a">
+<li>What parts of my game are fun? Why?</li>
+<li>What parts need to be more fun?</li>
+</ol></li>
+<li>Curiosity
+<ol type="a">
+<li>What questions does my game put into the player’s mind?</li>
+<li>What am I doing to make them care about these questions?</li>
+<li>What can I do to make them invent even more questions?</li>
+</ol></li>
+<li>Endogenous Value
+<ol type="a">
+<li>What is valuable to the players in my game?</li>
+<li>How can I make it more valuable to them?</li>
+<li>What is the relationship between value in the game and the players’ motivations?</li>
+</ol></li>
+<li>Problem-Solving
+<ol type="a">
+<li>What problems does my game ask the player to solve?</li>
+<li>Are there hidden problems to solve that arise as part of gameplay?</li>
+<li>How can my game generate new problems so that players keep coming back?</li>
+</ol></li>
+<li>Elemental Tetrad (Mechanics, Aesthetics, Story, Technology)
+<ol type="a">
+<li>Is my game design using elements of all four types?</li>
+<li>Could my design be improved by enhancing elements in one or more of the categories?</li>
+<li>Are the four elements in harmony, reinforcing each other and working together toward a common theme?</li>
+</ol></li>
+<li>Holographic Design
+<ol type="a">
+<li>What elements of the game make the experience enjoyable?</li>
+<li>What elements of the game detract from the experience?</li>
+<li>How can I change game elements to improve the experience?</li>
+</ol></li>
+<li>Unification
+<ol type="a">
+<li>What is my theme?</li>
+<li>Am I using every means possible to reinforce that theme?</li>
+</ol></li>
+<li>Resonance
+<ol type="a">
+<li>What is it about my game that feels powerful and special?</li>
+<li>When I describe my game to people, what ideas get them really excited?</li>
+<li>If I had no constraints of any kind, what would this game be like?</li>
+<li>I have certain instincts about how this game should be. What is driving those instincts?</li>
+</ol></li>
+<li>Infinite Inspiration
+<ol type="a">
+<li>What is an experience I have had in my life that I would want to share with others?</li>
+<li>In what small way can I capture the essence of that experience and put it into my game?</li>
+</ol></li>
+<li>Problem Statement
+<ol type="a">
+<li>What problem, or problems, am I really trying to solve?</li>
+<li>Have I been making assumptions about this game that really have nothing to do with its true purpose?</li>
+<li>Is a game really the best solution? Why?</li>
+<li>How will I be able to tell if the problem is solved?</li>
+</ol></li>
+<li>8 Filters
+<ol type="a">
+<li>Artistic Impulse: Does the game feel right (to you)?</li>
+<li>Demographics: Consider audience intended for game</li>
+<li>Experience Design: Consider aesthetics, game balance, theme, and interest curves.</li>
+<li>Innovation: Is the game novel?</li>
+<li>Business and Marketing: Is this game going to be profitable?</li>
+<li>Engineering: Is it possible to build this game?</li>
+<li>Social/Community: Does this meet our social and community goals?</li>
+<li>Playtesting: Do playtesters enjoy the game enough?</li>
+</ol></li>
+<li>Risk Mitigation
+<ol type="a">
+<li>What could keep this game from being great?</li>
+<li>How can we stop that from happening?</li>
+</ol></li>
+<li>Toy
+<ol type="a">
+<li>If my game had no goal, would it be fun at all? If not, how can I change that?</li>
+<li>When people see my game, do they want to start interacting with it, even before they know what to do? If not, how can I change that?</li>
+</ol></li>
+<li>Passion
+<ol type="a">
+<li>Am I filled with blinding passion about how great this game will be?</li>
+<li>If I’ve lost the passion, can I find it again?</li>
+<li>If the passion isn’t coming back, shouldn’t I be doing something else?</li>
+</ol></li>
+<li>Player
+<ol type="a">
+<li>In general, what do they like?</li>
+<li>What don’t they like? Why?</li>
+<li>What do they expect to see in a game?</li>
+<li>If I were in their place, what would I want to see in a game?</li>
+<li>What would they like or dislike about my game in particular?</li>
+</ol></li>
+<li>Pleasure
+<ol type="a">
+<li>What pleasures does your game give to players? Can these be improved?</li>
+<li>What pleasures are missing from your experience? Why? Can they be added?</li>
+<li>List of Pleasures: Anticipation, Completion, Delight in another’s misfortune, Gift giving, Humor, Possibility, Pride in accomplishment, Surprise, Thrill, Triumph over adversity, Wonder</li>
+</ol></li>
+<li>Flow
+<ol type="a">
+<li>Does my game have clear goals? If not, how can I fix that?</li>
+<li>Are the goals of the player the same goals I intended?</li>
+<li>Are there parts of the game that distract players to the point they forget their goal? If so, can these distractions be reduced or tied into the game goals?</li>
+<li>Does my game provide a steady stream of not-too-easy, not-too-hard challenges, taking into account the fact that the player’s skills may be gradually improving?</li>
+<li>Are the player’s skills improving at the rate I had hoped? If not, how can I change that?</li>
+</ol></li>
+<li>Needs
+<ol type="a">
+<li>On which levels of Maslow’s hierarchy is my game operating?</li>
+<li>Does it fill the needs of competence, autonomy, and relatedness?</li>
+<li>How can I make my game fill more basic needs than it already does?</li>
+<li>For the needs my game is already filling, how can it fill those needs even better?</li>
+</ol></li>
+<li>Motivation
+<ol type="a">
+<li>What motivations do players have to play my game?</li>
+<li>Which motivations are most internal? Which are most external?</li>
+<li>Which are pleasure seeking? Which are pain avoiding?</li>
+<li>Which motivations support each other?</li>
+<li>Which motivations are in conflict?</li>
+</ol></li>
+<li>Novelty
+<ol type="a">
+<li>What is novel about my game?</li>
+<li>Does my game have novelties throughout or just at the beginning?</li>
+<li>Do I have the right mix of the novel and the familiar?</li>
+<li>When the novelty wears off, will players still enjoy my game?</li>
+</ol></li>
+<li>Judgment
+<ol type="a">
+<li>What does your game judge about the players?</li>
+<li>How does it communicate this judgment?</li>
+<li>Do players feel the judgment is fair?</li>
+<li>Do they care about the judgment?</li>
+<li>Does the judgment make them want to improve?</li>
+</ol></li>
+<li>Functional Spaces
+<ol type="a">
+<li>Is the space of this game discrete or continuous?</li>
+<li>How many dimensions does it have?</li>
+<li>What are the boundaries of the space?</li>
+<li>Are there subspaces? How are they connected?</li>
+<li>Is there more than one useful way to abstractly model the space of this game?</li>
+</ol></li>
+<li>Time
+<ol type="a">
+<li>What is it that determines the length of my gameplay activities?</li>
+<li>Are my players frustrated because the game ends too early? How can I change that?</li>
+<li>Are my players bored because the game goes on too long? How can I change that?</li>
+<li>Would clocks or races make my gameplay more exciting?</li>
+<li>Time limits can irritate players. Would I better off without time limits?</li>
+<li>Would a hierarchy of time structures help my game? That is, several short rounds that together comprise a larger round?</li>
+</ol></li>
+<li>State Machine
+<ol type="a">
+<li>What are the objects in my game?</li>
+<li>What are the attributes of the objects?</li>
+<li>What are the possible states for each attribute?</li>
+<li>What triggers the state changes for each attribute?</li>
+</ol></li>
+<li>Secrets
+<ol type="a">
+<li>What is known by the game only?</li>
+<li>What is known by all players?</li>
+<li>What is known by some or only one player?</li>
+<li>Would changing who knows what information improve my game in some way?</li>
+</ol></li>
+<li>Emergence
+<ol type="a">
+<li>How many verbs (ie, actions) do my players have?</li>
+<li>How many objects can each verb act on?</li>
+<li>How many ways can players achieve their goals?</li>
+<li>How many subjects do the players control?</li>
+<li>How do side effects change constraints?</li>
+</ol></li>
+<li>Actions
+<ol type="a">
+<li>What are the basic actions in my game?</li>
+<li>What are the strategic actions?</li>
+<li>What strategic actions would I like to see? How can I change my game in order to make those possible?</li>
+<li>Am I happy with the ratio of strategic to basic actions?</li>
+<li>What actions do players wish they could do in my game that they cannot? Can I somehow enable these, either as basic or strategic actions?</li>
+</ol></li>
+<li>Goals
+<ol type="a">
+<li>What is the ultimate goal of my game?</li>
+<li>Is that goal clear to players?</li>
+<li>If there is a series of goals, do the players understand that?</li>
+<li>Are the different goals related to each other in a meaningful way?</li>
+<li>Are my goals concrete, achievable, and rewarding?</li>
+<li>Do I have a good balance of short- and long-term goals?</li>
+<li>Do players have a chance to decide on their own goals?</li>
+</ol></li>
+<li>Rules
+<ol type="a">
+<li>What are the foundational rules of my game? How do these differ from the operational rules?</li>
+<li>Are there “laws” or “house rules” that are forming as the game develops? Should these be incorporated into my game directly?</li>
+<li>Are there different modes in my game? Do these modes make things simpler, or more complex? Would the game be better with fewer modes? More modes?</li>
+<li>Who enforces the rules?</li>
+<li>Are the rules easy to understand, or is there confusion about them? If there is confusion, should I fix it by changing the rules or by explaining them more clearly?</li>
+</ol></li>
+<li>Skill
+<ol type="a">
+<li>What skills does my game require from the player?</li>
+<li>Are there categories of skill that this game is missing?</li>
+<li>Which skills are dominant?</li>
+<li>Are these skills creating the experience I want?</li>
+<li>Are some players much better at these skills than others? Does this make the game feel unfair?</li>
+<li>Can players improve their skills with practice, leading to a feeling of mastery?</li>
+<li>Does this game demand the right level of skill?</li>
+</ol></li>
+<li>Expected Value
+<ol type="a">
+<li>What is the actual chance of a certain event occurring?</li>
+<li>What is the perceived chance?</li>
+<li>What value does the outcome of that event have? Can the value be quantified? Are there intangible aspects of value that I am not considering?</li>
+<li>Each action a player can take has a different expected value when I add up all the possible outcomes. Am I happy with these values? Do they give the player interesting choices? Are they too rewarding, or too punishing?</li>
+</ol></li>
+<li>Randomness
+<ol type="a">
+<li>What in my game is truly random? What parts just feel random?</li>
+<li>Does the randomness give the players positive feelings of excitement and challenge, or does it give them negative feelings of hopelessness and lack of control?</li>
+<li>Would changing my probability distribution curves improve my game?</li>
+<li>Do players have the opportunity to take interesting risks in the game?</li>
+<li>What is the relationship between chance and skill in my game? Are there ways I can make random elements feel more like the exercise of a skill? Are there ways I can make exercising skills feel more like risk taking?</li>
+</ol></li>
+<li>Fairness
+<ol type="a">
+<li>Should my game be symmetrical? Why?</li>
+<li>Should my game be asymmetrical? Why?</li>
+<li>Which is more important: that my game is a reliable measure of who has the most skill or that it provide an interesting challenge to all players?</li>
+<li>If I want players of different skill levels to play together, what means will I use to make the game interesting and challenging for everyone?</li>
+</ol></li>
+<li>Challenge
+<ol type="a">
+<li>What are the challenges in my game?</li>
+<li>Are they too easy, too hard, or just right?</li>
+<li>Can my challenges accommodate a wide variety of skill levels?</li>
+<li>How does the level of challenge increase as the player succeeds?</li>
+<li>Is there enough variety in the challenges?</li>
+<li>What is the maximum level of challenge in my game?</li>
+</ol></li>
+<li>Meaningful choices
+<ol type="a">
+<li>What choices am I asking the player to make?</li>
+<li>Are they meaningful? How?</li>
+<li>Am I giving the player the right number of choices? Would more make them feel more powerful? Would less make the game clearer?</li>
+<li>Are there any dominant strategies in my game?</li>
+</ol></li>
+<li>Triangularity
+<ol type="a">
+<li>Do I have triangularity now? If not, how can I get it?</li>
+<li>Is my attempt at triangularity balanced? That is, are the rewards commensurate with the risks?</li>
+</ol></li>
+<li>Skill vs Chance
+<ol type="a">
+<li>Are my players here to be judged (skill) or to take risks (chance)?</li>
+<li>Skill tends to be more serious than chance: is my game serious or casual?</li>
+<li>Are parts of my game tedious? If so, will adding elements of chance enliven them?</li>
+<li>Do parts of my game feel too random? If so, will replacing elements of chance with elements of skill or strategy make the players feel more in control?</li>
+</ol></li>
+<li>Head and Hands
+<ol type="a">
+<li>Are my players looking for mindless action or an intellectual challenge?</li>
+<li>Would adding more places that involve puzzle solving in my game make it more interesting?</li>
+<li>Are there places where the player can relax their brain and just play the game without thinking?</li>
+<li>Can I give the player a choice—succeed either by exercising a high level of dexterity or by finding a clever strategy that works with a minimum of physical skill?</li>
+<li>If “1” means all physical and “10” means all mental, what number would my game get?</li>
+</ol></li>
+<li>Competition
+<ol type="a">
+<li>Does my game give a fair measurement of player skill?</li>
+<li>Do people want to win my game? Why?</li>
+<li>Is winning this game something people can be proud of? Why?</li>
+<li>Can novices meaningfully compete at my game?</li>
+<li>Can experts meaningfully compete at my game?</li>
+<li>Can experts generally be sure they will defeat novices?</li>
+</ol></li>
+<li>Cooperation
+<ol type="a">
+<li>Cooperation requires communication. Do my players have enough opportunity to communicate? How could communication be enhanced?</li>
+<li>Are my players friends already, or are they strangers? If they are strangers, can I help them break the ice?</li>
+<li>Is there synergy (2 + 2 = 5) or antergy (2 + 2 = 3) when the players work together? Why?</li>
+<li>Do all the players have the same role, or do they have special jobs?</li>
+<li>Cooperation is greatly enhanced when there is no way an individual can do a task alone. Does my game have tasks like that?</li>
+<li>Tasks that force communication inspire cooperation. Do any of my tasks force communication?</li>
+</ol></li>
+<li>Competition vs Cooperation
+<ol type="a">
+<li>If “1” is competition and “10” is cooperation, what number should my game get?</li>
+<li>Can I give players a choice whether to play cooperatively or competitively?</li>
+<li>Does my audience prefer competition, cooperation, or a mix?</li>
+<li>Is team competition something that makes sense for my game? Is my game more fun with team competition or with solo competition?</li>
+</ol></li>
+<li>Reward
+<ol type="a">
+<li>What rewards is my game giving out now? Can it give out others as well?</li>
+<li>Are players excited when they get rewards in my game, or are they bored by them? Why?</li>
+<li>Getting a reward you don’t understand is like getting no reward at all. Do my players understand the rewards they are getting?</li>
+<li>Are the rewards my game gives out too regular? Can they be given out in a more variable way?</li>
+<li>How are my rewards related to one another? Is there a way that they could be better connected?</li>
+<li>How are my rewards building? Too fast, too slow, or just right?</li>
+</ol></li>
+<li>Punishment
+<ol type="a">
+<li>What are the punishments in my game?</li>
+<li>Why am I punishing the players? What do I hope to achieve by it?</li>
+<li>Do my punishments seem fair to the players? Why or why not?</li>
+<li>Is there a way to turn these punishments into rewards and get the same or a better effect?</li>
+<li>Are my strong punishments balanced against commensurately strong rewards?</li>
+</ol></li>
+<li>Simplicity vs Complexity
+<ol type="a">
+<li>What elements of innate complexity do I have in my game?</li>
+<li>Is there a way this innate complexity could be turned into emergent complexity?</li>
+<li>Do elements of emergent complexity arise from my game? If not, why not?</li>
+<li>Are there elements of my game that are too simple?</li>
+</ol></li>
+<li>Elegance
+<ol type="a">
+<li>What are the elements of my game?</li>
+<li>What are the purposes of each element? Count these up to give the element an “elegance rating.”</li>
+<li>For elements with only one or two purposes, can some of these be combined into each other or removed altogether?</li>
+<li>For elements with several purposes, is it possible for them to take on even more?</li>
+</ol></li>
+<li>Character
+<ol type="a">
+<li>Is there anything strange in my game that players talk about excitedly?</li>
+<li>Does my game have funny qualities that make it unique?</li>
+<li>Does my game have flaws that players like?</li>
+</ol></li>
+<li>Imagination
+<ol type="a">
+<li>What must the player understand to play my game?</li>
+<li>Can some element of imagination help them understand that better?</li>
+<li>What high-quality, realistic details can we provide in this game?</li>
+<li>What details would be low quality if we provided them? Can imagination fill the gap instead?</li>
+<li>Can I give details that the imagination will be able to reuse again and again?</li>
+<li>What details I provide inspire imagination?</li>
+<li>What details I provide stifle imagination?</li>
+</ol></li>
+<li>Economy
+<ol type="a">
+<li>How can my players earn money? Should there be other ways?</li>
+<li>What can my players buy? Why?</li>
+<li>Is money too easy to get? Too hard? How can I change this?</li>
+<li>Are choices about earning and spending meaningful ones?</li>
+<li>Is a universal currency a good idea in my game, or should there be specialized currencies?</li>
+</ol></li>
+<li>Balance
+<ol type="a">
+<li>Does my game feel right? Why or why not?</li>
+</ol></li>
+<li>Accessibility
+<ol type="a">
+<li>How will players know how to begin solving my puzzle or playing my game? Do I need to explain it, or is it self-evident?</li>
+<li>Does my puzzle or game act like something they have seen before? If it does, how can I draw attention to that similarity. If it does not, how can I make them understand how it does behave?</li>
+<li>Does my puzzle or game draw people in and make them want to touch it and manipulate it? If not, how I can I change it so that it does?</li>
+</ol></li>
+<li>Visible Progress
+<ol type="a">
+<li>What does it mean to make progress in my game or puzzle?</li>
+<li>Is there enough progress in my game? Is there a way I can add more interim steps of progressive success?</li>
+<li>What progress is visible, and what progress is hidden? Can I find a way to reveal what is hidden?</li>
+</ol></li>
+<li>Parallelism
+<ol type="a">
+<li>Are there bottlenecks in my design where players are unable to proceed if they cannot solve a particular challenge? If so, can I add parallel challenges for a player to work on when this challenge stumps them?</li>
+<li>If parallel challenges are too similar, the parallelism offers little benefit. Are my parallel challenges different enough from each other to give players the benefit of variety?</li>
+<li>Can my parallel challenges be connected somehow? Is there a way that making progress on one can make it easier to solve the others?</li>
+</ol></li>
+<li>Pyramid
+<ol type="a">
+<li>Is there a way all the pieces of my puzzle can feed into a singular challenge at the end?</li>
+<li>Big pyramids are often made of little pyramids—can I have a hierarchy of ever more challenging puzzle elements, gradually leading to a final challenge?</li>
+<li>Is the challenge at the top of my pyramid interesting, compelling, and clear? Does it make people want to work in order to get to it?</li>
+</ol></li>
+<li>Puzzle
+<ol type="a">
+<li>What are the puzzles in my game?</li>
+<li>Should I have more puzzles, or less? Why?</li>
+<li>Do I have any incongruous puzzles? How can I better integrate them into the game? (Use Lens #49, Elegance, to help do this).</li>
+</ol></li>
+<li>Control
+<ol type="a">
+<li>When players use the interface, does it do what is expected? If not, why not?</li>
+<li>Intuitive interfaces give a feeling of control. Is your interface easy to master or hard to master?</li>
+<li>Do your players feel they have a strong influence over the outcome of the game? If not, how can you change that?</li>
+<li>Feeling powerful = feeling in control. Do your players feel powerful? Can you make them feel more powerful somehow?</li>
+</ol></li>
+<li>Physical Interface
+<ol type="a">
+<li>What does the player pick up and touch? Can this be made more pleasing?</li>
+<li>How does this map to the actions in the game world? Can the mapping be more direct?</li>
+<li>If you can’t create a custom physical interface, what metaphor are you using when you map the inputs to the game world?</li>
+<li>How does the physical interface look under the Lens of the Toy?</li>
+<li>How does the player see, hear, and touch the world of the game? Is there a way to include a physical output device that will make the world become more real in the player’s imagination?</li>
+</ol></li>
+<li>Virtual Interface
+<ol type="a">
+<li>What information does a player need to receive that isn’t obvious just by looking at the game world?</li>
+<li>When does the player need this information? All the time? Only occasionally? Only at the end of a level?</li>
+<li>How can this information be delivered to the player in a way that won’t interfere with the player’s interactions with the game world?</li>
+<li>Are there elements of the game world that are easier to interact with using a virtual interface (like a pop-up menu, for instance) than they are to interact with directly?</li>
+</ol></li>
+<li>Transparency
+<ol type="a">
+<li>What are the player’s desires? Does the interface let the players do what they want?</li>
+<li>Is the interface simple enough that with practice, players will be able to use it without thinking?</li>
+<li>Do new players find the interface intuitive? If not, can it be made more intuitive, somehow? Would allowing players to customize the controls help or hurt?</li>
+<li>Does the interface work well in all situations, or are there cases (near a corner, going very fast, etc.) when it behaves in ways that will confuse the player?</li>
+<li>Can players continue to use the interface well in stressful situations, or do they start fumbling with the controls or missing crucial information? If so, how can this be improved?</li>
+<li>Does anything confuse players about the interface? On which of the six interface arrows is it happening?</li>
+<li>Do players feel a sense of immersion when using the interface?</li>
+<li>What kind of virtual interface is best suited to my physical interface? Pop-up menus, for example, are a poor match for a gamepad controller.</li>
+</ol></li>
+<li>Feedback
+<ol type="a">
+<li>What do players need to know at this moment?</li>
+<li>What do players want to know at this moment?</li>
+<li>What do you want players to feel at this moment? How can you give feedback that creates that feeling?</li>
+<li>What do the players want to feel at this moment? Is there an opportunity for them to create a situation where they will feel that?</li>
+<li>What is the player’s goal at this moment? What feedback will help them toward that goal?</li>
+</ol></li>
+<li>Juiciness
+<ol type="a">
+<li>Is my interface giving the player continuous feedback for their actions? If not, why not?</li>
+<li>Is second-order motion created by the actions of the player? Is this motion powerful and interesting?</li>
+<li>Juicy systems reward the player many ways at once. When I give the player a reward, how many ways am I simultaneously rewarding them? Can I find more ways?</li>
+</ol></li>
+<li>Primality
+<ol type="a">
+<li>What parts of my game are so primal an animal could play? Why?</li>
+<li>What parts of my game could be more primal?</li>
+</ol></li>
+<li>Channels and Dimensions
+<ol type="a">
+<li>What data need to travel to and from the player?</li>
+<li>Which data are most important?</li>
+<li>What channels do I have available to transmit these data?</li>
+<li>Which channels are most appropriate for which data? Why?</li>
+<li>Which dimensions are available on the different channels?</li>
+<li>How should I use those dimensions?</li>
+</ol></li>
+<li>Modes
+<ol type="a">
+<li>What modes do I need in my game? Why?</li>
+<li>Can any modes be collapsed or combined?</li>
+<li>Are any of the modes overlapping? If so, can I put them on different input channels?</li>
+<li>When the game changes modes, how does the player know that? Can the game communicate the mode change in more than one way?</li>
+</ol></li>
+<li>Moments
+<ol type="a">
+<li>What are the key moments in my game?</li>
+<li>How can I make each moment as powerful as possible?</li>
+</ol></li>
+<li>Interest Curve
+<ol type="a">
+<li>If I draw an interest curve of my experience, how is it generally shaped?</li>
+<li>Does it have a hook?</li>
+<li>Does it have gradually rising interest, punctuated by periods of rest?</li>
+<li>Is there a grand finale, more interesting than everything else?</li>
+<li>What changes would give me a better interest curve?</li>
+<li>Is there a fractal structure to my interest curve? Should there be?</li>
+<li>Do my intuitions about the interest curve match the observed interest of the players? If I ask playtesters to draw an interest curve, what does it look like?</li>
+</ol></li>
+<li>Inherent Interest
+<ol type="a">
+<li>What aspects of my game will capture the interest of a player immediately?</li>
+<li>Does my game let the player see or do something they have never seen or done before?</li>
+<li>What base instincts does my game appeal to? Can it appeal to more of them?</li>
+<li>What higher instincts does my game appeal to? Can it appeal to more of those?</li>
+<li>Does dramatic change and anticipation of dramatic change happen in my game? How can it be more dramatic?</li>
+</ol></li>
+<li>Beauty
+<ol type="a">
+<li>What elements make up my game? How can each one be more beautiful?</li>
+<li>Some things are not beautiful in themselves, but are beautiful in combination. How can the elements of my game be composed in a way that is poetic and beautiful?</li>
+<li>What does beauty mean within the context of my game?</li>
+</ol></li>
+<li>Projection
+<ol type="a">
+<li>What is there in my game that players can relate to? What else can I add?</li>
+<li>What is there in my game that will capture a player’s imagination? What else can I add?</li>
+<li>Are there places in the game that players have always wanted to visit?</li>
+<li>Does the player get to be a character they could imagine themselves to be?</li>
+<li>Are there other characters in the game that the players would be interested to meet (or to spy on)?</li>
+<li>Do the players get to do things that they would like to do in real life, but can’t?</li>
+<li>Is there an activity in the game that once a player starts doing, it is hard to stop?</li>
+</ol></li>
+<li>Story Machine
+<ol type="a">
+<li>When players have different choices about how to achieve goals, new and different stories can arise. How can I add more of these choices?</li>
+<li>Different conflicts lead to different stories. How can I allow more types of conflict to arise from my game?</li>
+<li>When players can personalize the characters and setting, they will care more about story outcomes, and similar stories can start to feel very different. How can I let players personalize the story?</li>
+<li>Good stories have good interest curves. Do my rules lead to stories with good interest curves?</li>
+<li>A story is only good if you can tell it. Who can your players tell the story to that will actually care?</li>
+</ol></li>
+<li>Obstacle
+<ol type="a">
+<li>What is the relationship between the main character and the goal? Why does the character care about it?</li>
+<li>What are the obstacles between the character and the goal?</li>
+<li>Is there an antagonist who is behind the obstacles? What is the relationship between the protagonist and the antagonist?</li>
+<li>Do the obstacles gradually increase in difficulty?</li>
+<li>Some say “the bigger the obstacle, the better the story.” Are your obstacles big enough? Can they be bigger?</li>
+<li>Great stories often involve the protagonist transforming in order to overcome the obstacle. How does your protagonist transform?</li>
+</ol></li>
+<li>Simplicity and Transcendence
+<ol type="a">
+<li>How is my world simpler than the real world? Can it be simpler in other ways?</li>
+<li>What kind of transcendent power do I give to the player? How can I give even more without removing challenge from the game?</li>
+<li>Is my combination of simplicity and transcendence contrived, or does it provide my players with a special kind of wish fulfillment?</li>
+</ol></li>
+<li>Hero’s Journey
+<ol type="a">
+<li>Does my story have elements that qualify it as a heroic story?</li>
+<li>If so, how does it match up with the structure of the hero’s journey?</li>
+<li>Would my story be improved by including more archetypical elements?</li>
+<li>Does my story match this form so closely that it feels hackneyed?</li>
+</ol></li>
+<li>Weirdest Thing
+<ol type="a">
+<li>What’s the weirdest thing in my story?</li>
+<li>How can I make sure that the weirdest thing doesn’t confuse or alienate the player?</li>
+<li>If there are multiple weird things, should I maybe get rid of, or coalesce, some of them?</li>
+<li>If there is nothing weird in my story, is the story still interesting?</li>
+</ol></li>
+<li>Story
+<ol type="a">
+<li>Does my game really need a story? Why?</li>
+<li>Why will players be interested in this story?</li>
+<li>How does the story support the other parts of the tetrad (aesthetics, technology, gameplay)? Can it do a better job?</li>
+<li>How do the other parts of the tetrad support the story? Can they do a better job?</li>
+<li>How can my story be better?</li>
+</ol></li>
+<li>Freedom
+<ol type="a">
+<li>When do my players have freedom of action? Do they feel free at these times?</li>
+<li>When are they constrained? Do they feel constrained at these times?</li>
+<li>Are there any places I can let them feel more free than they do now?</li>
+<li>Are there any places where they are overwhelmed by too much freedom?</li>
+</ol></li>
+<li>Help
+<ol type="a">
+<li>Within the context of the game, who is the player helping?</li>
+<li>Can I make the player feel more connected to the characters who need help?</li>
+<li>Can I better tell the story of how meeting game goals helps someone?</li>
+<li>How can the helped characters show their appreciation?</li>
+</ol></li>
+<li>Indirect Control
+<ol type="a">
+<li>Ideally, what would I like the players to do?</li>
+<li>Can constraints get players to do it?</li>
+<li>Can goals get players to do it?</li>
+<li>Can interface get players to do it?</li>
+<li>Can visual design get players to do it?</li>
+<li>Can game characters get players to do it?</li>
+<li>Can music or sound get players to do it?</li>
+<li>Is there some other method I can use to coerce players toward ideal behavior without impinging on their feeling of freedom?</li>
+<li>Is my design inducing desires I’d rather the player not have?</li>
+</ol></li>
+<li>Collusion
+<ol type="a">
+<li>What do I want the player to experience?</li>
+<li>How can the characters help fulfill this experience, without compromising their goals in the game world?</li>
+</ol></li>
+<li>Fantasy
+<ol type="a">
+<li>What fantasy does my world fulfill?</li>
+<li>Who does the player fantasize about being?</li>
+<li>What does my player fantasize about doing there?</li>
+</ol></li>
+<li>World
+<ol type="a">
+<li>How is my world better than the real world?</li>
+<li>Can there be multiple gateways to my world? How do they differ? How do they support each other?</li>
+<li>Is my world centered on a single story, or could many stories happen here?</li>
+</ol></li>
+<li>Avatar
+<ol type="a">
+<li>Is my avatar an ideal form likely to resonate with my players?</li>
+<li>Does my avatar have iconic qualities that let a player project themselves into the character?</li>
+</ol></li>
+<li>Character Function
+<ol type="a">
+<li>What are the roles I need the characters to fill?</li>
+<li>What characters have I already imagined?</li>
+<li>Which characters map well to which roles?</li>
+<li>Can any characters fill more than one role?</li>
+<li>Do I need to change the characters to better fit the roles?</li>
+<li>Do I need any new characters?</li>
+</ol></li>
+<li>Character Traits
+<ol type="a">
+<li>What traits define my character?</li>
+<li>How do these traits manifest themselves in the words, actions, and appearance of my character?</li>
+</ol></li>
+<li>Interpersonal Circumplex
+<ol type="a">
+<li>Are there any gaps in the chart? Why are they there? Would it be better if the gaps were filled?</li>
+<li>Are there “extreme characters” on the graph? If not, would it be better if there were?</li>
+<li>Are the character’s friends in the same quadrant, or different quadrants? What if that were different?</li>
+</ol></li>
+<li>Character Web
+<ol type="a">
+<li>How, specifically, does each character feel about each of the others?</li>
+<li>Are there any connections unaccounted for? How can I use those?</li>
+<li>Are there too many similar connections? How can they be more different?</li>
+</ol></li>
+<li>Status
+<ol type="a">
+<li>What are the relative status levels of the characters in my game?</li>
+<li>How can they show appropriate status behaviors?</li>
+<li>Conflicts of status are interesting—how are my characters vying for status?</li>
+<li>Changes of status are interesting—where do they happen in my game?</li>
+<li>How am I giving the player a chance to express status?</li>
+</ol></li>
+<li>Character Transformation
+<ol type="a">
+<li>How does each of my characters change throughout the game?</li>
+<li>How am I communicating those changes to the player? Can I communicate them more clearly, or more strongly?</li>
+<li>Is there enough change?</li>
+<li>Are the changes surprising and interesting?</li>
+<li>Are the changes believable?</li>
+</ol></li>
+<li>Inner Contradiction
+<ol type="a">
+<li>What is the purpose of my game?</li>
+<li>What are the purposes of each subsystem in my game?</li>
+<li>Is there anything at all in my game that contradicts these purposes?</li>
+<li>If so, how can I change that?</li>
+</ol></li>
+<li>Nameless Quality
+<ol type="a">
+<li>Does my design have a special feeling of life, or do parts of my design feel dead? What would make my design feel more alive?</li>
+<li>Which of Alexander’s fifteen qualities does my design have?</li>
+<li>Could it have more of them, somehow?</li>
+<li>Where does my design feel like myself?</li>
+</ol></li>
+<li>Atmosphere
+<ol type="a">
+<li>Without using words, how can I describe the atmosphere of my game?</li>
+<li>How can I use artistic content (both visual and audible) to deepen that atmosphere?</li>
+</ol></li>
+<li>Spectation
+<ol type="a">
+<li>Is my game interesting to watch? Why or why not?</li>
+<li>How can I make it more interesting to watch?</li>
+</ol></li>
+<li>Friendships
+<ol type="a">
+<li>What kind of friendships are my players looking for?</li>
+<li>How do my players break the ice?</li>
+<li>Do my players have enough chance to talk to each other? Do they have enough to talk about?</li>
+<li>When is the moment they become friends?</li>
+<li>What tools do I give the players to maintain their friendships?</li>
+</ol></li>
+<li>Expression
+<ol type="a">
+<li>How am I letting players express themselves?</li>
+<li>What ways am I forgetting?</li>
+<li>Are players proud of their identity? Why or why not?</li>
+</ol></li>
+<li>Community
+<ol type="a">
+<li>What conflict is at the heart of my community?</li>
+<li>How does architecture shape my community?</li>
+<li>Does my game support three levels of experience?</li>
+<li>Are there community events?</li>
+<li>Why do players need each other?</li>
+</ol></li>
+<li>Griefing
+<ol type="a">
+<li>What systems in my game are easy to grief?</li>
+<li>How can I make my game boring to grief?</li>
+<li>Am I ignoring any loopholes?</li>
+</ol></li>
+<li>Love
+<ul>
+<li>Do I love my project? If not, how can I change that?</li>
+<li>Does everyone on the team love the project? If not, how can that be changed?</li>
+</ul></li>
+<li>Team
+<ul>
+<li>Is this the right team for this project? Why?</li>
+<li>Is the team communicating objectively?</li>
+<li>Is the team communicating clearly?</li>
+<li>Is the team comfortable with each other?</li>
+<li>Is there an air of trust and respect among the team?</li>
+<li>Is the team ultimately able to unify around decisions?</li>
+</ul></li>
+<li>Documenting
+<ul>
+<li>What do we need to remember while making this game?</li>
+<li>What needs to be communicated while making this game?</li>
+</ul></li>
+<li>Playtesting
+<ul>
+<li>Why are we doing a playtest?</li>
+<li>Who should be there?</li>
+<li>Where should we hold it?</li>
+<li>What will we look for?</li>
+<li>How will we get the information we need?</li>
+</ul></li>
+<li>Technology
+<ul>
+<li>What technologies will help deliver the experience I want to create?</li>
+<li>Am I using these technologies in ways that are foundational or decorational?</li>
+<li>If I’m not using them foundationally, should I be using them at all?</li>
+<li>Is this technology as cool as I think it is?</li>
+<li>Is there a “disruptive technology” I should consider instead?</li>
+</ul></li>
+<li>Crystal Ball
+<ul>
+<li>What will ____ be like two years from now? Why?</li>
+<li>What will ____ be like four years from now? Why?</li>
+<li>What will ____ be like ten years from now? Why?</li>
+</ul></li>
+<li>Utopia
+<ul>
+<li>Am I creating something that feels magical?</li>
+<li>Do people get excited just hearing about what I am making? Why or why not?</li>
+<li>Does my game advance the state of the art in a meaningful way?</li>
+<li>Does my game make the world a better place?</li>
+</ul></li>
+<li>Client
+<ul>
+<li>What does the client say he wants?</li>
+<li>What does the client think he wants?</li>
+<li>What does the client really want, deep down in his heart?</li>
+</ul></li>
+<li>Pitch
+<ul>
+<li>Why are you pitching this game to this client?</li>
+<li>What will you consider “a successful pitch”?</li>
+<li>What’s in it for the people you are pitching to?</li>
+<li>What do the people you are pitching to need to know about your game?</li>
+</ul></li>
+<li>Profit
+<ul>
+<li>Where does the money go in my game’s business model? Why?</li>
+<li>How much will it cost to produce, market, distribute, and maintain this game? Why?</li>
+<li>How much money will this game make? Why do I think that?</li>
+<li>What are the barriers to entry in the market for this game?</li>
+</ul></li>
+<li>Transformation
+<ul>
+<li>How can my game change players for the better?</li>
+<li>How can my game change players for the worse?</li>
+</ul></li>
+<li>Responsibility
+<ul>
+<li>Does my game help people? How?</li>
+</ul></li>
+<li>Raven
+<ul>
+<li>Is making this game worth my time?</li>
+</ul></li>
+<li>Purpose
+<ul>
+<li>Why am I doing this?</li>
+</ul></li>
+</ol>
+</section>
+<section id="game-design-document" class="level2">
+<h2 class="anchored" data-anchor-id="game-design-document">Game Design Document</h2>
+</section>
+<section id="gameplay" class="level2">
+<h2 class="anchored" data-anchor-id="gameplay">Gameplay</h2>
+</section>
+<section id="mechanics" class="level2">
+<h2 class="anchored" data-anchor-id="mechanics">Mechanics</h2>
+</section>
+<section id="levels" class="level2">
+<h2 class="anchored" data-anchor-id="levels">Levels</h2>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/amanda-park\.github\.io");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

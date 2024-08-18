@@ -1,0 +1,1311 @@
+---
+title: 'Writing Wiki'
+author: 'Amanda Park'
+date: '2024-08-17'
+slug: writing-game-design
+categories: ['wiki']
+featured_image: ''
+description: 'My synthesized notes of all the writing knowledge I have accummulated over the past few years for game design purposes.'
+---
+
+*Work in progress...*
+
+# Characters
+
+## 🌱 Character Arc
+
+Shorthand for character arcs can follow with DREAM (denial, resistance, exploration, acceptance, and manifestation).
+
+1.  **Outer Motivation**: What outer motivation (story goal) is your character pursuing to try and attain her inner motivation?
+2.  **Inner Motivation**: Which of the 5 basic human needs is your character missing due to the wounding event and its after effects?
+    1.  *Physiological*: the most basic and primal needs, such as food, water, shelter, sleep, and reproductive sex
+    2.  *Safety and Security*: the need to be safe, in good health, and have stability, both for oneself and loved ones
+    3.  *Love and Belonging*: tied to human connection and the ability to form lasting bonds, experience intimacy, feel love, and love others in turn
+    4.  *Esteem and Recognition*: the need to be valued, appreciated, and recognized by others for one’s contributions, as well as to achieve higher levels of worthiness, self-respect, and confidence
+    5.  *Self-Actualization*: the need to attain fulfillment through the realization of one’s potential. This might come in the form of pursuing and achieving meaningful goals, seeking knowledge, attaining spiritual enlightenment, or embracing core values, beliefs, and an identity so one may live one’s truth
+3. **Outer Conflict**: What external forces (people, organizations, natural or supernatural phenomena, etc.) are blocking your character from achieving her outer motivation? 
+4. **Inner Conflict**: What internal difficulties (doubts, temptations, secrets, moral dilemmas, flaws that thwart  success, opposing desires or goals, etc.) are making it hard for your character to achieve her outer motivation?
+5. **The Lie**: What false belief (No one could ever love me; I can’t trust my own instincts; People are inherently evil, etc.) does the character now embrace because of the wounding event? This could be a belief about herself, an organization, a certain group of people, or the world at large. 
+6. **Wound**: What traumatic past experience caused the character deep psychological pain that continues to significantly impair her into the present? 
+7. **Fear**: What specific fear resulted from the wounding event that is now driving the character’s behavior?
+8. **Resolution**: Briefly explain the steps your character will take to come to grips with her past. Make note of specific circumstances or opportunities that will allow her to gain perspective regarding the wounding event,  refute the lie she has come to believe, and reject her emotional shielding so she can achieve the goal that will  restore her missing need. Use whatever format works best for you, be it an overall summary of what the character will learn or a bullet list of events that will effect change.
+
+## 🖌️ Creating a Character
+
+Tips to make characters distinct:
+
+* Don't make them sound the same with dialogue
+* Give them different visual styles
+* No names that are similar
+* Play up different quirks
+* Dig deep on their personalities
+
+Avoid unsympathetic characters:
+
+* Unrelatable background
+* Lacking self-awareness or introspection
+* Self-aware - and still unlikable
+* Questionable motives
+* Cruel, selfish, illogical actions
+* Hoisted by their own petard
+* Either tons of character flaws or none
+
+### Reverse Backstory Tool
+
+* What is the character's goal / outer motivation?
+* What attributes will help achieve this goal?
+* What positive emotions does this character feel because of these attributes?
+* Emotionally speaking, why do they want to achieve this?
+* What needs drive this character's behavior?
+* What flaws get in the way of this goal?
+* What painful emotions do the flaws protect against?
+* What traumatic event triggered these same emotions in an intense, life-changing way? (Wound)
+* Because of the wounding event, what incorrect belief does the character hold to be true? (The Lie)
+
+### Character Template
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+### Basics
+
+* Name
+* Birthday
+* Race
+* Nationality
+* Age
+* Gender
+* Height
+* Weight
+* Eye Color
+* Vision Impairment?
+* Skin Color
+* Hair Color
+* Hair Length
+* Body Shape
+* Posture
+* Head Shape
+* Nose
+* Mouth
+* Vocal Pitch
+* Vocal Speed
+* Clothing
+* Physical Health
+
+:::
+
+::: {.column width="33%"}
+
+### Personality
+
+* Big 5
+* Enneagram
+* Sexual Orientation
+* D&D Alignment
+* Mental Conditions
+* Cursing
+* Likability
+  * Undeserved Misfortune
+  * Pet the Dog
+  * Likable Quirk
+  * Helping Others
+    * Help the most people
+    * Help those closest to character
+    * Help themselves
+* Strengths
+* Weaknesses
+* Reverse Backstory Details (Goals, Flaws, Needs, etc)
+
+:::
+
+::: {.column width="33%"}
+
+### History
+
+* Relationships to other characters
+* Likes
+* Dislikes
+* Loves
+* Education
+* Job
+* Morality & Values
+  * Personal vs Private Values
+* Spirituality & Religion
+* Cultural Background
+* Past
+  * Traumatic Events
+  * First Memory
+  * Life-Altering Events
+  * First Death
+  * Best Thing Done
+* Present
+  * Best Things
+  * Worst THings
+  * Goals
+  * Failures
+  * Beliefs
+  * Lies
+* Future Dreams
+
+:::
+
+::::
+
+## 🥅 Goals & Outer Motivation
+
+General types of goals throughout the story:
+
+* What goals do they want to accomplish?
+* What goals are the most important?
+* What goals have the most attention?
+* What goals are discovered along the journey?
+* What goals do they abandon?
+
+## 💥  Conflicts
+
+1. Central Conflict
+	a. Character vs character
+	b. Character vs society
+	c. Character vs nature
+	d. Character vs technology
+	e. Character vs supernatural
+	f. Character vs self
+2. Story-Level (Macro) Conflict
+3. Scene-Level (Micro) Conflict
+4. Internal Conflict
+
+For each conflict:
+
+1. What is your character attempting to do? (Thesis)
+2. What is the oppositional force trying to do? (Antithesis)
+3. What ways can this conflict be resolved? (Synthesis)
+
+:::: {.columns}
+
+::: {.column width="45%"}
+### Relationship Friction
+
+* A divorce or breakup
+* A child wanting to live with one's ex
+* A love interest taking up with someone else
+* A partner being unwilling to commit
+* A romance being stymied
+* A romantic competitor entering the scene
+* An ex interfering in one's life
+* An unwanted romantic advance
+* Being betrayed or abandoned by a trusted ally or friend
+* Being cheated on
+* Being forced to marry
+* Being ignored or blown off
+* Being insulted
+* Being manipulated
+* Being rejected by a potential love interest
+* Being taken for granted
+* Being unable to forgive someone
+* Disappointing someone
+* Discovering a spouse's secret
+* Domestic abuse
+* Family secrets being revealed
+* Having to betray a friend or loved one
+* Having to break someone's heart
+* Losing one's temper
+* One's infidelity being discovered
+* Peer pressure
+* Seeing an ex with someone new
+* Sexual dysfunction
+* The reappearance of an estranged relative
+
+### Failures and Mistakes
+
+* A lie impacting someone else
+* A prank going wrong
+* Being unprepared
+* Breaking or destroying an important item
+* Causing a car accident
+* Causing a workplace hazard
+* Confiding in the wrong person
+* Doing something stupid while impaired
+* Dropping the ball
+* Failing at something
+* Getting caught doing something wrong
+* Getting caught in a lie
+* Having a one night stand with a coworker
+* Having poor judgment
+* Losing a bet
+* Losing a phone
+* Making a bad investment
+* Making a crucial mistake at work
+* Sending a private message to the wrong person
+* Taking advice from the wrong person
+* Underestimating danger
+* Unknowingly sharing incorrect information
+
+### Moral Dilemmas and Temptations
+
+* Being given an opportunity to cheat
+* Being offered an easy way out
+* Being offered dirty money
+* Being pressured to cover for a friend
+* Breaking the law for a good reason
+* Discovering an outcome has been fixed
+* Facing a difficult decision with no easy solution
+* Having feeling for someone one shouldn't
+* Having to decide to help or do nothing
+* Having to steal to obtain something vital
+* Indulging when one should not
+* Leaving someone to the consequences of their actions
+* Making a discovery that threatens the bond of the friendship
+* Needing to sabotage someone to win
+* Pulling the plug on someone
+* Sacrificing ethics or morals for the greater good
+* Someone witnessing one's misbehavior
+* Witnessing abuse
+* Witnessing Corruption
+* Witnessing Discrimination
+
+### Duty and Responsibility
+
+* A child getting sick
+* A problem at a child's school
+* An elderly loved one requiring care
+* Being assigned an undesirable partner
+* Being assigned an unpleasant task
+* Being the bearer of bad news
+* Bureaucracy tying one's hands
+* Chafing under poor leadership
+* Childcare falling through
+* Having to break a promise
+* Having to punish someone
+* Having to work with an enemy
+* Losing a job
+* Losing a source of transportation
+* Needing to disobey an order
+* Receiving a bad performance review
+* Work-life balance being threatened
+
+### Increased Pressure and Ticking Clocks
+
+* A deadline being moved up
+* A delay that makes one late
+* Being blackmailed
+* Being given an ultimatum
+* Being hunted
+* Being made to wait
+* Being saddled with unexpected responsibility
+* Being thrust into the spotlight
+* Getting lost
+* Having to beat the clock
+* Having to prove one's innocence
+* Incurring an unexpected expense
+* Missing an important meeting/deadline
+* Realizing one is at a disadvantage
+* Unwanted scrutiny
+
+### No-Win Scenarios
+
+* Being caught in the middle
+* Being set up to fail
+* Being unable to save everyone
+* Conflicting internal needs or desires
+* Having to hurt someone to save them from the worst fate
+* Having to pick the lesser of two evils
+* Needing to sacrifice one for the good of many
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+### Loss of Control
+
+* A Break-In
+* A Family Member Dying
+* A Guilty Party Escaping Justice
+* A House Fire
+* A Loved One Being Put in Harm’s Way
+* A Natural Disaster
+* A Partner Racking up Debt
+* A Recession or Economy Crash
+* A Spouse Losing Their Job
+* A Threatening Criminal Being Set Free
+* An Unexpected Pregnancy
+* Bad Weather
+* Becoming a Scapegoat
+* Being Audited
+* Being Captured
+* Being Controlled by Something
+* Being Evicted
+* Being Framed
+* Being Given Bad News
+* Being Orphaned
+* Being Poisoned
+* Being Pushed Toward a Specific Destiny
+* Being Scammed
+* Being Stranded
+* Being Targeted for Witnessing a Criminal Act
+* Discovering One Has a Child
+* Getting in a Car Accident
+* Having a Miscarriage
+* Having to Leave Someone Behind
+* Having to Move
+* Hours Being Cut at Work
+* Losing a Child in a Public Place
+* Not Getting a Desired Job
+* One’s Rent Being Raised
+* The Death of a Pet
+* War Breaking Out
+
+### Power Struggles
+
+* Being Arrested
+* Being Assaulted by a Stranger
+* Being Bullied
+* Being Falsely Accused
+* Being Forced into Complicity
+* Being Held for Questioning
+* Being Pressured by Family
+* Being Sabotaged
+* Being Subpoenaed
+* Being Sued
+* Being Targeted out of Revenge
+* Clashing Beliefs That Cause Problems
+* Forced Attendance
+* Gender Discrimination
+* Misaligned Goals
+* Nepotism or Favoritism
+* Racial Discrimination
+* Religious Discrimination
+* Sexual Orientation Discrimination
+* Social Discrimination
+* Suffering Harassment
+
+### Losing an Advantage
+
+* A Competitor Showing Up
+* A Place of Safety Being Compromised
+* Being Cast out of a Group
+* Having to Leave One’s Home or Homeland
+* Having to Split up for Safety
+* Lacking an Important Resource
+* Losing Access to Someone Important
+* Losing One’s Funding
+* Losing a Key Witness
+* Losing a Vital Item
+* Losing an Ally
+* One’s Livelihood Being Threatened
+* Rules Changing to One’s Disadvantage
+* Running out of Critical Supplies
+* Something Important Being Stolen
+
+### Ego
+
+* An Unexpected Loss of Prestige or Wealth
+* Being Cut from a Team
+* Being Discredited
+* Being Excluded
+* Being Lied To
+* Being Micro-Managed
+* Being Passed over for Promotion
+* Being Physically Marred Before an Important Event
+* Being Stifled
+* Being a Burden to Others
+* Experiencing a Crisis of Self-Doubt
+* Facing a Challenge Beyond One’s Skill or Knowledge
+* Having to Stay Behind
+* Learning That One Was Adopted
+* Not Being Taken Seriously
+* Not Knowing What One Wants
+* One’s Authority Being Threatened
+* Public Humiliation
+* Telling the Truth but Not Being Believed
+
+### Miscellaneous Challenges
+
+* A Fear or Phobia Rearing Its Head
+* A Health Issue Cropping Up
+* A Repressed Memory Resurfacing
+* An Anticipated Event Being Canceled
+* Being Approached by an Unwanted Visitor
+* Being Cursed
+* Being Forced to Lead
+* Being Mistaken for Someone Else
+* Being Placed Under a Spell
+* Being Recognized While Trying to Stay Under the Radar
+* Being Targeted by a Monster
+* Being Targeted by a Supernatural Force
+* Being Unable to Forgive Oneself
+* Being in the Wrong Place at the Wrong Time
+* Discovering a Dead Body
+* Having Unwanted Powers
+* Having a Crisis of Faith
+* Having to Circumvent Security
+* Having to Hide or Escape Detection
+* Needing to Infiltrate a Group
+* Needing to Lie Convincingly
+* Physical Exhaustion
+* Plans Changing Unexpectedly
+
+:::
+
+::::
+
+## 🩹 Wounds
+
+A character wound leads to psychological pain and the paralyzing belief that it could happen again. Fear develops based on the type of wound. The character's actions and choices shift to prevent situations where this might come to pass.
+
+Emotional shielding shows up through flaws, dysfunctional behaviors and habits, biases, a negative outlook or attitude, and/or the lie the character believes.
+
+:::: {.columns}
+
+::: {.column width="45%"}
+### Failures and Mistakes
+
+-   Accidentally killing someone
+-   Bearing responsibility of many deaths
+-   Being legitimately incarcerated for a crime
+-   Caving to peer pressure
+-   Choosing not to be involved in a child's life
+-   Cracking under pressure
+-   Declaring bankruptcy
+-   Failing at school
+-   Failing to do the right thing
+-   Failing to save someone's life
+-   Making a public mistake
+-   Poor judgment leading to unintended consequences
+
+### Misplaced Trust and Betrayals
+
+-   A sibling's betrayal
+-   A toxic relationship
+-   Abandonment over an unexpected pregnancy
+-   Being disappointed by a role model
+-   Being disowned or shunned
+-   Being let down by a trusted organization or social system
+-   Being rejected by one's peers
+-   Childhood sexual abuse by a known person
+-   Discovering a partner's sexual orientation secret
+-   Discovering a sibling's abuse
+-   Domestic abuse
+-   Financial ruin due to a spouse's irresponsibility
+-   Finding out one was adopted
+-   Finding out one's child was abused
+-   Getting dumped
+-   Having one's ideas or work stolen
+-   Incest
+-   Infidelity
+-   Learning that one's parent has a second family
+-   Learning that one's parent is a monster
+-   Losing a loved one due to a professional's negligence
+-   Misplaced loyalty
+-   Telling the truth but not being believed
+
+### Traumatic Events
+
+-   A child dying on one's watch
+-   A house fire
+-   A life-threatening accident
+-   A loved one's suicide
+-   A miscarriage or stillbirth
+-   A natural or man-made disaster
+-   A parent's divorce
+-   A school shooting
+-   A terminal illness diagnosis
+-   A terrorist attack
+-   Being humiliated by others
+-   Being tortured
+-   Being trapped in a collapsed building
+-   Being trapped with a dead body
+-   Divorcing one's spouse
+-   Getting lost in a natural environment
+-   Giving up a child for adoption
+-   Having an abortion
+-   Having to kill to survive
+-   Losing a loved one to a random act of violence
+-   The death of one's child
+-   Watching someone die
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+### Crime and Victimization
+
+-   A carjacking
+-   A home invasion
+-   A physical assault
+-   Being held captive
+-   Being sexually violated
+-   Being stalked
+-   Being treated as property
+-   Being victimized by a perpetrator that was never caught
+-   Identity theft
+-   Witnessing a murder
+
+### Disabilites and Disfigurements
+
+-   A learning disability
+-   A physical disfigurement
+-   A speech impediment
+-   A traumatic brain injury
+-   Battling a mental disorder
+-   Being so beautiful it's all people see
+-   Falling short of society's physical standards
+-   Infertility
+-   Living with chronic pain or illness
+-   Losing a limb
+-   Losing one of the 5 senses
+-   Sexual dysfunction
+-   Medical condition
+-   Stress
+-   Psychological factors
+-   Past trauma
+-   Body image
+-   Social difficulties
+    -   Shyness
+    -   Autism/ADHD/OCD/Social Anxiety/Panic
+    -   Behavioral disorders
+-   Social outcast
+
+### Injustice and Hardship
+
+-   An abuse of power
+-   Becoming homeless for reasons beyond one's control
+-   Being bullied
+-   Being falsely accused of a crime
+-   Being fired or laid off
+-   Being forced to keep a dark secret
+-   Being forced to leave one's homeland
+-   Being the victim of a vicious rumor
+-   Being unfairly blamed for someone's death
+-   Experiencing poverty
+-   Living through civil unrest
+-   Living through famine or drought
+-   Prejudice or discrimination
+-   Unrequited love
+-   Wrongful imprisonment
+
+### Childhood Wounds
+
+-   A nomadic childhood
+-   A parent's abandonment or rejection
+-   Becoming a caregiver at an early age
+-   Being raised by a narcissist
+-   Being raised by an addict
+-   Being raised by neglectful parents
+-   Being raised by overprotective parents
+-   Being raised by parents who love conditionally
+-   Being sent away as a child
+-   Being the product of rape
+-   Experiencing the death of a parent as a child or youth
+-   Growing up in a cult
+-   Growing up in foster care
+-   Growing up in the public eye
+-   Growing up in the shadow of a successful sibling
+-   Growing up with sibling's disability or chronic illness
+-   Having a controlling or overly strict parent
+-   Having parents who favored one child over the other
+-   Living in a dangerous neighborhood
+-   Living in an emotionally repressed household
+-   Living with an abusive caregiver
+-   Not being a priority growing up
+-   Witnessing violence at a young age
+:::
+
+::::
+
+### ❔ Character Wound ?s
+
+-   Who hurt your character in the past?
+-   What happened (the wounding event or situation)?
+-   Where did it happen?
+-   Was it a single, ongoing, or repeated event?
+-   What factors made this situation more difficult?
+    -   Personality, physical proximity, responsibility, support, recurrence, justice, compounding events, invasiveness, emotional proximity, emotional state
+-   Details of the situation?
+-   What is the fallout of the experience (flaws, behaviors, relationship issues, insecurities, etc.)?
+-   What negative life lessons this situation taught the character?
+-   Trust issues that developed?
+-   Ways the character's self-worth was damaged?
+-   What character fear emerged?
+-   Flaws that developed to keep people and painful situations at a distance?
+-   Biases, negative attitudes, and outlooks that developed?
+-   The lie the character now believes (that contributes to self-blame, self-worth, disillusionment, etc.)?
+  * Core flaws that result from the lie
+  * Lesser flaws stemming from core flaws
+  * Typical behaviors, thoughts, actions and quirks (think of all of this as a pyramid with this bullet at the bottom and The Lie at the top)
+-   What emotions the character now avoids?
+-   What triggers this character wound?
+
+## 🫂 Needs & Lies
+
+### Physiological Needs
+
+:::: {.columns}
+::: {.column width="45%"}
+#### Associated Needs
+
+* Obtaining or securing food, water, shelter, warmth, or sleep
+* Avoiding pain
+* Having sex
+* Procreation
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+#### Associated Lies
+
+* I don’t deserve to be safe.
+* I haven’t earned the right to be comfortable and secure.
+* I’ve brought this pain on myself.
+* No one would want to have sex with me.
+* I would be a terrible parent.
+
+:::
+::::
+
+### Safety and Security
+
+:::: {.columns}
+::: {.column width="45%"}
+#### Associated Needs
+
+* Living a life categorized by order
+* Upholding laws, rules, or limits
+* Seeking stability
+* Valuing structure
+* Pursuing security
+* Securing health care for oneself or one’s family
+* Securing or keeping a job
+* Protecting one’s home, land, or resources
+* Protecting one’s source of livelihood
+* Protecting one’s family from mistreatment, persecution, or attack
+* Getting out of a bad neighborhood
+* Escaping prison
+* Regaining or holding onto one’s sanity
+* Cleaning up one’s environment
+* Rescuing someone from danger
+* Escaping an abusive relationship
+* Pursuing education in an effort to escape a bad living situation
+* Becoming free
+* Gaining the protection of an influential person
+* Surviving a life-or-death ordeal
+* Protecting oneself from the elements
+* Improving one’s health
+* Avoiding or ending a war or life-threatening conflict
+
+:::
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+#### Associated Lies
+
+* I’m above the law.
+* Structure is confining and stifling. I can’t live that way.
+* The rules don’t apply to me.
+* Rules were made to be broken.
+* I’m not qualified.
+* I’m not worthy of anyone’s protection.
+* I’m not strong enough to keep others from taking what I have.
+* I can’t protect myself, much less anyone else.
+* I’m stuck here.
+* This is all I’m good for.
+* I can’t keep him/her safe.
+* I deserve this treatment.
+* I wouldn’t know how to provide for myself.
+* Nothing is going to change; it’s going to be like this for the rest of my life.
+* Sometimes you have to just accept the way things are.
+* I couldn’t keep my spouse/child/friend safe, so I can’t be trusted to safeguard others.
+* If I work hard enough, I can forget what happened to me.
+
+:::
+::::
+
+### Love and Belonging
+
+:::: {.columns}
+::: {.column width="45%"}
+#### Associated Needs
+
+* Gaining someone’s affection
+* Being accepted by others
+* Finding a spouse
+* Obtaining a date to the prom
+* Having children
+* Building deep relationships with others
+* Experiencing sexual intimacy
+* Belonging to or fitting in with a group (a school club, the marines, a church, gang, etc.)
+* Connecting with one’s children
+* Healing a broken relationship
+* Expressing one’s feelings
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+#### Associated Lies
+
+* No one will be interested in someone as screwed up as me.
+* I refuse to bring a child into such a messed up world.
+* I’m too selfish to be of any use to anyone.
+* I don’t need others in order to be fulfilled.
+* I don’t want any attachments.
+* I’d rather be alone.
+* My kids don’t need me.
+* I don’t deserve anyone’s affection.
+* They’re never going to accept me.
+* I don’t want or need their acceptance.
+* Emotions make you weak.
+* If I make myself vulnerable, I’m going to get hurt.
+* If I show them who I really am, they’ll reject me.
+* I only know how to pick losers.
+* I have to push others away before they have a chance to hurt me.
+* If I let others in, I’ll only end up letting them down.
+* I don’t know how to love.
+* If I do whatever he says, he’ll eventually forgive me.
+* If I follow in my father’s/mother’s/idol’s footsteps, then he/she will have to accept me.
+* If I tell the truth about my past, everyone will hate me.
+* I’d rather be in a bad relationship than in no relationship at all.
+
+:::
+::::
+
+### Esteem and Recognition
+
+:::: {.columns}
+::: {.column width="45%"}
+#### Associated Needs
+
+* Increasing one’s confidence
+* Increasing one’s self-esteem
+* Increasing one’s sense of perceived value or worth
+* Increasing one’s wealth
+* Experiencing achievement
+* Gaining the respect of others
+* Distinguishing oneself
+* Gaining independence
+* Gaining status or prestige
+* Overcoming a stereotype
+* Overcoming addiction
+* Accomplishing something that no one has ever accomplished before
+* Obtaining a certain job or position
+* Joining a prestigious group
+* Winning an award
+* Improving one’s social status
+* Improving one’s physical appearance
+* Winning a court case
+* Winning a game or contest
+* Proving someone wrong
+* Seeking retribution or exacting vengeance
+* Dominating or controlling others
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+#### Associated Lies
+
+* I can’t do anything.
+* I’m not worth the trouble.
+* I’ll never be successful.
+* I’m going to end up just like my dad, mom, brothers, ancestors, etc.
+* They’ll always see me as second-rate.
+* I’m not strong enough to do this on my own.
+* What they say/think about me is true.
+* I’m not good enough for that person, that high-level job, that club, etc.
+* I’m ugly.
+* I’m dumb.
+* I can’t compete at that level.
+* I don’t care what they think.
+* I have to be perfect for others to like me.
+* If I avenge my loved ones, I’ll finally be at peace.
+* I can’t trust others to do things right so I’ll have to do it myself.
+* If I can achieve ___, then they’ll have to admit how good I am.
+* If I let someone else be in control, they’re going to take advantage of me.
+* They can’t survive with me.
+* I can’t survive without him.
+* I’m not strong/smart/important enough to right this wrong.
+* I have nothing to offer.
+* I can’t overcome this addiction.
+* I’m better than them.
+* I can’t take another disappointment.
+* Their divorce/Her death/The accident is all my fault.
+* If I try to compete with him, I’ll lose.
+* If I try again, I’m going to fail like last time.
+
+:::
+::::
+
+### Self-Actualization
+
+:::: {.columns}
+::: {.column width="45%"}
+#### Associated Needs
+
+* Becoming a better mother, student, employee, friend, etc.
+* Challenging oneself
+* Obtaining a higher appreciation for art, nature, literature, music, etc.
+* Achieving personal growth
+* Growing spiritually
+* Being true to oneself
+* Doing what’s right
+* Edifying others
+* Achieving enlightenment
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+#### Associated Lies
+
+* This is who I am. I can do no better.
+* There is no true enlightenment.
+* If I can achieve perfection, then I’ll be happy.
+* I’ll never be as good a mother/student/employee/friend as _______.
+* You can’t change who you really are.
+* I’ll never be able to be my true self.
+
+:::
+::::
+
+## ⭐ Positive Attributes & Strengths
+
+If your goal is to form a well-rounded character, start by giving him attributes from different categories to help create a balanced personality. Below is a breakdown of the main traits in this thesaurus and which categories each falls under. Keep in mind that attributes can belong to more than one group.
+
+* Morality - what does this character use to determine right and wrong?
+* Achievement-focused traits - what aids the character in reaching their personal and professional goals?
+* Interactive traits - how does this character interact with other people and the world at large?
+* Identity attributes - who is this person at an individual level?
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+### Achievement
+
+* Adaptable
+* Adventurous
+* Alert
+* Ambitious
+* Analytical
+* Bold
+* Cautious
+* Centered
+* Charming
+* Confident
+* Cooperative
+* Courageous
+* Creative
+* Curious
+* Decisive
+* Disciplined
+* Efficient
+* Focused
+* Idealistic
+* Imaginative
+* Independent
+* Industrious
+* Intelligent
+* Mature
+* Meticulous
+* Obedient
+* Objective
+* Observant
+* Organized
+* Passionate
+* Patient
+* Pensive
+* Perceptive
+* Persistent
+* Persuasive
+* Proactive
+* Professional
+* Resourceful
+* Responsible
+* Sensible
+* Studious
+* Talented
+* Thrifty
+* Wise
+
+:::
+
+::: {.column width="25%"}
+### Identity
+
+* Adventurous
+* Affectionate
+* Ambitious
+* Bold
+* Centered
+* Charming
+* Confident
+* Creative
+* Curious
+* Disciplined
+* Easygoing
+* Enthusiastic
+* Extroverted
+* Flamboyant
+* Flirtatious
+* Funny
+* Happy
+* Honorable
+* Idealistic
+* Imaginative
+* Independent
+* Innocent
+* Inspirational
+* Intelligent
+* Introverted
+* Just
+* Kind
+* Mature
+* Merciful
+* Nature-Focused
+* Nurturing
+* Optimistic
+* Passionate
+* Patriotic
+* Pensive
+* Persuasive
+* Philosophical
+* Playful
+* Proper
+* Quirky
+* Sensual
+* Sentimental
+* Simple
+* Sophisticated
+* Spiritual
+* Spontaneous
+* Talented
+* Traditional
+* Uninhibited
+* Whimsical
+* Wholesome
+* Witty
+:::
+
+::: {.column width="25%"}
+### Interactive
+
+* Adaptable
+* Adventurous
+* Affectionate
+* Alert
+* Analytical
+* Appreciative
+* Bold
+* Calm
+* Cautious
+* Charming
+* Confident
+* Cooperative
+* Courageous
+* Courteous
+* Curious
+* Diplomatic
+* Discreet
+* Easygoing
+* Empathetic
+* Enthusiastic
+* Extroverted
+* Flamboyant
+* Flirtatious
+* Friendly
+* Funny
+* Generous
+* Gentle
+* Happy
+* Honest
+* Honorable
+* Hospitable
+* Humble
+* Imaginative
+* Independent
+* Industrious
+* Innocent
+* Inspirational
+* Introverted
+* Just
+* Kind
+* Loyal
+* Mature
+* Merciful
+* Nature-Focused
+* Nurturing
+* Obedient
+* Objective
+* Observant
+* Optimistic
+* Passionate
+* Patient
+* Patriotic
+* Perceptive
+* Persuasive
+* Philosophical
+* Playful
+* Private
+* Professional
+* Proper
+* Protective
+* Quirky
+* Resourceful
+* Sensible
+* Sensual
+* Sentimental
+* Simple
+* Socially Aware
+* Sophisticated
+* Spiritual
+* Spontaneous
+* Spunky
+* Supportive
+* Tolerant
+* Traditional
+* Trusting
+* Uninhibited
+* Unselfish
+* Whimsical
+* Wholesome
+* Witty
+:::
+
+::: {.column width="25%"}
+
+### Morality
+
+* Appreciative
+* Centered
+* Cooperative
+* Courageous
+* Courteous
+* Diplomatic
+* Empathetic
+* Friendly
+* Generous
+* Honest
+* Honorable
+* Hospitable
+* Humble
+* Innocent
+* Just
+* Kind
+* Loyal
+* Merciful
+* Obedient
+* Optimistic
+* Patient
+* Persistent
+* Professional
+* Proper
+* Protective
+* Responsible
+* Socially Aware
+* Spiritual
+* Supportive
+* Thrifty
+* Tolerant
+* Trusting
+* Unselfish
+* Wholesome
+
+:::
+
+::::
+
+## ☠️ Negative Attributes & Flaws
+
+:::: {.columns}
+
+::: {.column width="25%"}
+
+* Abrasive
+* Addictive
+* Antisocial
+* Apathetic
+* Callous
+* Catty
+* Childish
+* Cocky
+* Compulsive
+* Confrontational
+* Controlling
+* Cowardly
+* Cruel
+* Cynical
+* Defensive
+* Devious
+* Dishonest
+* Disloyal
+* Disorganized
+* Disrespectful
+* Evasive
+* Evil
+* Extravagant
+* Fanatical
+* Flaky
+* Foolish
+* Forgetful
+* Frivolous
+* Fussy
+
+:::
+
+::: {.column width="25%"}
+
+* Gossipy
+* Greedy
+* Grumpy
+* Gullible
+* Haughty
+* Hostile
+* Humorless
+* Hypocritical
+* Ignorant
+* Impatient
+* Impulsive
+* Inattentive
+* Indecisive
+* Inflexible
+* Inhibited
+* Insecure
+* Irrational
+* Irresponsible
+* Jealous
+* Judgmental
+* Know-it-all
+* Lazy
+
+:::
+
+::: {.column width="25%"}
+
+* Macho
+* Manipulative
+* Martyr
+* Materialistic
+* Melodramatic
+* Mischievous
+* Morbid
+* Nagging
+* Needy
+* Nervous
+* Nosy
+* Obsessive
+* Oversensitive
+* Paranoid
+* Perfectionist
+* Pessimistic
+* Possessive
+* Prejudiced
+* Pretentious
+* Promiscuous
+* Pushy
+* Rebellious
+* Reckless
+* Resentful
+* Rowdy
+
+:::
+
+::: {.column width="25%"}
+
+* Scatterbrained
+* Self-Destructive
+* Self-Indulgent
+* Selfish
+* Sleazy
+* Spoiled
+* Stingy
+* Stubborn
+* Subservient
+* Superstitious
+* Suspicious
+* Tactless
+* Temperamental
+* Timid
+* Uncommunicative
+* Uncooperative
+* Uncouth
+* Unethical
+* Ungrateful
+* Unintelligent
+* Vain
+* Verbose
+* Vindictive
+* Violent
+* Volatile
+* Weak-Willed
+* Whiny
+* Withdrawn
+* Workaholic
+* Worrywart
+
+:::
+
+::::
+
+
+# Story / Plot
+
+## Character Archetypes
+
+### Protagonist
+
+The protagonist is the character who drives the plot, pursues the main goal of the story, and usually changes or grows over the course of the film. A protagonist enters the film with a goal and by the end of the film, they either achieved that goal or did not. The protagonist’s character arc is defined by the pursuit of that goal. Classic examples of protagonists from film are Luke Skywalker and Harry Potter. All stories must have a protagonist, but not all stories need a hero. 
+
+Three types of protagonists:
+
+* Hero - someone we can all relate to, and his downfall will fill us with pity and fear. The hero is the “good guy”—the type of virtuous protagonist the audience roots for and wants to succeed. 
+* Anti-hero - an unlikely protagonist who does not necessarily have virtuous or villainous qualities but who is able to behave heroically if the opportunity arises.
+* Villain - the villain protagonist is the villain, an undeniable “bad guy,” is also driving the plot as the central character. 
+
+### Main Character
+
+The main character (aka principal character) is a central character who acts as the audience surrogate—we experience the story through their eyes. The main character is involved in the story, interacts with the secondary characters, and is personally impacted by the plot’s main conflict. The main character and the protagonist are often, but not always the same character.
+
+Reasons to separate main character and protagonist:
+
+* Unrelatable Protagonist: If the audience is not able to relate to the protagonist, the main character can be a more relatable entry-point to the story. In Tim Burton’s adaption of Charlie and the Chocolate factory, Willy Wonka is the protagonist and drives the plot, but he is also misanthropic and too kooky to be relatable for the audience. Charlie, the main character, acts as the audience surrogate. 
+* Point of View: A main character can act as a plot device to reveal greater truths about your protagonist. In The Great Gatsby, for example, we are able to see the protagonist, Jay Gatsby, as a flawed and dishonest man more clearly through the eyes of the main character, Nick Carraway. 
+* Added irony: A separate main character creates irony or a juxtaposition. Atticus—an adult lawyer—is the protagonist of To Kill a Mockingbird, a story about a rape trial with grown-up themes. The story, however, is told through the eyes of the main character, Scout, Atticus’s young daughter. Scout’s innocence reveals the flawed moral values of society and the adults around her. 
+
+### Antagonist
+
+* Villain - evil character 
+* Antagonist - character that gets in the way of the character's main goal
+* Obstacle - something that stands in the way of the main character
+
+
+# Setting / Worldbuilding
+
+## Architecture and Engineering
+
+## Economy
+
+## Health and Medicine
+
+## News and Media
+
+## Trade

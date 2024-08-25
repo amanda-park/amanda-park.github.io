@@ -124,9 +124,10 @@ Avoid unsympathetic characters:
 ### History
 
 * Relationships to other characters
-* Likes
-* Dislikes
-* Loves
+  * Stakes characters
+  * Likes
+  * Dislikes
+  * Loves
 * Education
 * Job
 * Morality & Values

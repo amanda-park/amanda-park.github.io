@@ -345,6 +345,10 @@ Factors:
 
 How to think of happiness:
 
+* Pursuing happiness is fine, but concern about happiness leads to negative meta-emotions (feelings about feelings)
+  * Example: You set up a birthday party. You can aspire to be happy or overthink it (why am I not happy?), triggering further disappointment that compounds onto itself
+  * Don't judge your emotions or intensely monitor your feelings (more likely to judge)
+  * Don't treat life/activities as a means to an end - "Happiness is like a butterfly which, when pursued, is always beyond our grasp, but, if you sit down quietly, may alight upon you."
 * Think of happiness like a retirement portfolio. Balance it in terms of stocks/bonds/etc, short-term vs long-term, and more. Focusing entirely on purpose means forgoing joy and the small daily moments that make life enjoyable
 * Financial security (to a certain extent) can add happiness, as money is a big stressor in people's lives
 * Happiest people socialize 6-7 hours a day in person; for every new friend you add to your social network you're 15% more likely to be happy
@@ -1240,6 +1244,9 @@ Harmony, Significance, Silence
   * Keep only valuable people in your social circle
   * Everyone has flaws and don't amplify one person's opinion about you to the detriment of yourself
   * Measure accomplishments against yourself and not others
+  * Set reasonable expectations, and don't cherry-pick emotions
+    * "Only a madman goes out to look for figs in winter"
+    * Heightened expectations can create a lot of shame and guilt about experiencing negative emotions. In ACT this is called "dirty pain": we don't just experience anger or sadness, but we add to it an additional layer of suffering.
 
 ### 🪷 Buddhism
 
@@ -1803,16 +1810,17 @@ Fall asleep quickly:
 * Ideal Parent Figure
 * Mindfulness-Based Stress Reduction (MBSR)
 
-### Acceptance and Commitment Therapy (ACT)
+### 🤝 Acceptance and Commitment Therapy (ACT)
 
 * Cognitive Defusion
   * Relating to your thoughts in a new way, so they have much less impact and influence on you
+  * Think of the brain as similar to a sushi conveyor belt: it presents a constant stream of dishes that travel past us. Some of them look attractive and some do not. We do not have to pick every single one up and eat it. The acceptance part in ACT is to learn to let the less nourishing dishes float past us without engaging.
 * Expansion
   * Make room for unpleasant feelings and sensations instead of trying to suppress them or push them away
 * Notice Yourself Noticing Situations (The Observing Self)
   * ie, you are not your thoughts
 * Connect with the Present Moment
-* Clarify your Values and 
+* Clarify your Values 
 * Make Values-Driven Decisions
 
 Strategies:
@@ -2314,5 +2322,5 @@ Hips are a storing ground for trauma, stress, and anxiety.
 * Happy baby
 * Indian Pose
 * Pigeon
-* Runner's lunge
+* Runner's lunge (support back leg on bed to get a more targeted stretch)
 * Seated twist

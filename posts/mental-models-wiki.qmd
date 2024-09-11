@@ -12,17 +12,16 @@ description: 'My synthesized list of mental models and cognitive distortions/bia
 
 Ways to make it easier:
 
-* Lower the stakes - barring a severe illness, everything will be fine
-* Think in terms of experiments to take pressure off the decision and think in terms of wonder/creativity
-* Think in terms of expected value 
-  * Judge based on information at the time, not hindsight bias
-  * Understand legitimate downsides and don't worry about outcome if there is a positive expected value 
-* Let what you're fearful of guide you (if you're afraid it's a sign to go do it)
-* Don't let perfect be the enemy of good enough - analysis paralysis and stopping the activity is generally worse than staying consistent
-  * What is the risk of doing nothing? What would you regret a year from now not starting today?
-* Prepare a mental board of advisors (people you admire) that can give you advice on what to do next
-* Offer yourself grace when decisions don't go as planned, or when you make "hot" decisions (anxiety, scarcity, or urgency).
-
+-   Lower the stakes - barring a severe illness, everything will be fine
+-   Think in terms of experiments to take pressure off the decision and think in terms of wonder/creativity
+-   Think in terms of expected value
+    -   Judge based on information at the time, not hindsight bias
+    -   Understand legitimate downsides and don't worry about outcome if there is a positive expected value
+-   Let what you're fearful of guide you (if you're afraid it's a sign to go do it)
+-   Don't let perfect be the enemy of good enough - analysis paralysis and stopping the activity is generally worse than staying consistent
+    -   What is the risk of doing nothing? What would you regret a year from now not starting today?
+-   Prepare a mental board of advisors (people you admire) that can give you advice on what to do next
+-   Offer yourself grace when decisions don't go as planned, or when you make "hot" decisions (anxiety, scarcity, or urgency).
 
 ## Mental Models
 
@@ -79,87 +78,88 @@ Note: listed in alphabetical order.
 49. 🎲[Gambler's Fallacy]{.underline} - probabilities of independent events do not change based on the previous outcomes
 50. 🦾[Gap vs Gain Thinking]{.underline} - Gap-thinking focuses on what is lacking or missing in a situation, and trying to close that gap. Gain-thinking (aka positive deviance) focuses on what can be gained or improved in a situation; what's going well and building on that.
 51. 🚪[Gate's Law]{.underline} - Most people overestimate what they can do in one year and underestimate what they can do in ten years
-52. 😠[Godwin's Law]{.underline} - If an online discussion (regardless of topic or scope) goes on long enough, sooner or later someone will compare someone or something to Hitler or Nazism.
-53. 🌱[Growth Mindset]{.underline} - “Those with a ‘fixed mindset’ believe that abilities are mostly innate and interpret failure as the lack of necessary basic abilities, while those with a ‘growth mindset’ believe that they can acquire any given ability provided they invest effort or study.” ○ Growth is uncomfortable. And sometimes finding your magic means being uncomfortable in the present, knowing you are investing in long-term satisfaction over short-term comfort.
-54. 🏈[Hail Mary]{.underline} - A last-ditch effort with little chance of success
-55. 😇[Halo Effect]{.underline} - Person has one positive trait, assume they must have other positive traits. Happens in almost every area in life, and the inverse also applies (one negative trait leads to assuming other negative traits). Generally applies for attractiveness to most people
-56. 🤪[Hanlon's razor]{.underline} - never attribute to malice that which is more easily explained by stupidity
-57. ⬆️[High Expectations]{.underline} - aka should statements; holding yourself or others to high expectations of how things should be, what should be done, or how it should be done
-58. 👁️[Hindsight Bias]{.underline} - Looking back on a past event and pretending to know how the situation would turn out, even though in the moment you had no idea
-59. [Influence of Stress]{.underline} - In the thick of battle, you will not rise to the level of your expectations, but fall to the level of your training.
-60. 💭[Introspection Illusion]{.underline} - You think you know why you like the things you like and feel the way you feel; however, the origin of certain emotional states is unavailable to you and when pressed to explain them, you will just make something up.
-61. 🪞[Illusion of Transparency]{.underline} - Your subjective experience is not observable and you overestimate how much you telegraph your inner thoughts and emotions
-62. 😐[Illusory Superiority]{.underline} - Your subjective experience is not observable and you overestimate how much you telegraph your inner thoughts and emotions
-63. [Inertia]{.underline} - an object at rest stays at rest; an object in motion stays in motion
-64. [Intention-Behavior Gap]{.underline} - the all-too-common disparity between what we intend to do and what we actually do; announcing one’s goals seems to widen that gap
-65. 🔙[Inversion]{.underline} - thinking backwards to remove barriers to success
-66. 🏀[Ironic Rebound]{.underline} - suppressing thoughts or cravings can cause you to become obsessed with the thing you're trying not to think about
-67. 🥇[Just Reward Fallacy]{.underline} - your stress, suffering, and turmoil must be justified and rewarded in the end.
-68. 🌍[Just World Fallacy]{.underline} - The beneficiaries of good fortune often do nothing to earn it, and bad people often get away with their actions without consequences
-69. 💻[Knowledge Subreddit Fallacy]{.underline} - a fair bit of what the Redditors in that community are regurgitating is wrong, so it tricks you into thinking you're productive and learning when you're not
-70. 🏷️[Labeling]{.underline} - making a judgment about yourself or someone else as a person, rather than seeing the behavior as something the person did that doesn't define them as an individual
-71. 📉[Law of Diminishing Returns]{.underline} - most important real-world results are subject to an eventual decrease of incremental value
-72. 🤏[Law of Small Numbers]{.underline} - More extreme outcomes are likely to occur with smaller sample sizes. Always remember your good friend power analysis when conducting statistical experiments!
-73. 👶[Learned Helplessness]{.underline} - If you feel you aren't in control of your destiny, you will give up and accept whatever situation you are in
-74. 🫗[Loss Aversion]{.underline} - People strongly prefer avoiding losses to acquiring gains
-75. 🪙[Luck Surface Area]{.underline} - When you do something you’re excited about you will naturally pull others into your orbit. And the more people with whom you share your passion, the more who will be pulled into your orbit.
-76. 🪄[Magical Volunteerism]{.underline} - assuming we can decide the trajectory of our lives with nothing but our own efforts.
-77. 🔎[Magnification and Minimization]{.underline} - Also known as catastrophizing. Exaggerating the importance of shortcomings and problems while minimizing the importance of desirable qualities
-78. 🔨[Maslow’s hammer]{.underline} - “if all you have is a hammer, everything looks like a nail.”
-79. 🗺️ [Maps of reality are not reality]{.underline} - they are reductions made at a point in time in order to be useful to us
-80. 🧑‍⚖️[Mental Board of Advisors]{.underline} - Asking yourself "what would X do?" in a situation where you're not sure what to do next
-81. [Mental Filter]{.underline} - taking one small event and focuses on it exclusively, filtering out anything else.
-82. Mere Exposure Effect - people tend to develop liking and disliking for things merely because they are familiar with them.
-83. ⚠️[Mere Urgency Effect]{.underline} - attention is drawn to time-sensitive tasks that are less rewarding than more rewarding tasks that aren't as urgent.
-84. 🎣[Mexican Fisherman Parable]{.underline} - focus on the day to day pleasures, not the American Dream and making tons of money (parable shows MBA method to get to do what the Mexican Fisherman already does daily in twenty years)
-85. 🤝[Middle Ground Fallacy]{.underline} - a compromise between two opposing solutions is the only solution (think arguments on if the world is flat)
-86. 🔎[Mind Reading]{.underline} - When you think someone is going to react in a particular way, or you believe someone is thinking things that they aren't
-87. ❓[Misinformation Effect]{.underline} - Memories are constructed anew each time from whatever information is currently available, which makes them highly permeable to influences from the present
-88. 😰[Normalcy Bias]{.underline} - You think your fight or flight instincts kick in and you panic when disaster strikes; however you often behave abnormally and pretend everything is normal in a crisis
-89. 👓[Observability Bias]{.underline} - the more instances of something we encounter, the more significant we naturally assume it to be
-90. 🪒[Occam's Razor]{.underline} - simpler explanations are more likely to be true than complicated ones. "When you hear hoofbeats, think of horses not zebras"
-91. 💲[Opportunity Cost]{.underline} - Doing one thing means not being able to do another (no such thing as a free lunch)
-92. [Overgeneralization]{.underline} - happens when you make a rule after a single event or a series of coincidences. The words "always" or "never" frequently appear in the sentence.
-93. [Paradox of Choice]{.underline} - Eliminating consumer choices can greatly reduce anxiety for shoppers; generally keep options to 6 or fewer
-94. [Paradox of tolerance]{.underline} - if a society's practice of tolerance is inclusive of the intolerant, intolerance will ultimately dominate, eliminating the tolerant and the practice of tolerance with them
-95. 🗓️[Parkinson's Law]{.underline} - Work expands so as to fill the time available for its completion.
-96. [Pareto Principle]{.underline} - roughly 80% of the effects come from 20% of the causes, so focus on high-leverage activities in your schedule. Related: insistence on perfection often prevents implementation of good improvements
-97. 🫵[Personalization]{.underline} - blaming yourself, or someone else, for a situation that in reality involved many factors that were out of your control
-98. 🧑‍💼[Peter Principle]{.underline} - The selection of a candidate for a position is based on the candidate’s performance in their current role, rather than on abilities relevant to the intended role. Thus, employees only stop being promoted once they can no longer perform effectively, and ‘managers rise to the level of their incompetence'
-99. [Planning Fallacy]{.underline} - Underestimating how long it will take to complete a task or project, particularly bigger projects.
-100. 🦜[Pollyanna principle]{.underline} - tendency for people to remember pleasant items more accurately than unpleasant ones
-101. 🎁[Present Bias]{.underline} - Unable to grasp that what you want will change over time, and what you want now isn't what you will want later
-102. [Priming]{.underline} - Assuming that you know how you're influenced and how it affects your behavior
-103. ✖️[Probabilistic thinking]{.underline} - estimating likelihood of events using probabilities rather than black and white thinking
-104. 📐[Pygmalion Effect]{.underline} - higher expectations lead to an increase in performance
-105. 🙈[Reactance]{.underline} - We do the opposite of what we're told, especially when we perceive threats to personal freedoms
-106. [Region-Beta Paradox]{.underline} - people underestimate the duration of distress caused by mild annoyances. These situations often go unnoticed and unaddressed, leading to prolonged and potentially greater upset than more acute issues that prompt immediate action.
-107. 😄[Relative satisfaction]{.underline} - human happiness is related to the state of the person relative to either their past or their peers, not absolute
-108. 🛢️[Running on Dirty Fuel]{.underline} - some people rely on anxiety, anger, and shame to fuel the motivation deficit that other people have naturally
-109. 2️⃣ [Second order thinking]{.underline} - thinking past the immediate consequences of a decision into longer term effects.
-110. 💄[Self-Enhancement Bias]{.underline} - exaggerating your positive qualities and compare favorably to others (though people who assess themselves accurately tend to be those with mood disorders such as depression, a phenomenon known as “depressive realism.”)
-111. ♿[Self-Handicapping]{.underline} - creating conditions for failure ahead of time to protect your ego
-112. [Self-Serving Bias]{.underline} - You excuse your failures and see yourself as more successful, more intelligent, and more skilled than you are
-113. [Should Statements]{.underline} - always thinking about things that you think you "should" or "must" do. These types of statements can make you feel worried or anxious.
-114. 🍩[Simpson's Paradox]{.underline} - a trend that appears in different groups of data but disappears or reverses when these groups are combined
-115. 🏂[Slippery Slope]{.underline} - Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen (related - broken windows theory)
-116. 🏃[Social Comparison]{.underline} - Comparing self-worth to others around us. Feeds into the hedonistic treadmill.
-117. 🛋️[Social Loafing]{.underline} - Once part of a group, you tend to put in less effort because you know your work will be pooled together with others'.
-118. [Social Proof Principle]{.underline} - we decide what’s correct based on what other people think is correct.
-119. 🌌[Spacing Effect]{.underline} - learning is greater when studying is spread out over time, as opposed to studying the same amount of time in a single session.
-120. 🔦[Spotlight Effect]{.underline} - we tend to overestimate how much attention others pay to us
-121. [Status Quo Bias]{.underline} - We tend to prefer things to stay the same; changes from the baseline are considered to be a loss.
-122. [Stockdale Paradox]{.underline} - One on hand, need to have hope you can make it, but also need to face your current reality and not fall into wishful thinking
-123. 🥤[Straw Man]{.underline} - Giving the impression of refuting an opponent’s argument, while actually refuting an argument that was not advanced by that opponent (alternative is Steel Man, giving the best argument possible the opponent made)
-124. 🌊[Sunk Cost]{.underline} - A cost that has already been incurred and cannot be recovered
-125. 🥇[Survivorship Bias]{.underline} - Focusing on those that succeeded only and ignoring those that failed
-126. 🤕[Symptom Imperative]{.underline} - When you exchange one chronic pain symptom for another - think of your migraines becoming digestive distress, or your back pain becoming anxiety.
-127. ⚙️[Systems Thinking]{.underline} - looking at the world in wholes and relationships rather than break it down into separate parts
-128. 💲[Temporal Discounting]{.underline} - people prefer to receive rewards sooner rather than later. In fact, we will often choose a smaller reward sooner over a larger reward later
-129. 🔫[Texas Sharpshooter Fallacy]{.underline} - You think you take randomness into account when determining cause and effect; however, you tend to ignore random chance when the results seem meaningful or you want a random event to have a meaningful cause.
-130. 🧠[Thought Experiment]{.underline} - devices of the imagination used to investigate the nature of things
-131. 🛢️[Tragedy of the Commons]{.underline} - Without some form of regulation, slackers and cheaters will crash economic systems because people don't want to feel like suckers
-132. [U-Curve for Happiness]{.underline} - in western societies, life satisfaction generally declines with age for the first couple of decades of adulthood, bottom out somewhere in the 40s or early 50s, and then, until the very last years, increase with age, often (though not always) reaching a higher level than in young adulthood.
-133. 🎾[Unforced Error]{.underline} - error in a service or return shot that cannot be attributed to any factor other than poor judgement and execution by the player
-134. 🤷‍♀️[What the Heck Effect]{.underline} - we create our own stress as we sabotage our good intentions with ill-chosen behaviors; "I already blew my diet, so I might as well eat this entire chocolate cake."
-135. [Yerkes-Dodson law]{.underline} - Too much motivation can actually reduce the amount and quality of someone's performance.
+52. [Goodheart's Law]{.underline} - A metric can be either a target or an accurate measurement, but not both
+53. 😠[Godwin's Law]{.underline} - If an online discussion (regardless of topic or scope) goes on long enough, sooner or later someone will compare someone or something to Hitler or Nazism.
+54. 🌱[Growth Mindset]{.underline} - “Those with a ‘fixed mindset’ believe that abilities are mostly innate and interpret failure as the lack of necessary basic abilities, while those with a ‘growth mindset’ believe that they can acquire any given ability provided they invest effort or study.” ○ Growth is uncomfortable. And sometimes finding your magic means being uncomfortable in the present, knowing you are investing in long-term satisfaction over short-term comfort.
+55. 🏈[Hail Mary]{.underline} - A last-ditch effort with little chance of success
+56. 😇[Halo Effect]{.underline} - Person has one positive trait, assume they must have other positive traits. Happens in almost every area in life, and the inverse also applies (one negative trait leads to assuming other negative traits). Generally applies for attractiveness to most people
+57. 🤪[Hanlon's razor]{.underline} - never attribute to malice that which is more easily explained by stupidity
+58. ⬆️[High Expectations]{.underline} - aka should statements; holding yourself or others to high expectations of how things should be, what should be done, or how it should be done
+59. 👁️[Hindsight Bias]{.underline} - Looking back on a past event and pretending to know how the situation would turn out, even though in the moment you had no idea
+60. [Influence of Stress]{.underline} - In the thick of battle, you will not rise to the level of your expectations, but fall to the level of your training.
+61. 💭[Introspection Illusion]{.underline} - You think you know why you like the things you like and feel the way you feel; however, the origin of certain emotional states is unavailable to you and when pressed to explain them, you will just make something up.
+62. 🪞[Illusion of Transparency]{.underline} - Your subjective experience is not observable and you overestimate how much you telegraph your inner thoughts and emotions
+63. 😐[Illusory Superiority]{.underline} - Your subjective experience is not observable and you overestimate how much you telegraph your inner thoughts and emotions
+64. [Inertia]{.underline} - an object at rest stays at rest; an object in motion stays in motion
+65. [Intention-Behavior Gap]{.underline} - the all-too-common disparity between what we intend to do and what we actually do; announcing one’s goals seems to widen that gap
+66. 🔙[Inversion]{.underline} - thinking backwards to remove barriers to success
+67. 🏀[Ironic Rebound]{.underline} - suppressing thoughts or cravings can cause you to become obsessed with the thing you're trying not to think about
+68. 🥇[Just Reward Fallacy]{.underline} - your stress, suffering, and turmoil must be justified and rewarded in the end.
+69. 🌍[Just World Fallacy]{.underline} - The beneficiaries of good fortune often do nothing to earn it, and bad people often get away with their actions without consequences
+70. 💻[Knowledge Subreddit Fallacy]{.underline} - a fair bit of what the Redditors in that community are regurgitating is wrong, so it tricks you into thinking you're productive and learning when you're not
+71. 🏷️[Labeling]{.underline} - making a judgment about yourself or someone else as a person, rather than seeing the behavior as something the person did that doesn't define them as an individual
+72. 📉[Law of Diminishing Returns]{.underline} - most important real-world results are subject to an eventual decrease of incremental value
+73. 🤏[Law of Small Numbers]{.underline} - More extreme outcomes are likely to occur with smaller sample sizes. Always remember your good friend power analysis when conducting statistical experiments!
+74. 👶[Learned Helplessness]{.underline} - If you feel you aren't in control of your destiny, you will give up and accept whatever situation you are in
+75. 🫗[Loss Aversion]{.underline} - People strongly prefer avoiding losses to acquiring gains
+76. 🪙[Luck Surface Area]{.underline} - When you do something you’re excited about you will naturally pull others into your orbit. And the more people with whom you share your passion, the more who will be pulled into your orbit.
+77. 🪄[Magical Volunteerism]{.underline} - assuming we can decide the trajectory of our lives with nothing but our own efforts.
+78. 🔎[Magnification and Minimization]{.underline} - Also known as catastrophizing. Exaggerating the importance of shortcomings and problems while minimizing the importance of desirable qualities
+79. 🔨[Maslow’s hammer]{.underline} - “if all you have is a hammer, everything looks like a nail.”
+80. 🗺️ [Maps of reality are not reality]{.underline} - they are reductions made at a point in time in order to be useful to us
+81. 🧑‍⚖️[Mental Board of Advisors]{.underline} - Asking yourself "what would X do?" in a situation where you're not sure what to do next
+82. [Mental Filter]{.underline} - taking one small event and focuses on it exclusively, filtering out anything else.
+83. Mere Exposure Effect - people tend to develop liking and disliking for things merely because they are familiar with them.
+84. ⚠️[Mere Urgency Effect]{.underline} - attention is drawn to time-sensitive tasks that are less rewarding than more rewarding tasks that aren't as urgent.
+85. 🎣[Mexican Fisherman Parable]{.underline} - focus on the day to day pleasures, not the American Dream and making tons of money (parable shows MBA method to get to do what the Mexican Fisherman already does daily in twenty years)
+86. 🤝[Middle Ground Fallacy]{.underline} - a compromise between two opposing solutions is the only solution (think arguments on if the world is flat)
+87. 🔎[Mind Reading]{.underline} - When you think someone is going to react in a particular way, or you believe someone is thinking things that they aren't
+88. ❓[Misinformation Effect]{.underline} - Memories are constructed anew each time from whatever information is currently available, which makes them highly permeable to influences from the present
+89. 😰[Normalcy Bias]{.underline} - You think your fight or flight instincts kick in and you panic when disaster strikes; however you often behave abnormally and pretend everything is normal in a crisis
+90. 👓[Observability Bias]{.underline} - the more instances of something we encounter, the more significant we naturally assume it to be
+91. 🪒[Occam's Razor]{.underline} - simpler explanations are more likely to be true than complicated ones. "When you hear hoofbeats, think of horses not zebras"
+92. 💲[Opportunity Cost]{.underline} - Doing one thing means not being able to do another (no such thing as a free lunch)
+93. [Overgeneralization]{.underline} - happens when you make a rule after a single event or a series of coincidences. The words "always" or "never" frequently appear in the sentence.
+94. [Paradox of Choice]{.underline} - Eliminating consumer choices can greatly reduce anxiety for shoppers; generally keep options to 6 or fewer
+95. [Paradox of tolerance]{.underline} - if a society's practice of tolerance is inclusive of the intolerant, intolerance will ultimately dominate, eliminating the tolerant and the practice of tolerance with them
+96. 🗓️[Parkinson's Law]{.underline} - Work expands so as to fill the time available for its completion.
+97. [Pareto Principle]{.underline} - roughly 80% of the effects come from 20% of the causes, so focus on high-leverage activities in your schedule. Related: insistence on perfection often prevents implementation of good improvements
+98. 🫵[Personalization]{.underline} - blaming yourself, or someone else, for a situation that in reality involved many factors that were out of your control
+99. 🧑‍💼[Peter Principle]{.underline} - The selection of a candidate for a position is based on the candidate’s performance in their current role, rather than on abilities relevant to the intended role. Thus, employees only stop being promoted once they can no longer perform effectively, and ‘managers rise to the level of their incompetence'
+100. [Planning Fallacy]{.underline} - Underestimating how long it will take to complete a task or project, particularly bigger projects.
+101. 🦜[Pollyanna principle]{.underline} - tendency for people to remember pleasant items more accurately than unpleasant ones
+102. 🎁[Present Bias]{.underline} - Unable to grasp that what you want will change over time, and what you want now isn't what you will want later
+103. [Priming]{.underline} - Assuming that you know how you're influenced and how it affects your behavior
+104. ✖️[Probabilistic thinking]{.underline} - estimating likelihood of events using probabilities rather than black and white thinking
+105. 📐[Pygmalion Effect]{.underline} - higher expectations lead to an increase in performance
+106. 🙈[Reactance]{.underline} - We do the opposite of what we're told, especially when we perceive threats to personal freedoms
+107. [Region-Beta Paradox]{.underline} - people underestimate the duration of distress caused by mild annoyances. These situations often go unnoticed and unaddressed, leading to prolonged and potentially greater upset than more acute issues that prompt immediate action.
+108. 😄[Relative satisfaction]{.underline} - human happiness is related to the state of the person relative to either their past or their peers, not absolute
+109. 🛢️[Running on Dirty Fuel]{.underline} - some people rely on anxiety, anger, and shame to fuel the motivation deficit that other people have naturally
+110. 2️⃣ [Second order thinking]{.underline} - thinking past the immediate consequences of a decision into longer term effects.
+111. 💄[Self-Enhancement Bias]{.underline} - exaggerating your positive qualities and compare favorably to others (though people who assess themselves accurately tend to be those with mood disorders such as depression, a phenomenon known as “depressive realism.”)
+112. ♿[Self-Handicapping]{.underline} - creating conditions for failure ahead of time to protect your ego
+113. [Self-Serving Bias]{.underline} - You excuse your failures and see yourself as more successful, more intelligent, and more skilled than you are
+114. [Should Statements]{.underline} - always thinking about things that you think you "should" or "must" do. These types of statements can make you feel worried or anxious.
+115. 🍩[Simpson's Paradox]{.underline} - a trend that appears in different groups of data but disappears or reverses when these groups are combined
+116. 🏂[Slippery Slope]{.underline} - Asserting that if we allow A to happen, then Z will eventually happen too, therefore A should not happen (related - broken windows theory)
+117. 🏃[Social Comparison]{.underline} - Comparing self-worth to others around us. Feeds into the hedonistic treadmill.
+118. 🛋️[Social Loafing]{.underline} - Once part of a group, you tend to put in less effort because you know your work will be pooled together with others'.
+119. [Social Proof Principle]{.underline} - we decide what’s correct based on what other people think is correct.
+120. 🌌[Spacing Effect]{.underline} - learning is greater when studying is spread out over time, as opposed to studying the same amount of time in a single session.
+121. 🔦[Spotlight Effect]{.underline} - we tend to overestimate how much attention others pay to us
+122. [Status Quo Bias]{.underline} - We tend to prefer things to stay the same; changes from the baseline are considered to be a loss.
+123. [Stockdale Paradox]{.underline} - One on hand, need to have hope you can make it, but also need to face your current reality and not fall into wishful thinking
+124. 🥤[Straw Man]{.underline} - Giving the impression of refuting an opponent’s argument, while actually refuting an argument that was not advanced by that opponent (alternative is Steel Man, giving the best argument possible the opponent made)
+125. 🌊[Sunk Cost]{.underline} - A cost that has already been incurred and cannot be recovered
+126. 🥇[Survivorship Bias]{.underline} - Focusing on those that succeeded only and ignoring those that failed
+127. 🤕[Symptom Imperative]{.underline} - When you exchange one chronic pain symptom for another - think of your migraines becoming digestive distress, or your back pain becoming anxiety.
+128. ⚙️[Systems Thinking]{.underline} - looking at the world in wholes and relationships rather than break it down into separate parts
+129. 💲[Temporal Discounting]{.underline} - people prefer to receive rewards sooner rather than later. In fact, we will often choose a smaller reward sooner over a larger reward later
+130. 🔫[Texas Sharpshooter Fallacy]{.underline} - You think you take randomness into account when determining cause and effect; however, you tend to ignore random chance when the results seem meaningful or you want a random event to have a meaningful cause.
+131. 🧠[Thought Experiment]{.underline} - devices of the imagination used to investigate the nature of things
+132. 🛢️[Tragedy of the Commons]{.underline} - Without some form of regulation, slackers and cheaters will crash economic systems because people don't want to feel like suckers
+133. [U-Curve for Happiness]{.underline} - in western societies, life satisfaction generally declines with age for the first couple of decades of adulthood, bottom out somewhere in the 40s or early 50s, and then, until the very last years, increase with age, often (though not always) reaching a higher level than in young adulthood.
+134. 🎾[Unforced Error]{.underline} - error in a service or return shot that cannot be attributed to any factor other than poor judgement and execution by the player
+135. 🤷‍♀️[What the Heck Effect]{.underline} - we create our own stress as we sabotage our good intentions with ill-chosen behaviors; "I already blew my diet, so I might as well eat this entire chocolate cake."
+136. [Yerkes-Dodson law]{.underline} - Too much motivation can actually reduce the amount and quality of someone's performance.

@@ -448,7 +448,7 @@ Even though rejection is painful, it's survivable.
 
 Shame is the feeling that you’re an inherently bad or flawed person. and thus unworthy of love/belonging and/or incapable of change. When we feel shame, we might believe that we’re unworthy of love or incapable of change. Effectively, shame is the gap between who we are (current self) and what we want and/or believe we should be (ideal self), and needs shame, secrecy, and judgment to thrive.
 
-Signs it's present include thinking you're never good enough, not worthy of love and belonging, questioning why you feel you deserve these things in arrogance, and having emotional flashbacks.
+Signs it's present include thinking you're never good enough, not worthy of love and belonging, questioning why you feel you deserve these things in arrogance, and having emotional flashbacks. 
 
 Managing:
 
@@ -459,6 +459,22 @@ Managing:
 * Share in the context of safe relationships
 * The fact that you are high functioning doesn't mean that you are easier for you to deal with, it means it's easier for others to deal with you.
 * Be mindful of "leaky feelings", where there is incongruence between your inner state, awareness, and behavior. This can be addressed through shadow work and understanding what you're most shameful of, as that is what is most likely to "leak" out
+
+### 🌆 Systemic Shame
+
+There is also the shame that is built into society, coined by Dr. Devon Price as Systemic Shame. The core values of Systemic Shame include:
+
+* Perfectionism: Only endless, flawless work and accomplishment matters. 
+* Individualism: Everything that we do we do completely alone. 
+* Consumerism: Who we are is what we buy and own. 
+Wealth: The only power that matters is economic power over others. 
+Personal responsibility: Change only happens through personal willpower and strength.
+
+There are three levels:
+
+* **Personal Shame** - feelings of self-loathing over identity, limitations, or perceived failings. Leads to hiding yourself from others/avoidant tendencies, leading to interpersonal shame
+* **Interpersonal Shame** - believing other people are unsafe/untrustworthy, and people are generally immoral. Leads to harshly judging the actions of others, being hyperindependent, focusing only on self-preservation/safety, and not accepting help from others.
+* **Global Shame** - believing humanity is filled with selfish, apathetic, or morally "bad" people, feeling humanity isn't even worth saving. Leads to being cynical and not trying to improve relationships or the community.
 
 # Maladaptive Mindsets
 
@@ -1303,6 +1319,16 @@ Acceptance is acknowledging a particular situation is indeed happening, and maki
 * Acceptance does not mean we're OK with a situation or agree with it
 * Acceptance does not mean we stop trying to change it, or lead to laziness, complacency, or lack of drive
 * Acceptance is not failure
+
+Mantras:
+
+* My present moment is the only one I have any control over. 
+* Fighting this emotion won’t help. It’s just something I’m experiencing right now. 
+* The reality I’m facing is a fact I will have to deal with, even if I don’t like it. * I wish things were different, but I cannot change what happened in the past. 
+* I can’t control everything that will happen. 
+* A million variables outside of my control have led to this moment. 
+* The thoughts I’m currently having will not hurt me. 
+* I struggle with certain things more than other people do, and that might not ever change.
 
 Practice:
 

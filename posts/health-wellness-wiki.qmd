@@ -472,9 +472,21 @@ Personal responsibility: Change only happens through personal willpower and stre
 
 There are three levels:
 
-* **Personal Shame** - feelings of self-loathing over identity, limitations, or perceived failings. Leads to hiding yourself from others/avoidant tendencies, leading to interpersonal shame
-* **Interpersonal Shame** - believing other people are unsafe/untrustworthy, and people are generally immoral. Leads to harshly judging the actions of others, being hyperindependent, focusing only on self-preservation/safety, and not accepting help from others.
-* **Global Shame** - believing humanity is filled with selfish, apathetic, or morally "bad" people, feeling humanity isn't even worth saving. Leads to being cynical and not trying to improve relationships or the community.
+* **Personal Shame** - feelings of self-loathing over identity, limitations, or perceived failings. Leads to hiding yourself from others/avoidant tendencies, leading to interpersonal shame. Heal personal shame by practicing radical acceptance, including:
+  * Telling others what you're feeling
+  * Admitting when hard work and struggle is going nowhere
+  * Indulge in desires that have always been there but are considered socially taboo
+  * Live as a person that others might dislike, and not caring what they think
+* **Interpersonal Shame** - believing other people are unsafe/untrustworthy, and people are generally immoral. Leads to harshly judging the actions of others, being hyperindependent, focusing only on self-preservation/safety, and not accepting help from others. Heal interpersonal shame by practicing expansive recognition:
+  * Noticing when you view someone's actions in the worst possible light and asking why.
+  * Speaking up when needs are in conflict of those of a loved one, so the bond can be repaired.
+  * Thinking a lot about other people's positions (economic, cultural, legal, etc.) make their lives different than your own.
+  * Surround yourself with people that make being "you" feel natural and safe.
+* **Global Shame** - believing humanity is filled with selfish, apathetic, or morally "bad" people, feeling humanity isn't even worth saving. Leads to being cynical and not trying to improve relationships or the community. Heal global shame by having hope for humanity:
+  * Trust in the inner voice/conscience that tells you what is right.
+  * Abandon pursuits that you were trained to value but don't really believe in.
+  * Appreciate the potential of where you are and finding opportunity to make a difference right where you are.
+  * Build connection in the local neighborhood/community to feel a part of something greater.
 
 # Maladaptive Mindsets
 
@@ -498,6 +510,8 @@ This level of control can be a means to reduce feelings of inferiority and shame
 ## 👌 Perfectionism
 
 *May I have the strength to change that which I can change, the patience to endure that which I cannot, and the wisdom to know the difference between them.*
+
+*Who knows how many of us are playing a similarly important role in the lives of those around us, completely unaware of how much our little efforts are appreciated, because we’re still locked behind unrealistic expectations and the shame of not meeting them.*
 
 Defense mechanism to cope with emotional neglect and also is about safety. 
 
@@ -983,6 +997,7 @@ Practice:
 * Practice self-compassion
 * Make amends, if possible, and try to see things from the other person's perspective
 * Write a letter saying how you were hurt, write their response, and repeat aloud until you find peace and can let go of anger 
+* Give yourself a daily permission slip to release unreasonable standards and other lingering burdens 
 
 Ho'oponopono method of forgiveness:
 
@@ -1345,13 +1360,17 @@ Practice:
 
 ## 😊 Self-Compassion
 
-Self-compassion is being kind and understanding when confronted with personal failings (Neff, n.d.). It means that you act the same way toward yourself when you are going through a tough time that you would act towards a dear friend. Generally used to let go of perfectionism.
+Self-compassion is being kind and understanding when confronted with personal failings. It means that you act the same way toward yourself when you are going through a tough time that you would act towards a dear friend. Generally used to let go of perfectionism.
 
 Involves the following:
 	
-* Self-kindness: being kind and understanding toward yourself. Ex: It’s okay that you failed that test. It was really hard. 
-* Mindfulness: having a balanced reaction to painful thoughts and feelings, not underreacting or overreacting. Ex: I notice I’m feeling sad right now. 
-* Common humanity: seeing one’s experience as part of the larger human experience. Ex: Everyone fails from time to time. 
+* Self-kindness and practicing non-judgment: being kind and understanding toward yourself. 
+  * Ex: It’s okay that you failed that test. It was really hard; Emotions and thoughts are morally neutral, and it's okay to just let them be.
+* Mindfulness and avoiding over-identification: having a balanced reaction to painful thoughts and feelings, not underreacting or overreacting. 
+  * Ex: I notice I’m feeling sad right now; I am stuck in a difficult situation and doing my best to make it through; My "worst" impulses do not define me as a person.
+* Common humanity and avoiding isolation: seeing one’s experience as part of the larger human experience. 
+  * Ex: Everyone fails from time to time; Other people are found COVID lockdowns difficult to follow; If you find safe people to confide in, you'd feel less alone
+
 
 Challenges:
 
@@ -1990,12 +2009,47 @@ DBT suggests using distraction in times of distress
 * Distract with tasks and chores
 * Distract by counting (breathing, brain teasers, etc)
 
+Dialectical behavioral therapists often distinguish between willfulness (trying to fight reality, common with systemic shame) and willingness (acknowledging and working with reality on its own terms). 
+
+Willfulness includes bitterness, obsession, rumination, frustration, feeling "stuck", why a situation "should not be", sticking rigidly to a plan, and thinking a great deal about the past. Identify willfulness with the following questions:
+
+* What are some unspoken “rules” that I still let guide my life? 
+* Which of these rules no longer serve me? 
+* What can I do less of? 
+* What facts of my life am I still trying to make not be true? 
+* What can I give up on for now? 
+* What unpleasant truths can I decide to just live with? 
+* What can I stop trying to make work?
+
+Willingness includes lightness, acceptance, adaptation, mourning, feeling relaxed, asking "what's next?", improvising based on current information, and paying attention to the present. 
+
 ### 👁️ EMDR
 
 *There is a difference between knowing and understanding. I had known that this wasn’t my fault. EMDR unlocked the gate to the next realm, toward understanding. The difference is one between rote memorization and true learning. Between hypothesis and belief. Between prayer and faith. It seems obvious now—how can there be love without faith?*
 
 * Floatback Technique - Bring to mind a negative cognition and recent event. Where do you feel it in your body? As you think of the recent incident and the negative cognition, notice the feelings in your body, and let your mind float back to childhood. What memory comes to mind when you felt that way? If something automatically comes to mind, then write it down in your Memory column along with your age and the SUD level. Using cue words, list the earliest memories and the ones with the highest SUD level.
 * Butterfly Hug - Cross your arms in front of you with your right hand on your left shoulder and your left hand on your right. Then you tap your hands alternately on each shoulder slowly four to six times. To try it, bring up the image of the safe or calm place along with that positive word that you’ve connected with it and allow yourself to go into that state of safety or calm. And when you have that sense, tap alternately on your thighs or with the Butterfly Hug four to six times, then stop and take a breath and see how it feels.
+
+### ☠️ Existential Therapy
+
+When it comes to finding (or creating) meaning in life, existential therapists look to what they call the four realms of human experience:
+
+* The **physical realm**, which guides how we view our physical surroundings, our bodies, and how we think about our own deaths. 
+  * How can I live my life fully, knowing I may die at any moment?
+  * What helps you feel real, in touch with your body and surroundings?
+    * Ex: Learning, hands-on skills, self-care
+* The **social realm**, which guides how we think and feel about other people, as well as the culture(s) to which we belong. 
+  * What are other people there for?
+  * What helps you feel recognized and appreciated as you really are?
+    * Ex: Shared passions, challenges, vulnerability.
+* The **personal realm**, which guides our understanding of ourselves, including the life stories we tell about our past experiences, our present situation, and what we hope for our futures. 
+  * How can I be me?
+  * Which ways of spending time do I never regret?
+    * Ex: Hobbies, creative endeavors, childlike wonder, etc.
+* The **spiritual realm**, which guides how we feel about the unknown and uncertain, as well as our core values and how we think the world ought to be. 
+  * How should I live?
+  * What helps me see that I am a part of something larger than myself?
+    * Ex: Mentorship, creative work, volunteering
 
 ### 👶 Inner Child Work
 

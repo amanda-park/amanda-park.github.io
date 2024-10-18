@@ -2299,7 +2299,9 @@ Skills:
 List of Maladaptive Schemas
 
 * Abandonment & Instability
+  * Treatment: Mindfulness of company you keep, tendency to catastrophize, practice meditation
 * Mistrust & Abuse
+  * Treatment: Strengthen connection with present, mindful of company you keep, take steps to trust others
 * Emotional Deprivation
   * Signs: Emotionally feeling flat, disliking emotions, avoiding emotional situations, being "robotic" or otherwise detached, hiding emotions, only feeling emotion in nonpersonal ways
   * Treatment: Consider your past, use a third-person narrative to describe your feelings, read fiction, pay attention to fictional character's needs and feelings, use feelings wheel, learn about boundaries, practice sharing emotions with people who care, attending to emotions with care, validation, nurturing, and security
@@ -2314,7 +2316,8 @@ List of Maladaptive Schemas
 * Entitlement & Grandiosity
 * Insufficient Self-Control & Self-Discipline
 * Subjugation
-  * Excessive surrendering of control (needs, emotions) to others out of coercion
+  * Signs: Avoidance of triggers, overcompensation of behavior, surrendering to other people's needs and emotions 
+  * Strategies: Learn about yourself and likes/preferences, learn to be assertive, learn to tolerate uncomfortable feelings, reframe how you think about yourself, seek therapy to deal with anger, disappointment, and sadness
 * Self-Sacrifice
 * Approval & Recognition Seeking
 * Negativity & Pessimism

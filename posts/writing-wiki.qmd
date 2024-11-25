@@ -10,7 +10,7 @@ description: 'My synthesized notes of all the writing knowledge I have accummula
 
 *Work in progress...*
 
-# Characters
+# 🦸 Characters
 
 ## Character Archetypes
 
@@ -39,6 +39,15 @@ Reasons to separate main character and protagonist:
 -   Villain - evil character
 -   Antagonist - character that gets in the way of the character's main goal
 -   Obstacle - something that stands in the way of the main character
+
+### Stakes Characters
+
+For each character ties to the POV character:
+
+1. What is the stake that your character has to that character?
+2. How would your character's success or failure affect that character?
+3. What happens to your character if something positive happens to that character?
+4. What happens to your character if something negative happens to that character?
 
 ## Goal, Motivation, Conflict, & Stakes
 
@@ -1271,16 +1280,268 @@ If your goal is to form a well-rounded character, start by giving him attributes
 :::
 :::::::
 
-# Story & Plot
+# 📖 Story & Plot
 
-## LOCK System for Plotting
+Story - "The king died, and then the queen died" is a story. No relationship between actions.
+
+Plot - "The king died and the queen died of grief" is a plot. Causal relationship between actions.
+
+## Scenes
+
+Five Point Checklist:
+
+* An action (something concrete, not thinking)
+* Dialogue
+  * Not generic talk, but specific to narrative
+  * Specific Intimate Details
+* Inner Point of View
+  * React - doing something in the moment
+  * Reflect - thinks about what they're faced with and internally face their options
+  * Reveal - reveals something to reader and how they'll react
+* Definite stop and start point
+
+[Snowflake Method to Write Scenes](https://www.advancedfictionwriting.com/articles/writing-the-perfect-scene/)
+
+### Large-Scale Structure of a Scene
+
+A Scene has the following three-part pattern:
+
+* Goal
+  * A Goal is what your POV character wants at the beginning of the Scene. The Goal must be specific and it must be clearly definable. The reason your POV character must have a Goal is that it makes your character proactive. Your character is not passively waiting for the universe to deal him Great Good. Your character is going after what he wants, just as your reader wishes he could do. It’s a simple fact that any character who wants something desperately is an interesting character. Even if he’s not nice, he’s interesting. And your reader will identify with him. That’s what you want as a writer.
+* Conflict
+  * Conflict is the series of obstacles your POV character faces on the way to reaching his Goal. You must have Conflict in your Scene! If your POV character reaches his Goal with no Conflict, then the reader is bored. Your reader wants to struggle! No victory has any value if it comes too easy. So make your POV character struggle and your reader will live out that struggle too.
+* Disaster
+  * A Disaster is a failure to let your POV character reach his Goal. Don’t give him the Goal! Winning is boring! When a Scene ends in victory, your reader feels no reason to turn the page. If things are going well, your reader might as well go to bed. No! Make something awful happen. Hang your POV character off a cliff and your reader will turn the page to see what happens next.
+	
+A Sequel has the following three-part pattern:
+
+* Reaction
+  * A Reaction is the emotional follow-through to a Disaster. When something awful happens, you’re staggering for awhile, off-balance, out of kilter. You can’t help it. So show your POV character reacting viscerally to his Disaster. Show him hurting. Give your reader a chance to hurt with your characters. You may need to show some passage of time. This is not a time for action, it’s a time for re-action. A time to weep. But you can’t stagger around in pain forever. In real life, if people do that they lose their friends. In fiction, if you do it, you lose your readers. Eventually, your POV character needs to get a grip. To take stock. To look for options. And the problem is that there aren’t any...
+* Dilemma
+  * A Dilemma is a situation with no good options. If your Disaster was a real Disaster, there aren’t any good choices. Your POV character must have a real dilemma. This gives your reader a chance to worry, which is good. Your reader must be wondering what can possibly happen next. Let your POV character work through the choices. Let him sort things out. Eventually, let him come to the least-bad option...
+* Decision
+  * A Decision is the act of making a choice among several options. This is important, because it lets your POV character become proactive again. People who never make decisions are boring people. They wait around for somebody else to decide. And nobody wants to read about somebody like that. So make your character decide, and make it a good decision. Make it one your reader can respect. Make it risky, but make it have a chance of working. Do that, and your reader will have to turn the page, because now your POV character has a new Goal.
+
+### Small-Scale Structure of a Scene
+
+Write "Motivation-Reaction Units", or MRUs. Alternate between Motivation and Reaction 
+
+* Motivation is external and objective (something your reader also sees)
+* Reaction is internal and subjective (character reaction to the motivation in following paragraph)
+  * Feeling
+  * Reflex
+  * Rational Action & Speech
+
+### Microtension
+
+Tension in small moments, including:
+
+* When a character has conflicting feelings
+* Created by the element of surprise
+* A sudden change in emotion
+* When things feel off
+
+How to add microtension:
+
+* Dialogue - Examine each line of dialogue. Take out boring and unnecessary words and trivial matters. Go for clever. Find a way to give each speaker a unique voice and style of speaking. Subtext can hint at what characters are really feeling below the surface, and that creates mystery. Keep in mind the tension is in the relationship between the characters speaking, not in the information presented.
+* Action - This can be with any kind of action—high or low. Even a gesture is action. So think how to make an action incongruous. What does that mean? Real people are conflicted all the time. Real people are complex, inconsistent. So by having a character react in an incongruent manner, and having incongruent developments in the storyline, will add microtension. Have things happen and characters react in ways the reader does not expect. And, most important, show everything through the POV character’s emotions. Action will not be tense unless the character is experiencing it and emotionally reacting to it.
+* Exposition - Exposition is the prose, your writing. It is the way you explain what is happening as you show it. It includes internal monologue. Find ways to add those conflicted emotions and create dissonance. Show ideas at war with one another. Use word choices that feel contradictory. Find fresh, different ways to describe common things.
+
+### List of Common Fantasy Scenes
+
+:::::: columns
+::: {.column width="45%"}
+#### Fantasy Scene Formats
+
+* Magical Experiences
+  * Spellcasting or ritual
+  * First time magic use or awakening
+  * Magical duel
+  * Crafting or potion-making
+  * Interaction with magical creatures
+* Realm and World Exploration
+  * Journey through mythical landscapes
+  * Entering magical city or hidden village
+  * Exploring ancient ruins or temples
+  * Portal or dimensional gateway crossing
+  * Navigating enchanged forests or mazes
+* Conversations of Lore
+  * Discussing prophecies or legends
+  * Storytelling or bardic performance
+  * Elders imparting ancient wisdom or histories
+  * Debriefing with mentors or wise figures
+  * Deciphering ancient texts or runes
+* Epic Battles and Skirmishes
+  * Clan wars or tribal confrontations
+  * Siege or defense of fortress/castle
+  * Monster or dragon hunting/fighting
+  * Rescue missions in enemy territory
+* Interactions with Fantasy Races
+  * Diplomatic meetings with elves, dwarves, etc.
+  * Intimate moments in interspecies relationships
+  * Trading or bartering at fae markets
+  * Magical creature tournaments or races
+  * Cultural exchanges or feasts with mythical races
+* Quests and Adventures
+  * Treasure hunting in cursed tombs
+  * Seeking magical artifacts or relics
+  * Pursuit of mythical beasts or guardians
+  * Navigating deadly magical traps
+  * Undercover missions in an enemy's court
+* Sacred and Spiritual Moments
+  * Communing with gods or celestial beings
+  * Pilgrimages to sacred or enchanted sites
+  * Undergoing spiritual trials or visions
+  * Receiving blessings or curses at holy places
+  * Joining or witnessing magical cult ceremonies
+* Courtly Intrigues and Politics
+  * Royal balls or court gatherings with magical elements
+  * Espionage or spying in a mage's tower
+  * Assassination attempts using magic
+  * Political debates in councils of mages or kings
+  * Tournament of magical skills or jousting
+* Personal Fantasy Challenges
+  * Taming or bonding with magical beasts
+  * Overcoming curses or enchantments
+  * Navigating love triangles with magical beings
+  * Trials to become a knight, mage, or chosen one
+  * Training under a magical mentor or in a wizarding school
+* Mystical Revelations and Twists
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+#### Fantasy Scene Types
+* Conversations/Dialogues
+  * Two-person heart to heart
+  * Group discussion or debate
+  * Confrontation or argument
+  * Confession or revelation
+  * Interview or interrogation
+* Action Sequences
+  * Fight or battle scene
+  * Chase or pursuit scene
+  * Escape or evasion scene
+  * Heist or theft scene
+  * Training or preparation scene
+* Discovery & Exploration
+  * Investigation or clue-finding scene
+  * Exploration or journey scene
+  * Flashback or memory exploration
+  * Eureka or realization moment
+  * Dream or vision sequence
+* Emotional & Reflective Moments
+  * Grief or mourning scene
+  * Love or romantic scene
+  * Betrayal or disappointment scene
+  * Triumph or celebration scene
+  * Solitude or introspection scene
+* Atmospheric & Setting Driven Scenes
+  * Worldbuilding or lore exploration
+  * Festival or cultural celebration
+  * Travel or montage scene
+  * Landscape or scenic description
+  * Daily life or routine scene
+* Tension and Suspense
+  * Sneaking or stealth scene
+  Trapped or confinement scene
+  * Dilemma or decision-making scene
+  * Ambush or surprise attack scene
+  * Time-based challenge or countdown scene
+* Mystical and Supernatural
+  * Ritual or magical ceremony
+  * Haunting or ghostly encounter
+  * Divine or spiritual revelation
+  * Transformation or shape-shifting scene
+  * Portal or transition to another realm
+* Social and Public Events
+  * Party or ballroom scene
+  * Public execution or judgment
+  * Sporting event or competition
+  * Market or shopping scene
+  * Ceremony or rite of passage
+* Personal Challenges and Triumphs
+  * Overcoming fears or personal demons
+  * Mastery or levelling up scene
+  * Sacrifice or selfless act
+  * Resisting temptation or corruption
+  * Healing or recovery scene
+* Plot Twists & Revelations
+  * Unmasking or identity reveal scene
+  * Plot twist or unexpected turn of events
+  * Backstab or betrayal reveal
+  * Secret or hidden agenda reveal
+  * Prophecy or foretelling scene
+
+:::
+::::::
+
+
+## Outlining
+
+### [Snowflake Method](https://www.advancedfictionwriting.com/articles/snowflake-method/)
+
+* Write a one-sentence summary of your model
+  * Shorter is better
+  * No character names
+  * Tie big picture and personal picture
+  * Read blurbs on NYT Bestseller list
+* Write a full paragraph describing story setup, major disasters, and ending of novel
+  * One sentence to give the backdrop & story setup
+  * One sentence for each of the three disasters (end of Act One, mid-point of Act Two, end of Act Two)
+  * One sentence for the ending
+* Write a one-page summary for each character that tells:
+  * Name
+  * One-sentence summary of character's storyline
+  * Character's motivation
+  * Character's goal
+  * Character's conflict
+  * Character's epiphany
+  * One-paragraph summary of character's storyline
+* Check for edits and revisions, don't be afraid to go back and fix things
+* Expand each sentence of summary paragraph into a full paragraph (all but last paragraph should end in disaster)
+* Write up a one-page description of each major character and a half-page description of other important characters (write from the POV of the character)
+* Expand one-page plot synopsis of novel into a four-page synopsis (expand each paragraph to a full page)
+* Expand character descriptions to full-fledged character charts detailing everything to know about each character
+* Organize scenes from plot outline into spreadsheet (one line per scene, identify POV character, how long each scene to last, etc)
+* Write the book
+
+
+## Plot Strategies
+
+### 3 Act Structure
+
+* Act 1 - Setup
+  * Introduce major characters in the story (protagonist and antagonist), worldbuilding, and end with the inciting incident that establishes the conflict of the story
+  * Ex: Battle of Narshe in FF6
+* Act 2 - Confrontation
+  * Action of the conflict plays out, rising tension (each escalating upon each other), and ends with the final conflict
+  * Ex: Floating continent in FF6
+* Act 3 - Resolution
+  * Resolve the conflict in a satisfying way for the audience (ie, final boss fight) and show the results of the final conflict
+  * Ex: World of Ruin in FF6
+
+### Freytag's Pyramid
+
+* Exposition
+* Inciting incident
+* Rising action
+* Climax
+* Falling Action
+* Resolution
+* Denouement
+
+### LOCK System for Plotting
 
 * Lead: Make the main character compelling for a first-time reader to get sucked in.
 * Objective: Define character's want/desire/goal. Tie this into the lead that pulls the reader in.
 * Confrontation: Opposition from other characters as the main character tries to reach their objective. 
 * Knockout: Give a decisive ending that will be memorable.
 
-## Watts' 8 Points of Single Story Arc
+### Watts' 8 Points of Single Story Arc
 
 * Status Quo - Normality will need to be broken and reforged
 * The Trigger - The incident that pushes the characters to break away from statis
@@ -1291,7 +1552,7 @@ If your goal is to form a well-rounded character, start by giving him attributes
 * The Reversal - The consequence of the critical choice and culmination of the climax that results in changes to the character, the others involved, and an aspect of the world, up to and including everything
 * The Resolution - Denouement; The new status quo. This is where things then will be, but with the characters changed
 
-## Buntings' Story Arc Types
+### Buntings' Story Arc Types
 
 * The Rise - A "rag to riches" style movement, where things get better despite adversity.
 * The Fall - A "riches to rag" story where things steadily decline despite player agency.
@@ -1300,7 +1561,49 @@ If your goal is to form a well-rounded character, start by giving him attributes
 * The Victory - A rise, followed by a fall, followed by another rise, where the character gains a thing, loses it, then ends up better off.
 * The Defeat - A fall, followed by a rise, followed by another fall, in which the character loses something, gains it or more back, but then loses that up to including everything else.
 
+### MICE Quotient
+
+* Millieu - the world where the story takes place
+  * Beginning: A character enters a strange new world
+  * Ending: A character exits the new, but no longer strange, world
+* Idea - A central question
+  * Beginning: A question is discovered or asked
+  * Ending: The question is answered
+* Character - The nature and development of one or more characters
+  * Beginning: A character is dissatisfied with their life or circumstances
+  * Ending: The character either changes those circumstances or learns to accept them
+* Event - an event or situation, including its causes and consequences
+  * Beginning: The status quo is disrupted
+  * Ending: The status quo is either restored, replaced with a better one, or entirely destroyed.
+
 # 🖊️ Editing
+
+1. Start with easy fixes
+	a. Spellcheck
+	b. Fix adverbs
+	c. Similar tense for characters talking
+2. Omit needless words
+3. Cut where you're doing the reader's thinking for them
+	a. No telling, have it be showing
+4. Cut stage direction
+5. Ensure consistent character motivation throughout the story
+6. Has an action happened in the first paragraph?
+7. Is my story coherent?
+8. Are there complete scenes?
+9. Do I start each scene with something active?
+10. Am I writing in active voice?
+11. Is setting working?
+12. Are my characters acting believably?
+13. Are the transitions clear?
+14. Does my story fit together (ABDCE)?
+15. Did I explain the risks for each character?
+16. Did I explain the consequences of these risks?
+17. Does every story of my sentence deepen character or advance the plot?
+18. Is the second draft 10% shorter than my first?
+19. Am I ready to discard content that isn't working?
+20. Is what you meant in your head as clear as it can be on the page?
+21. Find outside readers
+Give a couple of specific targeted questions, not a general "what did you think"
 
 ## Macroediting
 

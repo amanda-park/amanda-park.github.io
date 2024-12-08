@@ -8,7 +8,6 @@ featured_image: ''
 description: 'My synthesized notes of all the writing knowledge I have accummulated over the past few years for game design purposes.'
 ---
 
-*Work in progress...*
 
 # 🦸 Characters
 

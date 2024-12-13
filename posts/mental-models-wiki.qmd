@@ -5,7 +5,7 @@ date: '2024-07-26'
 slug: mental-models
 categories: ['wiki']
 featured_image: ''
-description: 'My synthesized list of mental models and cognitive distortions/biases I have learned about in the past few years, along with general decision making advice.'
+description: 'My synthesized list of mental models and cognitive distortions/biases I have learned about in the past few years, along with general decision making and learning advice.'
 ---
 
 ## Decision Making
@@ -22,6 +22,48 @@ Ways to make it easier:
     -   What is the risk of doing nothing? What would you regret a year from now not starting today?
 -   Prepare a mental board of advisors (people you admire) that can give you advice on what to do next
 -   Offer yourself grace when decisions don't go as planned, or when you make "hot" decisions (anxiety, scarcity, or urgency).
+
+## Learning 🍎
+
+From Ultralearning:
+
+1.  Learn how to learn
+    1.  What is my learning goal, and why have I chosen this?
+    2.  What do I need to learn to achieve this goal?
+    3.  What strategies have other people used to learn this?
+2.  Develop concentration skills, and combat
+    1.  Procrastination
+    2.  Distraction
+    3.  Poor optimization
+3.  Practice experientally (directly) and creatively (experimentation)
+    1.  Create learning projects
+    2.  Immerse self in real-world scenarios
+    3.  Simulate scenarios
+    4.  Set stretch goals
+    5.  Replicate others
+    6.  Create constraints
+    7.  Diversify your skills
+4.  Address your weak points
+    1.  Diagram of learning process
+    2.  Get feedback from reliable sources
+    3.  Make adjustments based on learnings
+5.  Strengthen your memory
+    1.  Test yourself to encode new information
+    2.  Study excessively
+    3.  Allow gaps between learning periods (ie, use a tool like Anki)
+6.  Pursue and filter feedback
+    1.  In what ways do you see me holding myself back?
+    2.  On a scale of 1 to 10 how would you rank X?
+7.  Seek a deep understanding of ideas
+    1.  Let yourself struggle
+    2.  Challenge your understanding
+    3.  Use concrete examples
+8.  Put it all together into a project
+    1.  Research how to learn the material
+    2.  Create a schedule to learn
+    3.  Start learning
+    4.  Regularly analyze progress
+    5.  Create plan for long-term retention
 
 ## Mental Models
 

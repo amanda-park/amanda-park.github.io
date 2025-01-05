@@ -1,0 +1,119 @@
+---
+title: "End of 2024 Review"
+author: "Amanda Park"
+date: '2025-01-05'
+slug: '2024-review'
+categories: ['review']
+featured_image: 'Scranton.jpg'
+description: 'Reflecting on how my 2024 went.'
+---
+
+2024 sure was a year. Here's an overview of how it went for me.
+
+## The Good of 2024
+
+### Continued Travel
+
+While I did not hit any national parks, nor new states, in 2024, I still got to check out a few different places, including:
+
+* Colorado in winter
+* North Carolina
+* Local hiking excursions
+* 3 trips to the NYC area
+
+#### Colorado
+
+First, in January I went to Colorado for the second time (this time in winter) and hit the slopes at Winter Park:
+
+![Winter Park at the top of one of the slopes. I skied a lot growing up, but between climate change and how expensive it's become, this hobby is rare for me to do these days.](Winter_Park.jpg)
+
+And then I hit the highest elevation I've been above sea level and took the trolley up Pike's Peak:
+
+![Pike's Peak, at the... well, peak. Very thin air up at the top.](Pikes_Peak.jpg)
+
+#### North Carolina
+
+In May, I visited North Carolina and saw the Outer Banks:
+
+![Bodie Island Lighthouse](Outer_Banks.jpg)
+
+#### Local Hiking Excursions
+
+Some of my local hiking excursions included Letchworth State Park over the eclipse (it was cloudy, alas):
+
+![A very brown Letchworth State Park.](Eclipse_Letchworth.jpg)
+
+Hitting Watkins Glen and Fillmore Glen State Parks:
+
+![Watkins Glen](Watkins_Glen.jpg)
+
+![Fillmore Glen](Fillmore_Glen.jpg)
+
+Seeing the Grand Canyon of Pennsylvania: 
+
+![It's a bit overrated once you've seen the actual Grand Canyon, to be honest.](GC_PA.jpg)
+
+#### NYC Trips
+
+In July, I went to my first MLB game in over a decade and watched the Yankees lose to the Tampa Bay Rays:
+
+![The fans booed really loudly when I went to the bathroom and the pitcher gave up back-to-back home runs. Most entertaining part of the game.](Yankees.jpg)
+
+In September, I saw my football team's horrible uniforms in person for one of their worst seasons ever:
+
+![100th Year Anniversaries are great, am I right? All the classic Giants in the Ring of Honor also showed up for this embarrassment.](Giants_Bad.jpg)
+
+And in October, I visited NYC proper this time, and on the way back hit Scranton to see The Office represented in a mural:
+
+![A little hidden cove in Central Park. Still heard honking traffic, though. I'm not sure how anyone lives in that crowded of a city.](Central_Park.jpg)
+
+![Downtown Scranton only really has this to its name at this point, so might as well milk it for all its worth.](Scranton.jpg)
+
+I did have ambitions for a fall trip in 2024 as well, but after two trips in May (NC and a work trip), I hit a travel wall and realized I needed to press the pause button on anything requiring getting on a plane. We shall see see what the future holds in terms of travel plans in 2025.
+
+### Detaching from Self-Help
+
+I've read/watched a lot of self-help content over the years (probably way too much, to be honest). There had been diminishing returns over the past couple of years in terms of the value add of engaging with the content, but I finally hit a point in 2024 where it all started to feel repetitive.
+
+Cal Newport's Slow Productivity was the breaking point for me. It's not the worst book I've ever read by any means, but the main message of the book is in the literal tagline with "Do fewer things. Work at a natural pace. Obsess over quality.", and you just spend 300 pages getting that message beat into your head with anecdotal examples. This style of self-improvement content just isn't what I need at this point of my life. I'm still not opposed to engaging with content that would add value to my life, but it's generally more specialized than what this genre can offer at this point in my life.
+
+### Making Peace With Myself
+
+In previous years I lamented my loneliness and felt like I wasn't doing enough to build relationships with others in my community. It was a huge source of shame, causing me to feel inferior because I didn't have a social life akin to Friends.
+
+This is the year I finally started to tear that shame down a peg. Sure, my life didn't turn out exactly how I expected it to, but that happens to most everyone. There's no point in hating myself for it. It took a lot of journaling to get to the emotional root cause as to why I felt so ashamed about it, but now that I have, it feels like an injury on the mend rather than chronically inflamed.
+
+## The Bad of 2024
+
+### Doomscrolling Social Media
+
+Towards the start of 2024, I downloaded [ActivityWatch](https://activitywatch.net/), an open-source time tracking app for your computer and phone. As a data-driven professional, I'd rather rely on hard data to tell you your scrolling habits when possible.
+
+The data confirmed once again that I spent way too much time lurking on Reddit (roughly 1 hour a day). I used site blocking tools to give myself a barrier to access, but I found I would just plow past those when the urge was strong enough, so I invested in [Freedom Premium](https://freedom.to/resources) to finally lock my access down for only an hour each day for both YouTube and Reddit.
+
+This has been successful at reducing my time on both of those platforms, but I have admittedly substituted this time with scrolling on Bluesky. I know the quality of content I'm currently getting on the platform beats what I was getting on Reddit, but I don't like that I'm reinforcing the scrolling habit that my brain so desperately craves.
+
+### The News
+
+Unfortunately, the news also became a source of doomscrolling with recent political happenings. There are too many thoughts for me to publicly elaborate on all of that here, so I'll just focus on action steps I've taken to try and keep my anxiety levels down:
+
+* [The Ultimate Personal Security Checklist](https://digital-defense.io/) is a good place to start to understand where you're most and least secure in your digital life
+* Switch to open-source options when possible. Even though it was a pain, I switched my 2FA tool from Authy to 2FAS
+* Delete old accounts you don't use anymore, and use a password manager (like Bitwarden) and 2FA (like 2FAS) to secure the ones you still use.
+
+In general, I've been trying to reduce my reliance on large tech companies (Amazon/Meta/Google/Microsoft/Apple) and their services. This is really hard to because of how expansive they are with their reach:
+
+* Meta - Facebook, Instagram, Messenger, WhatsApp, Threads, Meta Quest, etc.
+* Amazon - Amazon.com, Alexa, Kindle, Prime, Twitch, Ring, Goodreads, etc.
+* Google - Android, Gmail, Chrome, Calendar, Drive, Docs, Maps, Fitbit, Pixel, YouTube, etc.
+* Microsoft - Windows OS, OneDrive, Edge, Outlook, Office, Copilot & OpenAI, LinkedIn, GitHub, Skype, etc.
+  
+At this point, however, I think it's worth it to divest from as much of the above as possible. Here are some other steps I've taken: 
+
+* Run AI & Large Language Models on your local machine whenever possible. The only thing going forward I will use a closed-source model on are questions related to my work (conceptual and coding). Anything I'm not comfortable being tied to my identity, I'm not putting into ChatGPT.
+* Cancel an Amazon Prime subscription. (Ideally, don't shop on Amazon at all, but I understand this is difficult to do for some, and it's not like substituting shopping on Amazon with Walmart+ is much better in the grand scheme of things. Shopping local is best if you can afford the additional cost.)
+* Support local libraries and journalism.
+  
+## Conclusion
+
+2025 is going to be a ride. All I can say is to buckle up.

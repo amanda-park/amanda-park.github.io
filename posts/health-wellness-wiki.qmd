@@ -352,6 +352,8 @@ Managing:
 
 *Happiness is not a second-order event that is premised on something else occurring first. It is a first order event that happens when you live your truth.*
 
+*People would rather be consistent than happy.*
+
 Happiness can be defined in a lot of different ways, but is often driven by connection. There are three key feelings involved, including:
 
 * *Enjoyment* - pleasure + elevation
@@ -554,7 +556,20 @@ This level of control can be a means to reduce feelings of inferiority and shame
 
 *Who knows how many of us are playing a similarly important role in the lives of those around us, completely unaware of how much our little efforts are appreciated, because we’re still locked behind unrealistic expectations and the shame of not meeting them.*
 
-Defense mechanism to cope with emotional neglect and also is about safety. 
+Defense mechanism to cope with emotional neglect and also is about safety. Reasons why people do it include:
+
+* Facilitates self-improvement
+* Keep ego in check
+* Avoid other people's criticism by being first to the punch
+* Reduce expectations of others
+* Gain a sense of control in an arbitrary world
+* Gain reassurance and compliments from others
+
+3 main factors in perfectionistic self-criticism include:
+
+* Harshness - relying on shame and/or beating ourselves up to do better
+* All or nothing approach - one mistake ruins everything
+* Personal implication - believing something is wrong with you or that you were inadequate
 
 Three main types of perfectionism:
 
@@ -565,7 +580,7 @@ Three main types of perfectionism:
 Examples:
 
 * Treating benign statements as jabs at perceived imperfections
-* Intensely critical and an absence of self-compassion
+* Intensely critical and an absence of self-compassion; 
 * Working without enjoyment and never feeling like you've done "enough"
 * Fearing failure in various forms (feedback and performance appraisals, competitions, etc)
 
@@ -627,6 +642,8 @@ People with high self-worth:
 Signs of low self-worth:
 
 * Conditional self-worth; only being worthy if your relationships, appearance, net worth, career, or achievements are X.
+  * Success-based self-worth - ex, how much do I make, did I act normal at this social event, etc.
+  * Activity-based self-worth - how much work did I get done today, how close am I to achieving my goals, etc.
   * Job/career can just be a way to make money, not your life or identity
 * Feeling inherently undeserving of love and belonging and deserving suffering
 * Fear that developing self-worth will stop motivation to grow/change, lead to arrogance, or that it's just impossible to cultivate
@@ -2336,7 +2353,7 @@ Skills:
 
 * Self-enquiry
   * Mindfulness practice that patients can use to better understand themselves and why they interact with the world in the way they do
-  * "What is it that I might need to learn from the experience?"
+  * Find the visceral "edge" that makes you react disproportionately to an experience, and ask "What is it that I might need to learn from the experience?"
   * Keep self-enquiry practices <5 mins and don't always trust the quick answers/urges you receive
 * Use social signaling to attract others and feel safe by activating your social safety system
 * Practice urge surfing when unwanted impulses occur

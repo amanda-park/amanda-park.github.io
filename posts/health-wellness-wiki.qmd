@@ -139,9 +139,6 @@ Anxiety, simply put, is concern about the unknown and/or future. It's feeling li
 
 * The opposite of anxiety is not relaxation, but prosocial behavior.
 * Extreme anxiety, such as a panic attack, are not physically dangerous to experience, just deeply unpleasant
-* There is a difference between worry and anxiety, though they are often conflated:
-  * *Worry* is time-limited and often tied to a specific issue. Once the issue resolves the worry typically disappears
-  * *Anxiety* tends to be more broad, persists over time, and often disrupts daily activities/the future through behaviors like procrastination and avoidance
 
 Types of anxiety:
 
@@ -152,58 +149,41 @@ Types of anxiety:
   * Acceptance of death is not the same as giving up on life, but allows for meaning to be brought to life
 * Performance anxiety - fear of faltering in front of others
 * Social anxiety - fear of disapproval in social situations
+  * Don't excessively monitor yourself as that gives the wrong impression to others; how you feel inside is not how you look to others
+  * Remember spotlight effect - people are too self-absorbed to think about you
+  * Don't tell yourself you have to perform perfectly, creates impossible standards
+  * Don't use alcohol to treat social anxiety
+  * Perceived inadequacies are not tied to a fundamental lack of social skills
+  * For fear of missing out (FOMO):
+    * Do a digital detox
+    * Get more quality time in loved ones
+    * Practice meditation and mindfulness
+    * Journal
 
-Managing worry:
+Manage:
 
 * Is worrying *actually* helpful? If so, do it.
-  * Schedule worry time, and dump out all the thoughts in your brain during this time
   * Will this matter in 10 minutes? 10 weeks? 10 years?
-* Radical acceptance (or in current self-help lingo, the "let them" theory) works great with day to day situations that people can't really control; however, if this approach is used nonstop, it will lead you to become an overly complacent doormat. Use more in these types of scenarios:
-  * Someone flaking on you after a first date? Let them (and move on)
-  * Family not taking your advice on an issue? Let them (and free yourself mentally)
-  * Friends hanging out without you? Let them (and don't beat yourself up over it if it's not repeated behavior)
-
-Managing social anxiety:
-
 * 25% of the people you meet won’t like you, and you won’t like 25% of the people you meet. They may not be the same people. Similarly, imagine you're an orange, and some people don't like oranges. It doesn't mean the orange is flawed in any way, just means that it's not everyone's preference.
-  * Just because you've always needed a reason to dislike someone, that's why it hurts when someone dislikes you, but not everyone else has a reason
   * Similarly, “Some people are like cacti, strong and hardy. Others are like daffodils, bright and can bend in the wind. And some are like orchids. Delicate and need to be looked after but are beautiful and awe inspiring. What matters most is the environment they are grown in."
-* Remember the spotlight effect - You're not special; people are too self-absorbed to be thinking of you. Besides, it's not your business what other people think of you
-* Excessive self-monitoring can give the wrong impression to others; remember how you feel inside is not how you look to others
-* Don't tell yourself you have to perform perfectly, as that creates impossible standards
-* Don't use alcohol to treat social anxiety
-* Perceived inadequacies are not tied to a fundamental lack of social skills
-* For fear of missing out (FOMO):
-  * Do a digital detox
-  * Get more quality time in loved ones
-  * Practice meditation and mindfulness
-  * Journal
-
-Managing anxiety:
-
+* You're not special; people are too worried about themselves to be thinking of you. Besides, it's not your business what other people think of you
+  * People are gossiping about you? Let them. Your boyfriend wants to break up? Let them. Your friend doesn’t heed your advice that you think is best? Let them. People don’t agree with you? LET THEM.
+  * Just because you've always needed a reason to dislike someone, that's why it hurts when someone dislikes you, but not everyone else has a reason
 * Anxiety lives really well in the past and in the future. But has no place in the present. Bring yourself back to the present.
+* Exposure therapy to reduce anxious feelings; don't avoid what you're afraid of. Escape and avoidance only offer short-term relief and feed anxiety in the long run
+* Slower, deeper breaths
+* Reframe cognitive distortions to be more realistic, threats as challenges to overcome, and treat anxiety as excitement
+* Self-compassion
+* Act in line with your values
+* Schedule worry time, and dump out all the thoughts in your brain during this time
 * A lot of anxiety can trigger depression, so taking steps to manage anxiety first (taking time off, crying, etc) can reduce the depressive episodes
 * Be mindful of "anxious fixing", where you tackle small things on your to-do list as a way to avoid tackling the root cause of your anxiety.
-* Exposure therapy to reduce anxious feelings; don't avoid what you're afraid of. Escape and avoidance only offer short-term relief and feed anxiety in the long run
-* Reframe cognitive distortions to be more realistic, threats as challenges to overcome, and treat anxiety as excitement
-
 
 ## 🥱 Bored
  
-Boredom is wanting to do something fulfilling, yet nothing fitting the bill. Different from apathy (the absence of any desire). Boredom is a sign that you're having a 'crisis of agency' and are passively letting life happen to you, rather than deploying your skills/talents in a meaningful way.
+Wanting to do something fulfilling and not being able to. Feeling understimulated, tasks (if you have any) seeming meaningless and unsatisfying, and time seems to stretch out.
 
-Signs of boredom:
-
-* Feeling understimulated
-* Tasks (if any) seem meaningless and unsatisfying
-* Time seems to stretch out
-
-Managing boredom:
-
-* *Re-establish your agency* - Boredom signals a need to look for activities that flow from and give expression to your curiosity, creativity, and passion. This means you don't follow a list online giving you hobbies/activities to alleviate your boredom. 
-* *Don't numb boredom with drugs/technology/etc; actually relax* - boredom is unpleasant, but resistance and numbing won't help working through it (acceptance is needed). Further, actual relaxation is needed, typically in times people prefer to numb themselves, to avoid feeling restless and agitated.
-* *Just do things* - frequent boredom can lead to "analysis paralysis", and the preoccupation with doing things "right" means never getting started.
-* *Reframe situations* - use gamification or other methods of making something more fun to make repetitive tasks a little less boring.
+* Need to embrace and work through boredom. Digital stimulation is used to numb unpleasant emotions, so reducing external stimulation is key.
 * Reach the end of thought (many are born of external stimulus, then a period of extreme boredom as your mind struggles for stimulation and seeks dopamine). Then will be hypersensitive to internal drivers and it'll be clear based on values what you want to do.
 
 ## 😞 Disappointment
@@ -262,8 +242,6 @@ Depression, though on the surface doesn't make sense from an evolutionary perspe
 * Introspection from depression allows for evaluating one's place and importance in a group
 
 There is a correlation with a higher IQ and having depressive symptoms; intelligent people can often rely on logic to solve their problems, potentially leading to underdeveloped emotional awareness and a hindered ability to process emotions. Interestingly, depressed people are better at judging the accuracy of the world; humans have a bias towards the positive (narcissistic idiocy). However this doesn't contribute to a healthy mindset.
-
-There is also a difference between healthy sadness (a natural response to losing something) and depression (having distorted thoughts on top of losing something, making the situation worse)
 
 Signs of depression: 
 
@@ -616,7 +594,7 @@ Treatment:
 * Challenge inner negative thoughts with CBT
 * Accept when good enough is good enough
   * 'I'm not really a perfectionist. I don't need to achieve 100%. 80% is good enough.' My psychologist: 'Have you considered that your 80% might be someone else's 100% or even 120%?'
-* Describe yourself in terms not associated with success in career, appearance, or how others think of you
+* Describe yourself in germs not associated with success in career, appearance, or how others think of you
 * You have to choose what you suck at. Nobody has time to do it all. Everyone puts a priority on their health and lots of people don't realize they're prioritizing it dead last.
 
 ## 🚫 Procrastination
@@ -1838,10 +1816,7 @@ Types of Meditation:
 
 Method to reduce the intensity of negative emotions, using each of the senses.
 
-:::::: columns
-::: {.column width="50%"}
-
-**Sight**
+### Sight
 
 * Low lighting
 * Soothing colors
@@ -1849,7 +1824,7 @@ Method to reduce the intensity of negative emotions, using each of the senses.
 * Coloring books
 * Collages
 
-**Sound**
+### Sound
 
 * Calming noise
 * ASMR
@@ -1857,24 +1832,21 @@ Method to reduce the intensity of negative emotions, using each of the senses.
 * Guided meditations
 * Binaural beats
 
-**Smell**
+### Smell
 
 * Aromatherapy
 * Fresh air
 * Candles
 * Comforting smells
 
-**Taste**
+### Taste
 
 * Strong flavors
 * Warm drinks 
 * Eating slowly
 * Nostalgic flavors
 
-:::
-::: {.column width="50%"}
-
-**Touch**
+### Touch
 
 * Soft things
 * Cuddling
@@ -1882,7 +1854,9 @@ Method to reduce the intensity of negative emotions, using each of the senses.
 * Hot shower
 * Weighted blanket
 
-**Vestibular** - Processes balance and movement
+### Vestibular
+
+Processes balance and movement
 
 * Yoga
 * Rocking (on swing, chair, hammock, etc)
@@ -1890,23 +1864,24 @@ Method to reduce the intensity of negative emotions, using each of the senses.
 * Running
 * Spinning
 
-**Proprioception** - Processes balance and coordination
+### Proprioception
+
+Processes balance and coordination
 
 * Push/Pull/Lift activities
 * Chewing
 * Dance
 * Kneading/Squeezing
 
-**Interoception** - Processes internal body and emotional states
+### Interoception
+
+Processes internal body and emotional states
 
 * Hot and cold sensations
 * Body scans
 * Breathwork
 * Mindfulness
 * Send messages of safety and love
-
-:::
-::::::
 
 ## 1️⃣ Solitude
 
@@ -2405,7 +2380,7 @@ List of Maladaptive Schemas
   * Treatment: Consider your past, use a third-person narrative to describe your feelings, read fiction, pay attention to fictional character's needs and feelings, use feelings wheel, learn about boundaries, practice sharing emotions with people who care, attending to emotions with care, validation, nurturing, and security
 * Defectiveness & Shame
 * Social Isolation & Alienation
-  * Signs: Find social activities exhausting, hiding who you really are, believe if people see the real you they'll reject you, compare self unfavorably to others, strong inner critic, and often feel lonely
+  * Signs: Find social activities exhausting, hiding who you really are, believe if people see the real you they'll reject you, compare self unfavorably to others, strong inner critic, and often feel lonely 
   * Treatment: Review the past, change your POV, take stock, take a sober look at the situation, take action against the inner critic, start repairing your self-esteem
 * Dependence & Incompetence
 * Vulnerability to Harm or Illness

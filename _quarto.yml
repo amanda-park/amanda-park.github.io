@@ -10,6 +10,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: rss
+        href: index.xml
     tools:
       - icon: linkedin
         url: https://www.linkedin.com/in/parkamanda
@@ -23,3 +26,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+
+
+

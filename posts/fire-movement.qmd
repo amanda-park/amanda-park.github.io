@@ -1,0 +1,91 @@
+---
+title: "Adventures in the FIRE Movement"
+author: "Amanda Park"
+date: '2025-05-03'
+slug: fire-movement
+categories: ['finances']
+featured_image: ''
+description: 'Just talking about my experiences exploring the Financial Independence, Retire Early (FIRE) movement.'
+---
+
+## What is FIRE?
+
+FIRE is a combination of both FI (Financial Independent) and RE (Retire Early), with the idea being if you have enough money saved in high-performing investments like the S&P 500 that you can live off 3-4% of the principal each year without ever depleting the initial investment. (I explain a few more details about it [here](https://amanda-park.github.io/posts/financial-wiki.html).) This is obviously with the caveat that you can never guarantee the direction the stock market will ultimately go, but this savings philosophy did survive the Great Depression if you chose a very conservative withdrawal rate (closer to 3% than 4%) and didn't let your emotions get the better of you during downturns.
+
+## How I Found FIRE
+
+Prior to getting access to my first retirement accounts, I learned about investing through a graduate professor attending his open office hours. He shared a PBS documentary called [The Retirement Gamble](https://www.pbs.org/wgbh/frontline/documentary/retirement-gamble/), which referenced John Bogle, the CEO of Vanguard, and his investment philosophy (of which followers became known as Bogleheads). Bogleheads' main tenets are to live below your means, invest in index funds on a regular cadence, and don't time the market.
+
+While these are the investment philosophies I have lived by since finishing grad school, they are meant more for a path to "traditional" retirement, where you work for 40 years and then are able to retire with the help of social security, your retirement savings, and (if you're really lucky these days) a pension. People have caught onto the fact that this is a gamble at best. After all, there's no guarantee you'll be healthy enough (or even alive) to pursue whatever you desire in retirement by the time you're in your 60's.
+
+FIRE was instantly appealing to me in part because I had multiple family members retire by the time they were 55. I wanted to do something similar, but I knew I wouldn't be able to rely on a pension to fund my retirement like my family had. That meant I had to take saving for retirement seriously in the back half of my 20's and early 30's.
+
+## The Sacrifices to FIRE
+
+This has meant making some sacrifices. I still drive a pretty old car. I don't eat very often, and I don't needlessly pay for subscriptions. My shopping habits haven't fundamentally changed as my salary increased, so I've been able to pocket that money as savings rather than fueling a more expensive lifestyle. And with going to affordable in-state schools for my education, I don't have crippling student loans weighing me down.
+
+Some of this is also simply being fortunate, though. With a remote job I can live in a lower cost-of-living region and have a much lower portion of my salary go towards housing costs than they would in a region like NYC. That's not a luxury you're afforded if you have to work in-person, whether out of necessity or a culture that demands on-site work (even if the job could be done remotely).
+
+Others who pursue FIRE will make other sacrifices in order to achieve an early retirement. Some examples:
+
+* Reducing housing costs by living in a vehicle/camper, with many roommates, or other nontraditional housing options
+* Forgoing vacations 
+* Working multiple jobs 
+
+## The Upsides of FIRE
+
+### Money Buys You Freedom
+
+Barring a global economic collapse, money buys you flexibility that you otherwise don't have. At a smaller scale, an emergency fund can cover you for unexpected bills and expenses. But at a larger scale, you can have peace of mind even if you lose your job and not stress about finances. That freedom from anxiety is deeply appealing.
+
+### Sense of Control 
+
+Thinking about finances for a lot of people triggers fear. When you have more money and a clear-cut path to a future where you don't have to theoretically worry as much, it's appealing as you have a means to control that fear.
+
+### A Lot of People Don't Love Their Jobs
+
+I've been pretty fortunate in not having many jobs with micromanaging bosses and rigid work structures. But there are a lot of jobs that do exist like this, and unsurprisingly, many people dream of the day that they can put in their final notice and quit for good.
+
+## The Downsides of FIRE
+
+In theory, FIRE is great, especially the FI part, where you're not dependent on someone else for income. But, like anything, I think it can be taken too far. 
+
+### The Importance of Investing In Yourself
+
+There's more types of investment than just watching the number go up or down on your financial accounts. There's investing in areas like:
+
+* Your relationships
+* Having more time to pursue what you're passionate about
+* Your physical and mental health
+
+These things aren't as easily measurable as money, but I'd argue they're more important. Now, being FIRE can make it much easier to invest into all of these things, but not at the expense of ignoring these domains of your life for years on end.
+
+Let's take for example going to therapy:
+
+Assume you have a quality therapist and that going biweekly to therapy costs 200 dollars a session, which adds up to just over 5000 dollars a year. If you look at therapy in pure financial terms, it can seem like a terrible investment. Just imagine what 5000 would do if you just put it in the S&P 500, after all!
+
+But it doesn't take into account the benefits to other areas of your life that you might get from therapy. Ideally, the quality of your mental health and your relationships improve. These are harder to put a price on, so it's left to you to decide - are those quality of life improvements better than having an extra 5 grand a year in your bank account?
+
+(I suppose you can also argue "I can have ChatGPT be my therapist for free!" as a counter-argument, but that's a whole different blog post.)
+
+### Life Is Uncertain
+
+This isn't to say to throw up your hands and go YOLO, but these best-laid plans to live your life can be thrown out the window due to unexpected events. It's what I like to call the "getting hit by a bus tomorrow" principle.
+
+Are you consistently putting off living today in order to have a "safer" retirement? That might be a sign that you're taking FIRE a bit too far. Even though I could in theory retire a little earlier if I didn't take vacations every year, it's important to me to enjoy life when I'm still young since the future is so uncertain these days.
+
+There's also climate change to consider and its ripple effects on the world itself. The world in 2025 is already very different due to climate change than it was in 2000, and that will be the case in 2050. Are the things you want to do in retirement going to be possible with the world's climate in 2050?
+
+### What Will You FIRE Towards?
+
+If you're just chasing FIRE simply with the hopes of getting out of the rat race, you may be disappointed when you get there. Early retirement can be difficult for extroverts as many friends and family will still need to work, and work can be a default environment to get your social needs met. 
+
+But if you have a vision of what your life will go toward once you FIRE, rather than merely what you will escape, it'll be easier for the transition to be successful.
+
+### For America Only - The Health Insurance Factor
+
+The costs of health insurance continue to balloon as the cost of health care increases, and as America is one of few countries without universal healthcare, this will make it increasingly difficult to go without employer-based insurance. Friends of my parents can't afford to retire in their 60's simply because they can't afford paying for health insurance on the marketplace, and given the direction things are going politically, I don't see that trend changing anytime soon.
+
+## Conclusion
+
+FIRE is a useful framework for people to start taking their finances seriously and live life on their own terms. But like many frameworks, taken to an extreme it can be harmful to people's overall well-being. Finding the best balance for your specific living situation can help you reach your financial goals, even if it needs to be smaller-scale like an emergency fund.

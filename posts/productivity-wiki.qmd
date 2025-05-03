@@ -29,6 +29,7 @@ Determine the areas of life you want to focus on with your goals. When thinking 
     -   💰 Finance & Wealth
     -   🎓 Education & Learning
 
+
 ## 🧩 Types of Goals
 
 -   🛑 **Anti-Goals** - setting goals to avoid a worst-case scenario as opposed to an ideal best-case scenario. *How am I complicit in creating the conditions I say I don’t want?*
@@ -47,7 +48,12 @@ Determine the areas of life you want to focus on with your goals. When thinking 
     -   Time-based - when does this need to be done by?
 * **Promotion vs Prevention Goals** - Promotion goals involve making good things happen, and prevention goals involve avoiding bad things. Example:
   * Promotion: learning a new skill at work because of a genuine curiosity 
-  * Prevention: learning a new skill at work out of fear of becoming obsolete     
+  * Prevention: learning a new skill at work out of fear of becoming obsolete   
+* **PACT** - if you're tired of traditional linear goals, try doing what Anne Laure Le Cunff calls making a PACT, which is more of a "I will [action] for [duration]" approach than a strict goal. A PACT is not a habit (it's not meant to go on indefinitely like habits), a performance metric to tell you if you're doing "good enough", a project to manage on its own, and it's definitely not a New Year's Resolution (smaller scale). PACT stands for:
+  * Purposeful - stops you from fixating on an outcome, but still feels meaningful to do on its own
+  * Actionable - something you can regularly perform with what you have today
+  * Continuous - a task that is simple and repeatable on a regular cadence (daily, every week, etc)
+  * Trackable - is it obvious if you did it every day or not with a binary yes/no?
 
 ## 🎯 Meaning
 
@@ -187,6 +193,7 @@ With your selected list of 3-5 goals, ask:
 -   ◀️🍅 **Reverse Pomodoro Technique** - Work for 5/10 minutes, stop for 25/50. Useful if it's *really* difficult to get started for whatever reason
 -   1️⃣ **Single Tasking** - Focus on one task (your most important task) without distractions to interrupt you
 -   🔲 **Time Blocking** - plan your day in half hour blocks, make list of tasks that need to be done (schedule in half-hour blocks), and include flexible time blocks to protect against unforeseen tasks
+  * If time blocking is challenging for you, consider *sequential focus*, which instead asks "given my current attention and working memory, what is the most sensible task to undertake right now?"
     -   🗓️ **Ideal Week Calendar** - Consider what an ideal week would look like for you, and block out reasonable times for your top priorities on a separate calendar in Google Calendar. Focus on current ideal ordinary week and future ideal ordinary week
     -   👀 **Year at a Glance** - Look at your calendar with the days measured vertically and each month as a column, so you can more easily digest what you have planned throughout the year and various accomplishments.
         -   Tip: use relevant emojis if you want to track habits each day in a quick visual manner; for example, 🏋️‍♀️ can represent exercising on a specific day

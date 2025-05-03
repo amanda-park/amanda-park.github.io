@@ -153,7 +153,6 @@ Types of anxiety:
 * Performance anxiety - fear of faltering in front of others
 * Social anxiety - fear of disapproval in social situations
 
-
 Managing worry:
 
 * Is worrying *actually* helpful? If so, do it.
@@ -1839,7 +1838,10 @@ Types of Meditation:
 
 Method to reduce the intensity of negative emotions, using each of the senses.
 
-### Sight
+:::::: columns
+::: {.column width="50%"}
+
+**Sight**
 
 * Low lighting
 * Soothing colors
@@ -1847,7 +1849,7 @@ Method to reduce the intensity of negative emotions, using each of the senses.
 * Coloring books
 * Collages
 
-### Sound
+**Sound**
 
 * Calming noise
 * ASMR
@@ -1855,21 +1857,24 @@ Method to reduce the intensity of negative emotions, using each of the senses.
 * Guided meditations
 * Binaural beats
 
-### Smell
+**Smell**
 
 * Aromatherapy
 * Fresh air
 * Candles
 * Comforting smells
 
-### Taste
+**Taste**
 
 * Strong flavors
 * Warm drinks 
 * Eating slowly
 * Nostalgic flavors
 
-### Touch
+:::
+::: {.column width="50%"}
+
+**Touch**
 
 * Soft things
 * Cuddling
@@ -1877,9 +1882,7 @@ Method to reduce the intensity of negative emotions, using each of the senses.
 * Hot shower
 * Weighted blanket
 
-### Vestibular
-
-Processes balance and movement
+**Vestibular** - Processes balance and movement
 
 * Yoga
 * Rocking (on swing, chair, hammock, etc)
@@ -1887,24 +1890,23 @@ Processes balance and movement
 * Running
 * Spinning
 
-### Proprioception
-
-Processes balance and coordination
+**Proprioception** - Processes balance and coordination
 
 * Push/Pull/Lift activities
 * Chewing
 * Dance
 * Kneading/Squeezing
 
-### Interoception
-
-Processes internal body and emotional states
+**Interoception** - Processes internal body and emotional states
 
 * Hot and cold sensations
 * Body scans
 * Breathwork
 * Mindfulness
 * Send messages of safety and love
+
+:::
+::::::
 
 ## 1️⃣ Solitude
 
@@ -2403,7 +2405,7 @@ List of Maladaptive Schemas
   * Treatment: Consider your past, use a third-person narrative to describe your feelings, read fiction, pay attention to fictional character's needs and feelings, use feelings wheel, learn about boundaries, practice sharing emotions with people who care, attending to emotions with care, validation, nurturing, and security
 * Defectiveness & Shame
 * Social Isolation & Alienation
-  * Signs: Find social activities exhausting, hiding who you really are, believe if people see the real you they'll reject you, compare self unfavorably to others, strong inner critic, and often feel lonely 
+  * Signs: Find social activities exhausting, hiding who you really are, believe if people see the real you they'll reject you, compare self unfavorably to others, strong inner critic, and often feel lonely
   * Treatment: Review the past, change your POV, take stock, take a sober look at the situation, take action against the inner critic, start repairing your self-esteem
 * Dependence & Incompetence
 * Vulnerability to Harm or Illness

@@ -2457,7 +2457,9 @@ Schema Modes:
   * Demanding parent
 * Healthy adult mode
 
-## 🧎‍♀️ Yoga
+## 🧎‍♀️ Yoga & Exercise
+
+Ask a doctor before following a fitness regimen, etc
 
 ### Shoulder
 
@@ -2505,3 +2507,44 @@ Hips are a storing ground for trauma, stress, and anxiety.
 * Pigeon
 * Runner's lunge (support back leg on bed to get a more targeted stretch)
 * Seated twist
+
+### Arm Workout
+
+| Exercise                   | Muscles Worked         | Notes                                           |
+|----------------------------|------------------------|-------------------------------------------------|
+| Bicep Curl                 | Biceps                 |                                                 |
+| Dumbbell Front Raise       | Shoulders              |                                                 |
+| Dumbbell Side Raise        | Shoulders              |                                                 |
+| Tricep Extensions          | Triceps                |                                                 |
+| Shoulder Press             | Shoulders, Triceps     |                                                 |
+| Shrugs                     | Trapezius              |                                                 |
+| Dips                       | Triceps, Chest         |                                                 |
+| Farmer's Walk              | Forearms, Grip, Core   |                                                 |
+| Pull-ups                   | Back, Biceps           |                                                 |
+
+### Core Workout
+
+| Exercise            | Muscles Worked         | Notes                                           |
+|---------------------|------------------------|-------------------------------------------------|
+| Push-up             | Chest, Triceps, Core   |                                                 |
+| Plank               | Core                   | Maintain a straight line from head to heels     |
+| Side Plank          | Obliques, Core         | Keep hips elevated and body straight            |
+| Russian Twist       | Obliques, Core         | Rotate torso for maximum engagement              |
+| Dips                | Triceps, Chest, Core   |                                                 |
+| Bird Dog            | Core, Back             | Focus on balance and stability                   |
+| Mountain Climbers   | Core, Legs             | Keep a steady pace for cardio and core strength  |
+| Pike Press (and Shrug) | Shoulders, Core      | Engage core while pressing up                    |
+
+### Legs/Glutes Workout
+
+| Exercise                     | Muscles Worked | Notes                                           |
+|------------------------------|----------------|-------------------------------------------------|
+| Squat                        | Quads, Glutes   |                                                 |
+| Lunges                       | Quads, Hamstrings, Glutes   |                                                 |
+| Calf Raises                  | Calves         |                                                 |
+| Clam Shells                  | Gluteus Medius         |                                                 |
+| Glute Bridges                | Gluteus Maximus, Hamstrings, Transversus Abdominis         | Flare legs out for more burn in hamstrings/glutes |
+| Single Leg Romanian Deadlifts | Hamstrings, Glutes |                                             |
+| Reverse Lunge | Hamstrings, Glutes |                                             |
+| Reverse Plank | Lower Back, Hamstrings, Glutes, Abdominals |  
+| Side Lying Hip Adduction | Gluteus Medius, Outer Thigh |  |

@@ -1,0 +1,93 @@
+---
+title: "End of 2025 Review"
+author: "Amanda Park"
+date: '2025-08-11'
+slug: '2025-review'
+categories: ['review']
+description: 'Reflecting on how my 2025 went.'
+draft: true
+---
+
+2025 was a year with various changes in my life. Here's an overview:
+
+## The Good of 2025
+
+### A New Job!
+
+In March of this year I left behind my job at Corewell Health for a new opportunity at Cardamom Health. 
+
+While I greatly valued my time at Corewell Health, to be a data scientist at one company for over 5 years is not exactly a common occurrence. I saw many talented data scientists leave for greener pastures, and with that, I got data points that both my skillset and salary began to lag behind relative to my peers. However, I felt a sense of loyalty to the company that took a chance on hiring me coming out of grad school.
+
+When I got an offer from Cardamom, I realized I couldn't keep relying on loyalty as an excuse to be complacent in my career, and I needed to take the chance and see what things were like on the consulting side of healthcare.
+I feel like in this new role I have thrived.
+
+### Yet Again, More Travel
+
+This year, I continued my travels and added 3 National Parks to my belt with visiting the Everglades, Redwoods, and Crater Lake. (I don't have ambitions to hit every single national park in the US or anything like that; I've crossed off quite a few national parks that were on my "must-do" list since I visited my first one back in 2022.)
+
+In general, my main travel experiences consisted of the following:
+
+- Florida
+- Oregon
+- Other solo hikes
+
+#### Florida
+
+I took a trip to visit my parents in March (which was awkwardly placed in between my two-week notice at Corewell, so it was a very weird trip emotionally speaking), and we decided last-minute to go visit southern Florida.
+
+![Everglades National Park](everglades.jpg)
+
+![Fairchild Tropical Botanical Garden](botanical_garden.jpg)
+
+But also hit some areas closer to central Florida, such as my first hockey game:
+
+![Probably my last one too, since it was such a high-scoring game that I don't think another game could compete in terms of intensity.](hockey.jpg)
+
+![Rainbow Springs State Park](rainbow_springs.jpg)
+
+#### Oregon
+
+In July, I visited Oregon and traveled around the state on a week-long trip:
+
+![International Rose Garden in Portland](roses.jpg)
+
+![Cannon Beach](cannon_beach.jpg)
+
+![Sea Lions along the Oregon coastline](sea_lions.jpg)
+
+![Redwoods National Park](redwoods.jpg)
+
+![Crater Lake National Park](crater_lake.jpg)
+
+![Newberry National Volcanic Monument](newberry.jpg)
+
+#### Solo Excursions
+
+![Robert H. Treman State Park](treman.jpg)
+
+![Maple Hill State Forest](windows_xp.jpg)
+
+![Labrador Hollow Unique Area](tinker.jpg)
+
+## The Bad of 2025
+
+### Peak Social Isolation
+
+The life choices I've made in the past few years have done well to set me up in terms of my career and finances, and there's not a decision I can immediately point to and regret. But despite my best efforts to reconnect with old college friends still around the Binghamton area, they settled into relationships and otherwise moved on when I was in Michigan for my last job. I spent a couple of years after my move being overly accommodating to fit their schedules, but realized it just wasn't sustainable. 
+
+Looking back, I was coming at it from a place of loneliness whereas they weren't.
+While I do have friends, I talk with AI far more than any human being (>90% of this is using Github Copilot for my job, but still). My therapist vanished right after I switched jobs due to personal reasons, meaning I had to juggle this life change solo. And the rate at which I see my current friends in person averages between 0-4 times a year. So I spend a *lot* of time alone.
+
+I was hoping to make a handful of friends in the area I moved to, and I attended a variety of classes, Meetups, book clubs, gaming groups, and churches in my time here. But I underestimated how difficult it would be to make friends:
+
+* Working remotely
+* Not being in a college town
+* Living in a rural area where "everyone knows everyone" and skews older
+* Post-pandemic
+* Distancing myself from social media like Facebook 
+
+I'm a fiercely independent person, and these past few years have removed any lingering doubts I had about doing activities by myself, but I can't say I expected the kid I babysat when I was 12 to get married before I did.
+
+Thankfully, my new job has more flexibility in terms of where I can live than my previous one did, so I'm exploring relocation options that are available in the next couple of years.
+
+## Conclusion

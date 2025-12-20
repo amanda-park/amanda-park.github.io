@@ -14,12 +14,13 @@ draft: true
 
 ### A New Job!
 
-In March of this year I left behind my job at Corewell Health for a new opportunity at Cardamom Health. 
+In March of this year I left my job at Corewell Health, which I had been at for over 5 years, for a new opportunity at Cardamom Health. 
 
-While I greatly valued my time at Corewell Health, to be a data scientist at one company for over 5 years is not exactly a common occurrence. I saw many talented data scientists leave for greener pastures, and with that, I got data points that both my skillset and salary began to lag behind relative to my peers. However, I felt a sense of loyalty to the company that took a chance on hiring me coming out of grad school.
+I'm grateful Corewell Health took a chance on me out of grad school, and that sense of loyalty was certainly part of why I stayed at the company as long as I did. However, over my time there, I saw roughly two cycles of talented data scientists come and go (most of them lasting around 2-3 years), and realized that my both my skillset and salary were lagging relative to my peers.
 
-When I got an offer from Cardamom, I realized I couldn't keep relying on loyalty as an excuse to be complacent in my career, and I needed to take the chance and see what things were like on the consulting side of healthcare.
-I feel like in this new role I have thrived.
+When I got an offer from Cardamom, I realized loyalty wasn't a good excuse to be complacent in my career, and I needed to take the chance and see what things were like on the consulting side of healthcare. And now that I'm a few months into this position, I don't regret my decision at all! I'm glad I waited for the right opportunity for me.
+
+Switching roles has been a great opportunity to stretch my skillset in ways I couldn't in a larger company. While I'm no longer building predictive models in my current role, I've gotten experience developing LLM solutions and even being a full-stack software developer. (I now know the difference and importance between client-side and server-side callbacks, which if you had asked me that back in March I would have had no idea.) 
 
 ### Yet Again, More Travel
 
@@ -30,7 +31,8 @@ In general, my main travel experiences consisted of the following:
 - Florida
 - Oregon
 - Chicago
-- Other solo hikes
+- New Jersey
+- Philly & PAX Unplugged
 
 #### Florida
 
@@ -44,11 +46,13 @@ But also hit some areas closer to central Florida, such as my first hockey game:
 
 ![Probably my last one too, since it was such a high-scoring game that I don't think another game could compete in terms of intensity.](hockey.jpg)
 
+And a nice state park:
+
 ![Rainbow Springs State Park](rainbow_springs.jpg)
 
 #### Oregon
 
-In July, I visited Oregon and traveled around the state on a week-long trip:
+In July, I visited Oregon and traveled around the state on a week-long trip, hitting a lot of the highlights of the state in the process:
 
 ![International Rose Garden in Portland](roses.jpg)
 
@@ -62,41 +66,68 @@ In July, I visited Oregon and traveled around the state on a week-long trip:
 
 ![Newberry National Volcanic Monument](newberry.jpg)
 
-### Chicago
+#### Chicago
 
-I was able to visit the Microsoft AI Tour in Chicago in September as a work trip, but that didn't stop me from doing some sightseeing outside of the event:
+I attended the Microsoft AI Tour in Chicago in September as a part of a work trip, but that didn't stop me from doing some sightseeing outside of the event:
 
 ![Downtown Chicago](downtown_chi.jpg)
 
 ![Millennium Park](the_bean.jpg)
 
-#### Solo Excursions
+#### New Jersey 
 
-![Robert H. Treman State Park](treman.jpg)
+My dad was experiencing caregiver burnout in the fall after everything going on with his parents, so I dragged my parents on a relatively last minute trip south to Atlantic City (and hitting things slowly on a drive back):
 
-![Maple Hill State Forest](windows_xp.jpg)
+![Atlantic City. The Giants actually won when I was down here and watching Dart and Skattebo light up the Eagles in primetime is the happiest I've probably been as a fan since 2021. As of me writing this blog post, they haven't won a game since...](atlantic_city.jpg)
 
-![Labrador Hollow Unique Area](tinker.jpg)
+![Hickory Run Boulder Field. My dad was annoyed I didn't remember going to this when I was a kid. It's a bit of a pain to drive to, but an interesting sight.](rock_field.jpg)
+
+#### PAX Unplugged
+
+Early last year, I told myself that conventions weren't really for me and I made a note to not really go to them going forward. However, I decided I didn't really do everything I wanted to in Philly when I last went in 2021, and some friends were already going to the con, so I gave the board gaming convention another go:
+
+![Downtown Philly](philly.jpg)
+
+![The "LOVE" Sign was smaller than I thought. The bean was better.](love_sign.jpg)
+
+![My first mini I painted at PAX. I ignored the instructor and just painted Gingy from Shrek.](mini.jpg)
+
+### Goodbye Dating Apps (And Good Riddance)
+
+Over the past couple of years, I watched almost all of my friends either pair off into serious relationships or, for the polyamorous ones, integrate more people successfully into their polycule. It was starting to feel like dating was musical chairs, and I was the one without a seat. Even the kid I used to babysit got married this year, which triggered the "what am I doing wrong?" line of thoughts.
+
+Some of my life choices in the past few years hadn't really set me up well for success with dating, such as living in a rural area and working remotely. These decisions were great for other aspects of my life (particularly financially), but they didn't help the numbers game for meeting a partner. 
+
+I also had some other factors working against me. I started dating later in life than most people do, and my lack of experience put me at a disadvantage. In some ways I felt like dating was going through an Applicant Tracking System (ATS), and because I didn't have the right keywords or years of experience, I would get HR-level responses very early in the process. It was exhausting, and I'd regularly take breaks from dating just so I wouldn't become bitter.
+
+Even in July of this year, I was debating if things didn't turn around dating-wise in the next few months or so that I'd trial living in a larger city in part to see if that would improve my dating odds at all. I wasn't particularly optimistic about giving the dating apps another go given my past experiences, but I wanted to be thorough before I considered more drastic measures to improve my dating situation. I won't go into any specific details given the nature of this blog, but let's just say I'm satisfied with the outcome from the first date on this particular roll of going through the apps. 
+
+*So why did it work out for me this time?* 
+
+I got lucky and found someone that had what I was looking for and simultaneously matched what they were looking for. 
+
+Not a very satisfying answer, I know. It would be so easy to say "it's because I mastered *insert random personal development skill*", and while I don't want to discount the benefit of having general skills in communication and emotional regulation, it certainly isn't a prerequisite to be a master in those areas before you can successfully be in a relationship. 
+
+If anything the pressure to constantly grow and develop inevitably sanded down some of the more authentic parts of my personality, and I needed to shed those incredibly high and restrictive expectations to create the environment in which a relationship could grow and blossom.
 
 ## The Bad of 2025
 
-### Peak Social Isolation
+### Death in the Family & Fallout
 
-The life choices I've made in the past few years have done well to set me up in terms of my career and finances, and there's not a decision I can immediately point to and regret. But despite my best efforts to reconnect with old college friends still around the Binghamton area, they settled into relationships and otherwise moved on when I was in Michigan for my last job. I spent a couple of years after my move being overly accommodating to fit their schedules, but realized it just wasn't sustainable. 
+My grandpa was in hospice most of this year and passed this September. This involved my grandma going into a nursing home and selling their home.
 
-Looking back, I was coming at it from a place of loneliness whereas they weren't.
-While I do have friends, I talk with AI far more than any human being (>90% of this is using Github Copilot for my job, but still). My therapist vanished right after I switched jobs due to personal reasons, meaning I had to juggle this life change solo. And the rate at which I see my current friends in person averages between 0-4 times a year. So I spend a *lot* of time alone.
+My dad bore a lot of the brunt of the logistical planning, but unfortunately after my grandpa's death a lot of the stress and drama came to a head and led to a falling out between my dad and his brother. 
 
-I was hoping to make a handful of friends in the area I moved to, and I attended a variety of classes, Meetups, book clubs, gaming groups, and churches in my time here. But I underestimated how difficult it would be to make friends:
+I was never particularly close with my uncle so it didn't exactly sting to be disowned by proxy of him disowning of my dad, but it's disappointing that the situation played out as it did.
 
-* Working remotely
-* Not being in a college town
-* Living in a rural area where "everyone knows everyone" and skews older
-* Post-pandemic
-* Distancing myself from social media like Facebook 
+### AI
 
-I'm a fiercely independent person, and these past few years have removed any lingering doubts I had about doing activities by myself, but I can't say I expected the kid I babysat when I was 12 to get married before I did.
+As someone that uses AI tools at her work daily, I'm not going to argue that there aren't any benefits to the technology. But the societal effects of having generative AI easily available to people is terrifying:
 
-Thankfully, my new job has more flexibility in terms of where I can live than my previous one did, so I'm exploring relocation options that are available in the next couple of years.
+* The subreddit r/MyBoyfriendIsAI feels like a Black Mirror episode
+* Sora 2's capacity for believable video deepfakes makes it hard to trust *anything* on the internet. Video was an okay bellweather against text and image generation advancements in the last couple of years, but that's no longer the case, so we're speedrunning dead internet theory
+* The lack of regulation in the AI space means there's a proliferation in scams and identity theft with voice cloning technology (highly recommend freezing your credit to help protect yourself from these threats!)
+
+There's also other obvious societal effects from AI (thinks kids in school using AI to write their papers) but these recent ones I've learned about this year are snowballing into a break in the social contract. When I was in school we told kids "learn to code" to get a good job, but these generative AI technologies have made it even more difficult to get into tech (and it took me ~500 applications to get into Corewell out of grad school). 
 
 ## Conclusion

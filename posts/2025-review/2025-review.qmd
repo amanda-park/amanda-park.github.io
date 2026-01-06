@@ -1,11 +1,11 @@
 ---
 title: "End of 2025 Review"
 author: "Amanda Park"
-date: '2025-08-11'
+date: '2026-01-06'
 slug: '2025-review'
 categories: ['review']
 description: 'Reflecting on how my 2025 went.'
-draft: true
+draft: false
 ---
 
 2025 was a year with various changes in my life. Here's an overview:
@@ -131,3 +131,5 @@ As someone that uses AI tools at her work daily, I'm not going to argue that the
 There's also other obvious societal effects from AI (thinks kids in school using AI to write their papers) but these recent ones I've learned about this year are snowballing into a break in the social contract. When I was in school we told kids "learn to code" to get a good job, but these generative AI technologies have made it even more difficult to get into tech (and it took me ~500 applications to get into Corewell out of grad school). 
 
 ## Conclusion
+
+I've given up even gently predicting what the next year is going to look like. Hopefully it's not World War 3 coming soon.

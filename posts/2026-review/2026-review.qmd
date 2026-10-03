@@ -1,0 +1,89 @@
+---
+title: "End of 2026 Review"
+author: "Amanda Park"
+date: '2026-12-31'
+slug: '2026-review'
+categories: ['review']
+description: 'Reflecting on how my 2026 went.'
+draft: true
+---
+
+Now it's time for my yearly ritual (on this blog anyway) talking about how my year has gone. Here's an overview that I suspect by this time next year will turn into a straight-up travel post:
+
+## The Good of 2026
+
+### Travel
+
+This year, I was able to start expanding into international travel and visited the following locations:
+
+- Ottawa
+- Ireland & Scotland
+- Toronto
+- NY State Parks
+- Washington
+
+#### Ottawa
+
+Visited for the Winterlude festival in February!
+
+![Ice scupltures](winterlude.jpg)
+
+But also visited the art museum 
+
+![It's a spider.](ottawa_art_museum.jpg)
+
+#### Ireland & Scotland
+
+I took my first international flight this May with a group of friends and my partner! I spent some time in Dublin and then in Edinburgh.
+
+![Dublin's Molly Malone Statue. Got a clear shot of it because our hotel was nearby after a red-eye.](molly_malone.jpg)
+
+![Trinity College, right after opening. It was very peaceful on a Saturday morning.](trinity_college.jpg)
+
+![Dublin's downtown.](dublin.jpg)
+
+We spent some time in Edinburgh, which was more my speed in terms of city size and tourists:
+
+![Arthur's Seat in Holyrood Park. Be careful hiking Arthur's Seat, as it's slippery.](arthurs_seat.jpg)
+
+![Edinburgh Castle, the main attraction of downtown Edinburgh.](edinburgh_castle.jpg)
+
+![The Royal Mile early in the morning. You can see where Diagon Alley's inspiration came from.](royal_mile.jpg)
+
+![Because of going at the end of May, the sun didn't set until 9:30 or so, and it didn't get fully dark (was just twilight late at night).](royal_mile.jpg)
+
+We also did a 14-hour bus tour (do not recommend a bus tour that long) which drove around the main points of Scotland, including the following
+
+![Urquhart Castle with Loch Ness in the background. Surprised how much Loch Ness reminded me of the Finger Lakes, even though I know lochs go much deeper.](loch_ness.jpg)
+
+![Glencoe Valley's mountains.](glencoe_valley.jpg)
+
+#### Toronto
+
+We got lucky hitting Toronto right before a severe heatwave and extreme wildfire smoke. Sometimes it's better to be lucky than to be good.
+
+![Toronto skyline with the CN tower present.](toronto.jpg)
+
+#### NY State Parks
+
+Normally I wouldn't call this out, but I really wanted to show this photo from Letchworth at the end of July.
+
+![They do weekly air balloons at Letchworth State Park; happened to arrive just as it was going over one of the waterfalls before it floated high into the air as we made our way to our cabins.](letchworth_air_balloon.jpg)
+
+#### Washington
+
+### Game Development Progress
+
+After years of inertia
+
+### Thing 3
+
+## The Bad of 2026
+
+### Thing 1
+
+### Thing 2
+
+## Conclusion
+
+Let's see what 2027 brings!

@@ -17,6 +17,7 @@ website:
         url: https://www.github.com/amanda-park
   site-url: https://amanda-park.github.io
   description: "Amanda Park's blog"
+  draft-mode: unlinked
   
 format:
   html:

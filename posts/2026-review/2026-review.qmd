@@ -19,7 +19,6 @@ This year, I was able to start expanding into international travel and visited t
 - Ottawa
 - Ireland & Scotland
 - Toronto
-- NY State Parks
 - Washington
 
 #### Ottawa
@@ -50,7 +49,7 @@ We spent some time in Edinburgh, which was more my speed in terms of city size a
 
 ![The Royal Mile early in the morning. You can see where Diagon Alley's inspiration came from.](royal_mile.jpg)
 
-![Because of going at the end of May, the sun didn't set until 9:30 or so, and it didn't get fully dark (was just twilight late at night).](royal_mile.jpg)
+![Because of going at the end of May, the sun didn't set until 9:30 or so, and it didn't get fully dark (was just twilight late at night).](sunset_calton_hill.jpg)
 
 We also did a 14-hour bus tour (do not recommend a bus tour that long) which drove around the main points of Scotland, including the following
 
@@ -60,23 +59,45 @@ We also did a 14-hour bus tour (do not recommend a bus tour that long) which dro
 
 #### Toronto
 
-We got lucky hitting Toronto right before a severe heatwave and extreme wildfire smoke. Sometimes it's better to be lucky than to be good.
+I got lucky visiting Toronto in July right before a severe heatwave and extreme wildfire smoke. Sometimes it's better to be lucky than to be good.
+
+I hit the aquarium (which played jazz music on a Friday night) and the Royal Ontario Museum while I was there for a brief weekend trip. Didn't really take great pictures of either, but here's a skyview of Toronto with the CN tower:
 
 ![Toronto skyline with the CN tower present.](toronto.jpg)
 
-#### NY State Parks
+#### Washington
+
+I visited Washington for a week in September, spending a couple of days in Seattle with the main attraction being the Space Needle:
+
+![Space Needle.](space_needle.jpg)
+
+Then we traveled around the rest of the western part of the state to sightsee, with the main attraction being visiting my namesake:
+
+![Snoqualmie Falls.](snoqualmie_falls.jpg)
+
+![Mount Rainier is behind here, though you can't see beyond the clouds.](not_quite_mt_rainier.jpg)
+
+![Amanda Park, the real attraction of this trip. The shop in town smelled really bad, and no T-shirts were found. Alas.](amanda_park_town.jpg)
+
+![The world's largest Sitka Spruce.](largest_sitka_spruce.jpg)
+
+![Ruby Beach.](ruby_beach.jpg)
+
+![Hoh Rainforest in Olympic National Park.](hoh_rainforest.jpg)
+
+#### But Wait, There's More
 
 Normally I wouldn't call this out, but I really wanted to show this photo from Letchworth at the end of July.
 
 ![They do weekly air balloons at Letchworth State Park; happened to arrive just as it was going over one of the waterfalls before it floated high into the air as we made our way to our cabins.](letchworth_air_balloon.jpg)
 
-#### Washington
-
 ### Game Development Progress
 
-After years of inertia
+After years of inertia with game development since learning more about it during the COVID lockdown era, I managed to make a silly game for my boyfriend and have started working on coding plugins to make the "dream game" hopefully a little more doable.
 
-### Thing 3
+In hindsight, I realized I didn't really have much interest in making a traditional JRPG with the combat, dungeons, etc. These days I enjoy more tactical style games, so I have shifted to make something more in that style for the time being. This means I need to build out the RPG Maker MZ engine to handle tactical games (which it isn't by default), but so far I've made decent progress on getting the backbone engine set up.
+
+### Stability
 
 ## The Bad of 2026
 
